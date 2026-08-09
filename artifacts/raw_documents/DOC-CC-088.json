@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-CC-088",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-088.pdf",
+  "size_bytes": 100142,
+  "pages": 3,
+  "page_texts": [
+    "Arunodaya Infrastructure \n \n \n \n Work Completion Certificate \n \n \n \n Ref: CC/48/2023/088 \n \n 1. Particulars of the Work \n \n \n \n \n Name of Work \n \n Nature / Category \n \n Contract / Tender Reference \n \n Contract Value (Original) \n \n Completion Date \n \n Defect Liability Period \n \n Agency (Contractor) \n \n GSTIN \n PAN \n \n Contractor's Project Manager \n \n \n 2. Scope of Work Executed\n\n[TABLE]\nArunodaya Infrastructure",
+    "3. Quality Assessment \n \n Satisfactory \n \n \n \n \n \n Parameter Assessment Remarks \n \n \n \n \n \n \n \n \n \n 4. Milestone Status \n \n \n \n \n Milestone Planned Date Actual Date Status \n \n \n \n \n \n \n \n 5. Deficiency / Observation List \n \n \n \n \n \n \n \n \n \n \n 6. Recommendation",
+    "CONFIDENTIAL - FOR AUTHORISED USE ONLY"
+  ],
+  "text": "Arunodaya Infrastructure \n \n \n \n Work Completion Certificate \n \n \n \n Ref: CC/48/2023/088 \n \n 1. Particulars of the Work \n \n \n \n \n Name of Work \n \n Nature / Category \n \n Contract / Tender Reference \n \n Contract Value (Original) \n \n Completion Date \n \n Defect Liability Period \n \n Agency (Contractor) \n \n GSTIN \n PAN \n \n Contractor's Project Manager \n \n \n 2. Scope of Work Executed\n\n[TABLE]\nArunodaya Infrastructure\n\n=== Page Break ===\n\n3. Quality Assessment \n \n Satisfactory \n \n \n \n \n \n Parameter Assessment Remarks \n \n \n \n \n \n \n \n \n \n 4. Milestone Status \n \n \n \n \n Milestone Planned Date Actual Date Status \n \n \n \n \n \n \n \n 5. Deficiency / Observation List \n \n \n \n \n \n \n \n \n \n \n 6. Recommendation\n\n=== Page Break ===\n\nCONFIDENTIAL - FOR AUTHORISED USE ONLY",
+  "tables_detected": 1,
+  "extraction_method": "pdfplumber",
+  "extraction_quality": 0.9815,
+  "char_count": 755
+}

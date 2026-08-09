@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-CC-023",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-023.pdf",
+  "size_bytes": 98175,
+  "pages": 3,
+  "page_texts": [
+    "MAHANADI STEEL CORPORATION \n \n \n \n WORK COMPLETION CERTIFICATE \n \n \n \n Ref: CC/27/2022/023 \n \n 1. PARTICULARS OF THE WORK \n \n \n \n Name of Work \n \n Nature / Category \n Contract / Tender Reference \n \n Contract Value (Original) \n \n Completion Date \n Defect Liability Period \n \n Agency (Contractor) \n GSTIN \n \n PAN \n Contractor's Project Manager \n \n \n 2. SCOPE OF WORK EXECUTED \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 3. QUALITY ASSESSMENT \n \n Very Good\n\n[TABLE]\nName of Work\nNature / Category\nContract / Tender Reference\nContract Value (Original)\nCompletion Date\nDefect Liability Period\nAgency (Contractor)\nGSTIN\nPAN\nContractor's Project Manager",
+    "PARAMETER ASSESSMENT REMARKS \n \n \n \n \n \n \n \n 4. MILESTONE STATUS \n \n \n \n \n MILESTONE PLANNED DATE ACTUAL DATE STATUS \n \n \n \n \n \n \n 5. DEFICIENCY / OBSERVATION LIST \n \n \n \n \n \n \n \n \n \n 6. RECOMMENDATION \n \n \n \n \n \n \n \n \n \n \n \n \n \n CONFIDENTIAL - FOR AUTHORISED USE ONLY\n\n[TABLE]\nPARAMETER | ASSESSMENT | REMARKS\nMILESTONE | PLANNED DATE | ACTUAL DATE | STATUS",
+    ""
+  ],
+  "text": "MAHANADI STEEL CORPORATION \n \n \n \n WORK COMPLETION CERTIFICATE \n \n \n \n Ref: CC/27/2022/023 \n \n 1. PARTICULARS OF THE WORK \n \n \n \n Name of Work \n \n Nature / Category \n Contract / Tender Reference \n \n Contract Value (Original) \n \n Completion Date \n Defect Liability Period \n \n Agency (Contractor) \n GSTIN \n \n PAN \n Contractor's Project Manager \n \n \n 2. SCOPE OF WORK EXECUTED \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 3. QUALITY ASSESSMENT \n \n Very Good\n\n[TABLE]\nName of Work\nNature / Category\nContract / Tender Reference\nContract Value (Original)\nCompletion Date\nDefect Liability Period\nAgency (Contractor)\nGSTIN\nPAN\nContractor's Project Manager\n\n=== Page Break ===\n\nPARAMETER ASSESSMENT REMARKS \n \n \n \n \n \n \n \n 4. MILESTONE STATUS \n \n \n \n \n MILESTONE PLANNED DATE ACTUAL DATE STATUS \n \n \n \n \n \n \n 5. DEFICIENCY / OBSERVATION LIST \n \n \n \n \n \n \n \n \n \n 6. RECOMMENDATION \n \n \n \n \n \n \n \n \n \n \n \n \n \n CONFIDENTIAL - FOR AUTHORISED USE ONLY\n\n[TABLE]\nPARAMETER | ASSESSMENT | REMARKS\nMILESTONE | PLANNED DATE | ACTUAL DATE | STATUS\n\n=== Page Break ===",
+  "tables_detected": 3,
+  "extraction_method": "pdfplumber",
+  "extraction_quality": 0.9798,
+  "char_count": 1036
+}

@@ -1,0 +1,15 @@
+{
+  "doc_id": "DOC-PCERT-034",
+  "doc_type": "personnel_certificate",
+  "filename": "personnel_certificate/DOC-PCERT-034.pdf",
+  "size_bytes": 38429,
+  "pages": 1,
+  "page_texts": [
+    "PMI \n Professional Certification Body\n \n PMP \n \n \n This credential is conferred upon \n Suresh Chopra \n \n of National Infrastructure Corp. Ltd. \n having satisfied the examination and experience requirements prescribed for the credential.\n \n \n Certificate No. PMI-200034 \n Issued 10 Mar 2021 \n \n Valid Through 31 Aug 2027 \n \n \n \n Registrar, PMI \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n DOC-PCERT-034 Page 1 of 1\n\n[TABLE]\nCertificate No. | PMI-200034\nIssued | 10 Mar 2021\nValid Through | 31 Aug 2027"
+  ],
+  "text": "PMI \n Professional Certification Body\n \n PMP \n \n \n This credential is conferred upon \n Suresh Chopra \n \n of National Infrastructure Corp. Ltd. \n having satisfied the examination and experience requirements prescribed for the credential.\n \n \n Certificate No. PMI-200034 \n Issued 10 Mar 2021 \n \n Valid Through 31 Aug 2027 \n \n \n \n Registrar, PMI \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n DOC-PCERT-034 Page 1 of 1\n\n[TABLE]\nCertificate No. | PMI-200034\nIssued | 10 Mar 2021\nValid Through | 31 Aug 2027",
+  "tables_detected": 1,
+  "extraction_method": "pdfplumber",
+  "extraction_quality": 0.9906,
+  "char_count": 531
+}

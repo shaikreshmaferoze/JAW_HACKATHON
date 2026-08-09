@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-CC-145",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-145.pdf",
+  "size_bytes": 76491,
+  "pages": 3,
+  "page_texts": [
+    "Mega Infrastructure Authority \n \n \n \n \n Work Completion Certificate \n \n \n \n Ref: CC/16/2025/145 \n \n 1. Particulars of the Work \n \n \n \n \n Name of Work \n \n Nature / Category \n \n Contract / Tender Reference \n \n Contract Value (Original) \n \n Completion Date \n \n Defect Liability Period \n \n Agency (Contractor) \n GSTIN \n \n PAN \n \n Contractor's Project Manager \n \n \n 2. Scope of Work Executed\n\n[TABLE]\nName of Work\nNature / Category\nContract / Tender Reference\nContract Value (Original)\nCompletion Date\nDefect Liability Period\nAgency (Contractor)\nGSTIN\nPAN\nContractor's Project Manager",
+    "3. Quality Assessment \n \n Good \n \n \n \n \n \n Parameter Assessment Remarks \n \n \n \n \n \n \n \n \n \n 4. Milestone Status \n \n \n \n \n \n Milestone Planned Date Actual Date Status \n \n \n \n \n \n \n \n 5. Deficiency / Observation List \n \n \n \n \n \n \n \n \n \n \n \n 6. Recommendation\n\n[TABLE]\nParameter | Assessment | Remarks\nMilestone | Planned Date | Actual Date | Status",
+    "CONFIDENTIAL - FOR AUTHORISED USE ONLY"
+  ],
+  "text": "Mega Infrastructure Authority \n \n \n \n \n Work Completion Certificate \n \n \n \n Ref: CC/16/2025/145 \n \n 1. Particulars of the Work \n \n \n \n \n Name of Work \n \n Nature / Category \n \n Contract / Tender Reference \n \n Contract Value (Original) \n \n Completion Date \n \n Defect Liability Period \n \n Agency (Contractor) \n GSTIN \n \n PAN \n \n Contractor's Project Manager \n \n \n 2. Scope of Work Executed\n\n[TABLE]\nName of Work\nNature / Category\nContract / Tender Reference\nContract Value (Original)\nCompletion Date\nDefect Liability Period\nAgency (Contractor)\nGSTIN\nPAN\nContractor's Project Manager\n\n=== Page Break ===\n\n3. Quality Assessment \n \n Good \n \n \n \n \n \n Parameter Assessment Remarks \n \n \n \n \n \n \n \n \n \n 4. Milestone Status \n \n \n \n \n \n Milestone Planned Date Actual Date Status \n \n \n \n \n \n \n \n 5. Deficiency / Observation List \n \n \n \n \n \n \n \n \n \n \n \n 6. Recommendation\n\n[TABLE]\nParameter | Assessment | Remarks\nMilestone | Planned Date | Actual Date | Status\n\n=== Page Break ===\n\nCONFIDENTIAL - FOR AUTHORISED USE ONLY",
+  "tables_detected": 3,
+  "extraction_method": "pdfplumber",
+  "extraction_quality": 0.9791,
+  "char_count": 1007
+}

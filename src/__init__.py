@@ -1,0 +1,2 @@
+"""Bid intelligence solver package."""
+

@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-CC-089",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-089.pdf",
+  "size_bytes": 94454,
+  "pages": 3,
+  "page_texts": [
+    "Trishakti Power Generation Corporation \n \n \n \n \n WORK COMPLETION CERTIFICATE \n \n \n Ref: CC/59/2023/089 \n \n 1. PARTICULARS OF THE WORK \n \n \n \n \n Name of Work \n \n Nature / Category \n \n Contract / Tender Reference \n \n Contract Value (Original) \n Completion Date \n \n Defect Liability Period \n \n Agency (Contractor) \n \n GSTIN \n PAN \n \n Contractor's Project Manager \n \n 2. SCOPE OF WORK EXECUTED\n\n[TABLE]\nName of Work\nNature / Category\nContract / Tender Reference\nContract Value (Original)\nCompletion Date\nDefect Liability Period\nAgency (Contractor)\nGSTIN\nPAN\nContractor's Project Manager",
+    "3. QUALITY ASSESSMENT \n \n Satisfactory \n \n \n \n \n \n Parameter Assessment Remarks \n \n \n \n \n \n \n \n \n 4. MILESTONE STATUS \n \n \n \n \n Milestone Planned Date Actual Date Status \n \n \n \n \n \n \n \n 5. DEFICIENCY / OBSERVATION LIST \n \n \n \n \n \n \n \n \n \n \n 6. RECOMMENDATION \n \n \n \n \n \n \n \n \n \n \n CONFIDENTIAL - FOR AUTHORISED USE ONLY\n\n[TABLE]\nParameter | Assessment | Remarks\nMilestone | Planned Date | Actual Date | Status",
+    ""
+  ],
+  "text": "Trishakti Power Generation Corporation \n \n \n \n \n WORK COMPLETION CERTIFICATE \n \n \n Ref: CC/59/2023/089 \n \n 1. PARTICULARS OF THE WORK \n \n \n \n \n Name of Work \n \n Nature / Category \n \n Contract / Tender Reference \n \n Contract Value (Original) \n Completion Date \n \n Defect Liability Period \n \n Agency (Contractor) \n \n GSTIN \n PAN \n \n Contractor's Project Manager \n \n 2. SCOPE OF WORK EXECUTED\n\n[TABLE]\nName of Work\nNature / Category\nContract / Tender Reference\nContract Value (Original)\nCompletion Date\nDefect Liability Period\nAgency (Contractor)\nGSTIN\nPAN\nContractor's Project Manager\n\n=== Page Break ===\n\n3. QUALITY ASSESSMENT \n \n Satisfactory \n \n \n \n \n \n Parameter Assessment Remarks \n \n \n \n \n \n \n \n \n 4. MILESTONE STATUS \n \n \n \n \n Milestone Planned Date Actual Date Status \n \n \n \n \n \n \n \n 5. DEFICIENCY / OBSERVATION LIST \n \n \n \n \n \n \n \n \n \n \n 6. RECOMMENDATION \n \n \n \n \n \n \n \n \n \n \n CONFIDENTIAL - FOR AUTHORISED USE ONLY\n\n[TABLE]\nParameter | Assessment | Remarks\nMilestone | Planned Date | Actual Date | Status\n\n=== Page Break ===",
+  "tables_detected": 3,
+  "extraction_method": "pdfplumber",
+  "extraction_quality": 0.9797,
+  "char_count": 1033
+}

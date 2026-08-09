@@ -1,0 +1,2708 @@
+{
+  "doc_id": "DOC-XL-TB",
+  "doc_type": "trial_balance_workbook",
+  "filename": "workbooks/Trial_Balance_by_Year.xlsx",
+  "size_bytes": 17948,
+  "pages": null,
+  "sheets": [
+    {
+      "name": "TB 2019-20",
+      "max_row": 26,
+      "max_column": 4,
+      "rows": [
+        [
+          "Account",
+          "Debit (INR)",
+          "Credit (INR)",
+          "Balance (INR)"
+        ],
+        [
+          "Accounts Payable",
+          146077373,
+          235077943,
+          -89000570
+        ],
+        [
+          "Accounts Receivable",
+          568355464,
+          195028126,
+          373327338
+        ],
+        [
+          "Accumulated Depreciation",
+          0,
+          488390000,
+          -488390000
+        ],
+        [
+          "Bank",
+          603458664,
+          155154696,
+          448303968
+        ],
+        [
+          "Contract Revenue — Bridges & Flyovers",
+          0,
+          168730374,
+          -168730374
+        ],
+        [
+          "Contract Revenue — Buildings",
+          0,
+          63036432,
+          -63036432
+        ],
+        [
+          "Contract Revenue — Industrial EPC",
+          0,
+          14146485,
+          -14146485
+        ],
+        [
+          "Contract Revenue — Sewerage & Drainage",
+          0,
+          70471264,
+          -70471264
+        ],
+        [
+          "Contract Revenue — Water Treatment",
+          0,
+          165272626,
+          -165272626
+        ],
+        [
+          "Depreciation Expense",
+          488390000,
+          0,
+          488390000
+        ],
+        [
+          "Equipment Hire Charges",
+          17026479,
+          0,
+          17026479
+        ],
+        [
+          "GST Input Credit",
+          35859344,
+          36186138,
+          -326794
+        ],
+        [
+          "Materials Consumed",
+          58397734,
+          0,
+          58397734
+        ],
+        [
+          "Output GST Payable",
+          36186138,
+          86698283,
+          -50512145
+        ],
+        [
+          "Plant & Machinery",
+          4883900000,
+          0,
+          4883900000
+        ],
+        [
+          "Retention Money Receivable",
+          8263903,
+          0,
+          8263903
+        ],
+        [
+          "Salaries & Site Overheads",
+          9633143,
+          0,
+          9633143
+        ],
+        [
+          "Share Capital & Reserves",
+          0,
+          5283900000,
+          -5283900000
+        ],
+        [
+          "Site Services",
+          77281790,
+          0,
+          77281790
+        ],
+        [
+          "Specialist Works",
+          1872446,
+          0,
+          1872446
+        ],
+        [
+          "Subcontracting Charges",
+          44640150,
+          0,
+          44640150
+        ],
+        [
+          "TDS Payable",
+          1920064,
+          2475884,
+          -555820
+        ],
+        [
+          "TDS Receivable",
+          3305559,
+          0,
+          3305559
+        ],
+        [
+          "Working Capital Borrowings",
+          0,
+          20000000,
+          -20000000
+        ],
+        [
+          "TOTAL",
+          "=SUM(B2:B25)",
+          "=SUM(C2:C25)",
+          "=SUM(D2:D25)"
+        ]
+      ],
+      "values": [
+        [
+          "Account",
+          "Debit (INR)",
+          "Credit (INR)",
+          "Balance (INR)"
+        ],
+        [
+          "Accounts Payable",
+          146077373,
+          235077943,
+          -89000570
+        ],
+        [
+          "Accounts Receivable",
+          568355464,
+          195028126,
+          373327338
+        ],
+        [
+          "Accumulated Depreciation",
+          0,
+          488390000,
+          -488390000
+        ],
+        [
+          "Bank",
+          603458664,
+          155154696,
+          448303968
+        ],
+        [
+          "Contract Revenue — Bridges & Flyovers",
+          0,
+          168730374,
+          -168730374
+        ],
+        [
+          "Contract Revenue — Buildings",
+          0,
+          63036432,
+          -63036432
+        ],
+        [
+          "Contract Revenue — Industrial EPC",
+          0,
+          14146485,
+          -14146485
+        ],
+        [
+          "Contract Revenue — Sewerage & Drainage",
+          0,
+          70471264,
+          -70471264
+        ],
+        [
+          "Contract Revenue — Water Treatment",
+          0,
+          165272626,
+          -165272626
+        ],
+        [
+          "Depreciation Expense",
+          488390000,
+          0,
+          488390000
+        ],
+        [
+          "Equipment Hire Charges",
+          17026479,
+          0,
+          17026479
+        ],
+        [
+          "GST Input Credit",
+          35859344,
+          36186138,
+          -326794
+        ],
+        [
+          "Materials Consumed",
+          58397734,
+          0,
+          58397734
+        ],
+        [
+          "Output GST Payable",
+          36186138,
+          86698283,
+          -50512145
+        ],
+        [
+          "Plant & Machinery",
+          4883900000,
+          0,
+          4883900000
+        ],
+        [
+          "Retention Money Receivable",
+          8263903,
+          0,
+          8263903
+        ],
+        [
+          "Salaries & Site Overheads",
+          9633143,
+          0,
+          9633143
+        ],
+        [
+          "Share Capital & Reserves",
+          0,
+          5283900000,
+          -5283900000
+        ],
+        [
+          "Site Services",
+          77281790,
+          0,
+          77281790
+        ],
+        [
+          "Specialist Works",
+          1872446,
+          0,
+          1872446
+        ],
+        [
+          "Subcontracting Charges",
+          44640150,
+          0,
+          44640150
+        ],
+        [
+          "TDS Payable",
+          1920064,
+          2475884,
+          -555820
+        ],
+        [
+          "TDS Receivable",
+          3305559,
+          0,
+          3305559
+        ],
+        [
+          "Working Capital Borrowings",
+          0,
+          20000000,
+          -20000000
+        ],
+        [
+          "TOTAL",
+          null,
+          null,
+          null
+        ]
+      ],
+      "formulas": [
+        {
+          "cell": "B26",
+          "formula": "=SUM(B2:B25)"
+        },
+        {
+          "cell": "C26",
+          "formula": "=SUM(C2:C25)"
+        },
+        {
+          "cell": "D26",
+          "formula": "=SUM(D2:D25)"
+        }
+      ]
+    },
+    {
+      "name": "TB 2020-21",
+      "max_row": 28,
+      "max_column": 4,
+      "rows": [
+        [
+          "Account",
+          "Debit (INR)",
+          "Credit (INR)",
+          "Balance (INR)"
+        ],
+        [
+          "Accounts Payable",
+          1052543471,
+          1555872374,
+          -503328903
+        ],
+        [
+          "Accounts Receivable",
+          2363453573,
+          1318485980,
+          1044967593
+        ],
+        [
+          "Accumulated Depreciation",
+          0,
+          499540000,
+          -499540000
+        ],
+        [
+          "Bank",
+          1240859310,
+          1223880925,
+          16978385
+        ],
+        [
+          "Contract Revenue — Bridges & Flyovers",
+          0,
+          273228981,
+          -273228981
+        ],
+        [
+          "Contract Revenue — Buildings",
+          2199678,
+          163366440,
+          -161166762
+        ],
+        [
+          "Contract Revenue — Expressways",
+          0,
+          245501316,
+          -245501316
+        ],
+        [
+          "Contract Revenue — Industrial EPC",
+          887236,
+          28292970,
+          -27405734
+        ],
+        [
+          "Contract Revenue — Irrigation",
+          1475002,
+          49684764,
+          -48209762
+        ],
+        [
+          "Contract Revenue — Roads & Highways",
+          0,
+          20355665,
+          -20355665
+        ],
+        [
+          "Contract Revenue — Sewerage & Drainage",
+          0,
+          462328339,
+          -462328339
+        ],
+        [
+          "Contract Revenue — Tunnels",
+          3521386,
+          214423294,
+          -210901908
+        ],
+        [
+          "Contract Revenue — Water Treatment",
+          3739277,
+          545745014,
+          -542005737
+        ],
+        [
+          "Depreciation Expense",
+          499540000,
+          0,
+          499540000
+        ],
+        [
+          "Equipment Hire Charges",
+          369887430,
+          0,
+          369887430
+        ],
+        [
+          "GST Input Credit",
+          237336442,
+          287850858,
+          -50514416
+        ],
+        [
+          "Materials Consumed",
+          142385332,
+          0,
+          142385332
+        ],
+        [
+          "Output GST Payable",
+          289978920,
+          360526790,
+          -70547870
+        ],
+        [
+          "Plant & Machinery",
+          111500000,
+          0,
+          111500000
+        ],
+        [
+          "Retention Money Receivable",
+          41565278,
+          0,
+          41565278
+        ],
+        [
+          "Salaries & Site Overheads",
+          60207982,
+          0,
+          60207982
+        ],
+        [
+          "Site Services",
+          361599928,
+          0,
+          361599928
+        ],
+        [
+          "Specialist Works",
+          287206399,
+          0,
+          287206399
+        ],
+        [
+          "Subcontracting Charges",
+          157456843,
+          0,
+          157456843
+        ],
+        [
+          "TDS Payable",
+          17469173,
+          17839701,
+          -370528
+        ],
+        [
+          "TDS Receivable",
+          22110751,
+          0,
+          22110751
+        ],
+        [
+          "TOTAL",
+          "=SUM(B2:B27)",
+          "=SUM(C2:C27)",
+          "=SUM(D2:D27)"
+        ]
+      ],
+      "values": [
+        [
+          "Account",
+          "Debit (INR)",
+          "Credit (INR)",
+          "Balance (INR)"
+        ],
+        [
+          "Accounts Payable",
+          1052543471,
+          1555872374,
+          -503328903
+        ],
+        [
+          "Accounts Receivable",
+          2363453573,
+          1318485980,
+          1044967593
+        ],
+        [
+          "Accumulated Depreciation",
+          0,
+          499540000,
+          -499540000
+        ],
+        [
+          "Bank",
+          1240859310,
+          1223880925,
+          16978385
+        ],
+        [
+          "Contract Revenue — Bridges & Flyovers",
+          0,
+          273228981,
+          -273228981
+        ],
+        [
+          "Contract Revenue — Buildings",
+          2199678,
+          163366440,
+          -161166762
+        ],
+        [
+          "Contract Revenue — Expressways",
+          0,
+          245501316,
+          -245501316
+        ],
+        [
+          "Contract Revenue — Industrial EPC",
+          887236,
+          28292970,
+          -27405734
+        ],
+        [
+          "Contract Revenue — Irrigation",
+          1475002,
+          49684764,
+          -48209762
+        ],
+        [
+          "Contract Revenue — Roads & Highways",
+          0,
+          20355665,
+          -20355665
+        ],
+        [
+          "Contract Revenue — Sewerage & Drainage",
+          0,
+          462328339,
+          -462328339
+        ],
+        [
+          "Contract Revenue — Tunnels",
+          3521386,
+          214423294,
+          -210901908
+        ],
+        [
+          "Contract Revenue — Water Treatment",
+          3739277,
+          545745014,
+          -542005737
+        ],
+        [
+          "Depreciation Expense",
+          499540000,
+          0,
+          499540000
+        ],
+        [
+          "Equipment Hire Charges",
+          369887430,
+          0,
+          369887430
+        ],
+        [
+          "GST Input Credit",
+          237336442,
+          287850858,
+          -50514416
+        ],
+        [
+          "Materials Consumed",
+          142385332,
+          0,
+          142385332
+        ],
+        [
+          "Output GST Payable",
+          289978920,
+          360526790,
+          -70547870
+        ],
+        [
+          "Plant & Machinery",
+          111500000,
+          0,
+          111500000
+        ],
+        [
+          "Retention Money Receivable",
+          41565278,
+          0,
+          41565278
+        ],
+        [
+          "Salaries & Site Overheads",
+          60207982,
+          0,
+          60207982
+        ],
+        [
+          "Site Services",
+          361599928,
+          0,
+          361599928
+        ],
+        [
+          "Specialist Works",
+          287206399,
+          0,
+          287206399
+        ],
+        [
+          "Subcontracting Charges",
+          157456843,
+          0,
+          157456843
+        ],
+        [
+          "TDS Payable",
+          17469173,
+          17839701,
+          -370528
+        ],
+        [
+          "TDS Receivable",
+          22110751,
+          0,
+          22110751
+        ],
+        [
+          "TOTAL",
+          null,
+          null,
+          null
+        ]
+      ],
+      "formulas": [
+        {
+          "cell": "B28",
+          "formula": "=SUM(B2:B27)"
+        },
+        {
+          "cell": "C28",
+          "formula": "=SUM(C2:C27)"
+        },
+        {
+          "cell": "D28",
+          "formula": "=SUM(D2:D27)"
+        }
+      ]
+    },
+    {
+      "name": "TB 2021-22",
+      "max_row": 31,
+      "max_column": 4,
+      "rows": [
+        [
+          "Account",
+          "Debit (INR)",
+          "Credit (INR)",
+          "Balance (INR)"
+        ],
+        [
+          "Accounts Payable",
+          1511895194,
+          1928851349,
+          -416956155
+        ],
+        [
+          "Accounts Receivable",
+          3900995965,
+          3068222002,
+          832773963
+        ],
+        [
+          "Accumulated Depreciation",
+          0,
+          652180000,
+          -652180000
+        ],
+        [
+          "Bank",
+          2866011014,
+          2390152223,
+          475858791
+        ],
+        [
+          "Contract Revenue — Bridges & Flyovers",
+          0,
+          267182789,
+          -267182789
+        ],
+        [
+          "Contract Revenue — Buildings",
+          0,
+          146345472,
+          -146345472
+        ],
+        [
+          "Contract Revenue — Expressways",
+          3930800,
+          872030171,
+          -868099371
+        ],
+        [
+          "Contract Revenue — Industrial EPC",
+          0,
+          145781896,
+          -145781896
+        ],
+        [
+          "Contract Revenue — Irrigation",
+          0,
+          99369528,
+          -99369528
+        ],
+        [
+          "Contract Revenue — Large Bridges",
+          8566418,
+          202303929,
+          -193737511
+        ],
+        [
+          "Contract Revenue — Roads & Highways",
+          0,
+          99722694,
+          -99722694
+        ],
+        [
+          "Contract Revenue — Sewerage & Drainage",
+          13117011,
+          468693669,
+          -455576658
+        ],
+        [
+          "Contract Revenue — Small Buildings",
+          0,
+          22411273,
+          -22411273
+        ],
+        [
+          "Contract Revenue — Tunnels",
+          8218633,
+          623249982,
+          -615031349
+        ],
+        [
+          "Contract Revenue — Water Treatment",
+          5185334,
+          358837421,
+          -353652087
+        ],
+        [
+          "Depreciation Expense",
+          652180000,
+          0,
+          652180000
+        ],
+        [
+          "Equipment Hire Charges",
+          381044057,
+          0,
+          381044057
+        ],
+        [
+          "GST Input Credit",
+          294231536,
+          512641631,
+          -218410095
+        ],
+        [
+          "Materials Consumed",
+          290426610,
+          0,
+          290426610
+        ],
+        [
+          "Output GST Payable",
+          519664903,
+          595067141,
+          -75402238
+        ],
+        [
+          "Plant & Machinery",
+          1526400000,
+          0,
+          1526400000
+        ],
+        [
+          "Retention Money Receivable",
+          104946159,
+          0,
+          104946159
+        ],
+        [
+          "Salaries & Site Overheads",
+          724615958,
+          0,
+          724615958
+        ],
+        [
+          "Site Services",
+          379847332,
+          0,
+          379847332
+        ],
+        [
+          "Specialist Works",
+          342082071,
+          0,
+          342082071
+        ],
+        [
+          "Subcontracting Charges",
+          241219743,
+          0,
+          241219743
+        ],
+        [
+          "TDS Payable",
+          24366386,
+          25625315,
+          -1258929
+        ],
+        [
+          "TDS Receivable",
+          51223361,
+          0,
+          51223361
+        ],
+        [
+          "Term Loans (Secured)",
+          0,
+          1371500000,
+          -1371500000
+        ],
+        [
+          "TOTAL",
+          "=SUM(B2:B30)",
+          "=SUM(C2:C30)",
+          "=SUM(D2:D30)"
+        ]
+      ],
+      "values": [
+        [
+          "Account",
+          "Debit (INR)",
+          "Credit (INR)",
+          "Balance (INR)"
+        ],
+        [
+          "Accounts Payable",
+          1511895194,
+          1928851349,
+          -416956155
+        ],
+        [
+          "Accounts Receivable",
+          3900995965,
+          3068222002,
+          832773963
+        ],
+        [
+          "Accumulated Depreciation",
+          0,
+          652180000,
+          -652180000
+        ],
+        [
+          "Bank",
+          2866011014,
+          2390152223,
+          475858791
+        ],
+        [
+          "Contract Revenue — Bridges & Flyovers",
+          0,
+          267182789,
+          -267182789
+        ],
+        [
+          "Contract Revenue — Buildings",
+          0,
+          146345472,
+          -146345472
+        ],
+        [
+          "Contract Revenue — Expressways",
+          3930800,
+          872030171,
+          -868099371
+        ],
+        [
+          "Contract Revenue — Industrial EPC",
+          0,
+          145781896,
+          -145781896
+        ],
+        [
+          "Contract Revenue — Irrigation",
+          0,
+          99369528,
+          -99369528
+        ],
+        [
+          "Contract Revenue — Large Bridges",
+          8566418,
+          202303929,
+          -193737511
+        ],
+        [
+          "Contract Revenue — Roads & Highways",
+          0,
+          99722694,
+          -99722694
+        ],
+        [
+          "Contract Revenue — Sewerage & Drainage",
+          13117011,
+          468693669,
+          -455576658
+        ],
+        [
+          "Contract Revenue — Small Buildings",
+          0,
+          22411273,
+          -22411273
+        ],
+        [
+          "Contract Revenue — Tunnels",
+          8218633,
+          623249982,
+          -615031349
+        ],
+        [
+          "Contract Revenue — Water Treatment",
+          5185334,
+          358837421,
+          -353652087
+        ],
+        [
+          "Depreciation Expense",
+          652180000,
+          0,
+          652180000
+        ],
+        [
+          "Equipment Hire Charges",
+          381044057,
+          0,
+          381044057
+        ],
+        [
+          "GST Input Credit",
+          294231536,
+          512641631,
+          -218410095
+        ],
+        [
+          "Materials Consumed",
+          290426610,
+          0,
+          290426610
+        ],
+        [
+          "Output GST Payable",
+          519664903,
+          595067141,
+          -75402238
+        ],
+        [
+          "Plant & Machinery",
+          1526400000,
+          0,
+          1526400000
+        ],
+        [
+          "Retention Money Receivable",
+          104946159,
+          0,
+          104946159
+        ],
+        [
+          "Salaries & Site Overheads",
+          724615958,
+          0,
+          724615958
+        ],
+        [
+          "Site Services",
+          379847332,
+          0,
+          379847332
+        ],
+        [
+          "Specialist Works",
+          342082071,
+          0,
+          342082071
+        ],
+        [
+          "Subcontracting Charges",
+          241219743,
+          0,
+          241219743
+        ],
+        [
+          "TDS Payable",
+          24366386,
+          25625315,
+          -1258929
+        ],
+        [
+          "TDS Receivable",
+          51223361,
+          0,
+          51223361
+        ],
+        [
+          "Term Loans (Secured)",
+          0,
+          1371500000,
+          -1371500000
+        ],
+        [
+          "TOTAL",
+          null,
+          null,
+          null
+        ]
+      ],
+      "formulas": [
+        {
+          "cell": "B31",
+          "formula": "=SUM(B2:B30)"
+        },
+        {
+          "cell": "C31",
+          "formula": "=SUM(C2:C30)"
+        },
+        {
+          "cell": "D31",
+          "formula": "=SUM(D2:D30)"
+        }
+      ]
+    },
+    {
+      "name": "TB 2022-23",
+      "max_row": 32,
+      "max_column": 4,
+      "rows": [
+        [
+          "Account",
+          "Debit (INR)",
+          "Credit (INR)",
+          "Balance (INR)"
+        ],
+        [
+          "Accounts Payable",
+          2156277104,
+          2658154937,
+          -501877833
+        ],
+        [
+          "Accounts Receivable",
+          5059596285,
+          3898401370,
+          1161194915
+        ],
+        [
+          "Accumulated Depreciation",
+          0,
+          743690000,
+          -743690000
+        ],
+        [
+          "Bank",
+          3653523150,
+          3223825852,
+          429697298
+        ],
+        [
+          "Contract Revenue — Bridges & Flyovers",
+          1146842,
+          74426028,
+          -73279186
+        ],
+        [
+          "Contract Revenue — Buildings",
+          0,
+          181691960,
+          -181691960
+        ],
+        [
+          "Contract Revenue — Expressways",
+          15420137,
+          1151569241,
+          -1136149104
+        ],
+        [
+          "Contract Revenue — Industrial EPC",
+          0,
+          305735173,
+          -305735173
+        ],
+        [
+          "Contract Revenue — Irrigation",
+          0,
+          169717821,
+          -169717821
+        ],
+        [
+          "Contract Revenue — Large Bridges",
+          11511431,
+          855949562,
+          -844438131
+        ],
+        [
+          "Contract Revenue — Roads & Highways",
+          0,
+          151834898,
+          -151834898
+        ],
+        [
+          "Contract Revenue — Roads Maintenance",
+          0,
+          50566904,
+          -50566904
+        ],
+        [
+          "Contract Revenue — Sewerage & Drainage",
+          2564641,
+          149722593,
+          -147157952
+        ],
+        [
+          "Contract Revenue — Small Buildings",
+          480436,
+          31957730,
+          -31477294
+        ],
+        [
+          "Contract Revenue — Tunnels",
+          0,
+          691786190,
+          -691786190
+        ],
+        [
+          "Contract Revenue — Water Treatment",
+          0,
+          472835410,
+          -472835410
+        ],
+        [
+          "Depreciation Expense",
+          743690000,
+          0,
+          743690000
+        ],
+        [
+          "Equipment Hire Charges",
+          521129497,
+          0,
+          521129497
+        ],
+        [
+          "GST Input Credit",
+          405481222,
+          824083744,
+          -418602522
+        ],
+        [
+          "Materials Consumed",
+          214049514,
+          0,
+          214049514
+        ],
+        [
+          "Output GST Payable",
+          829685969,
+          771802775,
+          57883194
+        ],
+        [
+          "Plant & Machinery",
+          915100000,
+          0,
+          915100000
+        ],
+        [
+          "Retention Money Receivable",
+          142700426,
+          0,
+          142700426
+        ],
+        [
+          "Salaries & Site Overheads",
+          979402139,
+          0,
+          979402139
+        ],
+        [
+          "Site Services",
+          633845683,
+          0,
+          633845683
+        ],
+        [
+          "Specialist Works",
+          403137849,
+          0,
+          403137849
+        ],
+        [
+          "Subcontracting Charges",
+          480511172,
+          0,
+          480511172
+        ],
+        [
+          "TDS Payable",
+          36093651,
+          36547042,
+          -453391
+        ],
+        [
+          "TDS Receivable",
+          65452082,
+          0,
+          65452082
+        ],
+        [
+          "Term Loans (Secured)",
+          0,
+          826500000,
+          -826500000
+        ],
+        [
+          "TOTAL",
+          "=SUM(B2:B31)",
+          "=SUM(C2:C31)",
+          "=SUM(D2:D31)"
+        ]
+      ],
+      "values": [
+        [
+          "Account",
+          "Debit (INR)",
+          "Credit (INR)",
+          "Balance (INR)"
+        ],
+        [
+          "Accounts Payable",
+          2156277104,
+          2658154937,
+          -501877833
+        ],
+        [
+          "Accounts Receivable",
+          5059596285,
+          3898401370,
+          1161194915
+        ],
+        [
+          "Accumulated Depreciation",
+          0,
+          743690000,
+          -743690000
+        ],
+        [
+          "Bank",
+          3653523150,
+          3223825852,
+          429697298
+        ],
+        [
+          "Contract Revenue — Bridges & Flyovers",
+          1146842,
+          74426028,
+          -73279186
+        ],
+        [
+          "Contract Revenue — Buildings",
+          0,
+          181691960,
+          -181691960
+        ],
+        [
+          "Contract Revenue — Expressways",
+          15420137,
+          1151569241,
+          -1136149104
+        ],
+        [
+          "Contract Revenue — Industrial EPC",
+          0,
+          305735173,
+          -305735173
+        ],
+        [
+          "Contract Revenue — Irrigation",
+          0,
+          169717821,
+          -169717821
+        ],
+        [
+          "Contract Revenue — Large Bridges",
+          11511431,
+          855949562,
+          -844438131
+        ],
+        [
+          "Contract Revenue — Roads & Highways",
+          0,
+          151834898,
+          -151834898
+        ],
+        [
+          "Contract Revenue — Roads Maintenance",
+          0,
+          50566904,
+          -50566904
+        ],
+        [
+          "Contract Revenue — Sewerage & Drainage",
+          2564641,
+          149722593,
+          -147157952
+        ],
+        [
+          "Contract Revenue — Small Buildings",
+          480436,
+          31957730,
+          -31477294
+        ],
+        [
+          "Contract Revenue — Tunnels",
+          0,
+          691786190,
+          -691786190
+        ],
+        [
+          "Contract Revenue — Water Treatment",
+          0,
+          472835410,
+          -472835410
+        ],
+        [
+          "Depreciation Expense",
+          743690000,
+          0,
+          743690000
+        ],
+        [
+          "Equipment Hire Charges",
+          521129497,
+          0,
+          521129497
+        ],
+        [
+          "GST Input Credit",
+          405481222,
+          824083744,
+          -418602522
+        ],
+        [
+          "Materials Consumed",
+          214049514,
+          0,
+          214049514
+        ],
+        [
+          "Output GST Payable",
+          829685969,
+          771802775,
+          57883194
+        ],
+        [
+          "Plant & Machinery",
+          915100000,
+          0,
+          915100000
+        ],
+        [
+          "Retention Money Receivable",
+          142700426,
+          0,
+          142700426
+        ],
+        [
+          "Salaries & Site Overheads",
+          979402139,
+          0,
+          979402139
+        ],
+        [
+          "Site Services",
+          633845683,
+          0,
+          633845683
+        ],
+        [
+          "Specialist Works",
+          403137849,
+          0,
+          403137849
+        ],
+        [
+          "Subcontracting Charges",
+          480511172,
+          0,
+          480511172
+        ],
+        [
+          "TDS Payable",
+          36093651,
+          36547042,
+          -453391
+        ],
+        [
+          "TDS Receivable",
+          65452082,
+          0,
+          65452082
+        ],
+        [
+          "Term Loans (Secured)",
+          0,
+          826500000,
+          -826500000
+        ],
+        [
+          "TOTAL",
+          null,
+          null,
+          null
+        ]
+      ],
+      "formulas": [
+        {
+          "cell": "B32",
+          "formula": "=SUM(B2:B31)"
+        },
+        {
+          "cell": "C32",
+          "formula": "=SUM(C2:C31)"
+        },
+        {
+          "cell": "D32",
+          "formula": "=SUM(D2:D31)"
+        }
+      ]
+    },
+    {
+      "name": "TB 2023-24",
+      "max_row": 30,
+      "max_column": 4,
+      "rows": [
+        [
+          "Account",
+          "Debit (INR)",
+          "Credit (INR)",
+          "Balance (INR)"
+        ],
+        [
+          "Accounts Payable",
+          1450913148,
+          1807177578,
+          -356264430
+        ],
+        [
+          "Accounts Receivable",
+          2857754622,
+          2300636315,
+          557118307
+        ],
+        [
+          "Accumulated Depreciation",
+          0,
+          755260000,
+          -755260000
+        ],
+        [
+          "Bank",
+          2165895505,
+          1685700742,
+          480194763
+        ],
+        [
+          "Contract Revenue — Bridges & Flyovers",
+          0,
+          41478662,
+          -41478662
+        ],
+        [
+          "Contract Revenue — Buildings",
+          3871403,
+          202423504,
+          -198552101
+        ],
+        [
+          "Contract Revenue — Expressways",
+          0,
+          56312692,
+          -56312692
+        ],
+        [
+          "Contract Revenue — Industrial EPC",
+          0,
+          179162761,
+          -179162761
+        ],
+        [
+          "Contract Revenue — Irrigation",
+          1976954,
+          358578132,
+          -356601178
+        ],
+        [
+          "Contract Revenue — Large Bridges",
+          0,
+          823193916,
+          -823193916
+        ],
+        [
+          "Contract Revenue — Roads & Highways",
+          3632325,
+          168575353,
+          -164943028
+        ],
+        [
+          "Contract Revenue — Roads Maintenance",
+          0,
+          28922113,
+          -28922113
+        ],
+        [
+          "Contract Revenue — Small Buildings",
+          0,
+          19650614,
+          -19650614
+        ],
+        [
+          "Contract Revenue — Tunnels",
+          0,
+          117819237,
+          -117819237
+        ],
+        [
+          "Contract Revenue — Water Treatment",
+          2034638,
+          425708995,
+          -423674357
+        ],
+        [
+          "Depreciation Expense",
+          755260000,
+          0,
+          755260000
+        ],
+        [
+          "Equipment Hire Charges",
+          373775384,
+          0,
+          373775384
+        ],
+        [
+          "GST Input Credit",
+          275671127,
+          380016956,
+          -104345829
+        ],
+        [
+          "Materials Consumed",
+          254692780,
+          0,
+          254692780
+        ],
+        [
+          "Output GST Payable",
+          452999614,
+          435928643,
+          17070971
+        ],
+        [
+          "Plant & Machinery",
+          115700000,
+          0,
+          115700000
+        ],
+        [
+          "Retention Money Receivable",
+          82389237,
+          0,
+          82389237
+        ],
+        [
+          "Salaries & Site Overheads",
+          48206213,
+          0,
+          48206213
+        ],
+        [
+          "Site Services",
+          124858302,
+          0,
+          124858302
+        ],
+        [
+          "Specialist Works",
+          471944610,
+          0,
+          471944610
+        ],
+        [
+          "Subcontracting Charges",
+          306235375,
+          0,
+          306235375
+        ],
+        [
+          "TDS Payable",
+          24563198,
+          24591720,
+          -28522
+        ],
+        [
+          "TDS Receivable",
+          38763498,
+          0,
+          38763498
+        ],
+        [
+          "TOTAL",
+          "=SUM(B2:B29)",
+          "=SUM(C2:C29)",
+          "=SUM(D2:D29)"
+        ]
+      ],
+      "values": [
+        [
+          "Account",
+          "Debit (INR)",
+          "Credit (INR)",
+          "Balance (INR)"
+        ],
+        [
+          "Accounts Payable",
+          1450913148,
+          1807177578,
+          -356264430
+        ],
+        [
+          "Accounts Receivable",
+          2857754622,
+          2300636315,
+          557118307
+        ],
+        [
+          "Accumulated Depreciation",
+          0,
+          755260000,
+          -755260000
+        ],
+        [
+          "Bank",
+          2165895505,
+          1685700742,
+          480194763
+        ],
+        [
+          "Contract Revenue — Bridges & Flyovers",
+          0,
+          41478662,
+          -41478662
+        ],
+        [
+          "Contract Revenue — Buildings",
+          3871403,
+          202423504,
+          -198552101
+        ],
+        [
+          "Contract Revenue — Expressways",
+          0,
+          56312692,
+          -56312692
+        ],
+        [
+          "Contract Revenue — Industrial EPC",
+          0,
+          179162761,
+          -179162761
+        ],
+        [
+          "Contract Revenue — Irrigation",
+          1976954,
+          358578132,
+          -356601178
+        ],
+        [
+          "Contract Revenue — Large Bridges",
+          0,
+          823193916,
+          -823193916
+        ],
+        [
+          "Contract Revenue — Roads & Highways",
+          3632325,
+          168575353,
+          -164943028
+        ],
+        [
+          "Contract Revenue — Roads Maintenance",
+          0,
+          28922113,
+          -28922113
+        ],
+        [
+          "Contract Revenue — Small Buildings",
+          0,
+          19650614,
+          -19650614
+        ],
+        [
+          "Contract Revenue — Tunnels",
+          0,
+          117819237,
+          -117819237
+        ],
+        [
+          "Contract Revenue — Water Treatment",
+          2034638,
+          425708995,
+          -423674357
+        ],
+        [
+          "Depreciation Expense",
+          755260000,
+          0,
+          755260000
+        ],
+        [
+          "Equipment Hire Charges",
+          373775384,
+          0,
+          373775384
+        ],
+        [
+          "GST Input Credit",
+          275671127,
+          380016956,
+          -104345829
+        ],
+        [
+          "Materials Consumed",
+          254692780,
+          0,
+          254692780
+        ],
+        [
+          "Output GST Payable",
+          452999614,
+          435928643,
+          17070971
+        ],
+        [
+          "Plant & Machinery",
+          115700000,
+          0,
+          115700000
+        ],
+        [
+          "Retention Money Receivable",
+          82389237,
+          0,
+          82389237
+        ],
+        [
+          "Salaries & Site Overheads",
+          48206213,
+          0,
+          48206213
+        ],
+        [
+          "Site Services",
+          124858302,
+          0,
+          124858302
+        ],
+        [
+          "Specialist Works",
+          471944610,
+          0,
+          471944610
+        ],
+        [
+          "Subcontracting Charges",
+          306235375,
+          0,
+          306235375
+        ],
+        [
+          "TDS Payable",
+          24563198,
+          24591720,
+          -28522
+        ],
+        [
+          "TDS Receivable",
+          38763498,
+          0,
+          38763498
+        ],
+        [
+          "TOTAL",
+          null,
+          null,
+          null
+        ]
+      ],
+      "formulas": [
+        {
+          "cell": "B30",
+          "formula": "=SUM(B2:B29)"
+        },
+        {
+          "cell": "C30",
+          "formula": "=SUM(C2:C29)"
+        },
+        {
+          "cell": "D30",
+          "formula": "=SUM(D2:D29)"
+        }
+      ]
+    },
+    {
+      "name": "TB 2024-25",
+      "max_row": 30,
+      "max_column": 4,
+      "rows": [
+        [
+          "Account",
+          "Debit (INR)",
+          "Credit (INR)",
+          "Balance (INR)"
+        ],
+        [
+          "Accounts Payable",
+          1442014220,
+          1827172284,
+          -385158064
+        ],
+        [
+          "Accounts Receivable",
+          2756051261,
+          2305213090,
+          450838171
+        ],
+        [
+          "Accumulated Depreciation",
+          0,
+          763810000,
+          -763810000
+        ],
+        [
+          "Bank",
+          2170415660,
+          2035755544,
+          134660116
+        ],
+        [
+          "Contract Revenue — Bridges & Flyovers",
+          4264424,
+          114509215,
+          -110244791
+        ],
+        [
+          "Contract Revenue — Buildings",
+          4595141,
+          172207727,
+          -167612586
+        ],
+        [
+          "Contract Revenue — Industrial EPC",
+          1536116,
+          205751317,
+          -204215201
+        ],
+        [
+          "Contract Revenue — Irrigation",
+          0,
+          424861362,
+          -424861362
+        ],
+        [
+          "Contract Revenue — Large Bridges",
+          1868348,
+          684015350,
+          -682147002
+        ],
+        [
+          "Contract Revenue — Roads & Highways",
+          0,
+          396699986,
+          -396699986
+        ],
+        [
+          "Contract Revenue — Roads Maintenance",
+          0,
+          25734569,
+          -25734569
+        ],
+        [
+          "Contract Revenue — Sewerage & Drainage",
+          0,
+          87614059,
+          -87614059
+        ],
+        [
+          "Contract Revenue — Small Buildings",
+          125762,
+          4625763,
+          -4500001
+        ],
+        [
+          "Contract Revenue — Water Supply",
+          0,
+          3128510,
+          -3128510
+        ],
+        [
+          "Contract Revenue — Water Treatment",
+          3619393,
+          216488834,
+          -212869441
+        ],
+        [
+          "Depreciation Expense",
+          763810000,
+          0,
+          763810000
+        ],
+        [
+          "Equipment Hire Charges",
+          353417344,
+          0,
+          353417344
+        ],
+        [
+          "GST Input Credit",
+          278721167,
+          0,
+          278721167
+        ],
+        [
+          "Materials Consumed",
+          308102240,
+          0,
+          308102240
+        ],
+        [
+          "Output GST Payable",
+          465922527,
+          420414569,
+          45507958
+        ],
+        [
+          "Plant & Machinery",
+          85500000,
+          0,
+          85500000
+        ],
+        [
+          "Retention Money Receivable",
+          77155404,
+          0,
+          77155404
+        ],
+        [
+          "Salaries & Site Overheads",
+          46392550,
+          0,
+          46392550
+        ],
+        [
+          "Site Services",
+          452285288,
+          0,
+          452285288
+        ],
+        [
+          "Specialist Works",
+          282556828,
+          0,
+          282556828
+        ],
+        [
+          "Subcontracting Charges",
+          152089417,
+          0,
+          152089417
+        ],
+        [
+          "TDS Payable",
+          23248791,
+          24440894,
+          -1192103
+        ],
+        [
+          "TDS Receivable",
+          38751192,
+          0,
+          38751192
+        ],
+        [
+          "TOTAL",
+          "=SUM(B2:B29)",
+          "=SUM(C2:C29)",
+          "=SUM(D2:D29)"
+        ]
+      ],
+      "values": [
+        [
+          "Account",
+          "Debit (INR)",
+          "Credit (INR)",
+          "Balance (INR)"
+        ],
+        [
+          "Accounts Payable",
+          1442014220,
+          1827172284,
+          -385158064
+        ],
+        [
+          "Accounts Receivable",
+          2756051261,
+          2305213090,
+          450838171
+        ],
+        [
+          "Accumulated Depreciation",
+          0,
+          763810000,
+          -763810000
+        ],
+        [
+          "Bank",
+          2170415660,
+          2035755544,
+          134660116
+        ],
+        [
+          "Contract Revenue — Bridges & Flyovers",
+          4264424,
+          114509215,
+          -110244791
+        ],
+        [
+          "Contract Revenue — Buildings",
+          4595141,
+          172207727,
+          -167612586
+        ],
+        [
+          "Contract Revenue — Industrial EPC",
+          1536116,
+          205751317,
+          -204215201
+        ],
+        [
+          "Contract Revenue — Irrigation",
+          0,
+          424861362,
+          -424861362
+        ],
+        [
+          "Contract Revenue — Large Bridges",
+          1868348,
+          684015350,
+          -682147002
+        ],
+        [
+          "Contract Revenue — Roads & Highways",
+          0,
+          396699986,
+          -396699986
+        ],
+        [
+          "Contract Revenue — Roads Maintenance",
+          0,
+          25734569,
+          -25734569
+        ],
+        [
+          "Contract Revenue — Sewerage & Drainage",
+          0,
+          87614059,
+          -87614059
+        ],
+        [
+          "Contract Revenue — Small Buildings",
+          125762,
+          4625763,
+          -4500001
+        ],
+        [
+          "Contract Revenue — Water Supply",
+          0,
+          3128510,
+          -3128510
+        ],
+        [
+          "Contract Revenue — Water Treatment",
+          3619393,
+          216488834,
+          -212869441
+        ],
+        [
+          "Depreciation Expense",
+          763810000,
+          0,
+          763810000
+        ],
+        [
+          "Equipment Hire Charges",
+          353417344,
+          0,
+          353417344
+        ],
+        [
+          "GST Input Credit",
+          278721167,
+          0,
+          278721167
+        ],
+        [
+          "Materials Consumed",
+          308102240,
+          0,
+          308102240
+        ],
+        [
+          "Output GST Payable",
+          465922527,
+          420414569,
+          45507958
+        ],
+        [
+          "Plant & Machinery",
+          85500000,
+          0,
+          85500000
+        ],
+        [
+          "Retention Money Receivable",
+          77155404,
+          0,
+          77155404
+        ],
+        [
+          "Salaries & Site Overheads",
+          46392550,
+          0,
+          46392550
+        ],
+        [
+          "Site Services",
+          452285288,
+          0,
+          452285288
+        ],
+        [
+          "Specialist Works",
+          282556828,
+          0,
+          282556828
+        ],
+        [
+          "Subcontracting Charges",
+          152089417,
+          0,
+          152089417
+        ],
+        [
+          "TDS Payable",
+          23248791,
+          24440894,
+          -1192103
+        ],
+        [
+          "TDS Receivable",
+          38751192,
+          0,
+          38751192
+        ],
+        [
+          "TOTAL",
+          null,
+          null,
+          null
+        ]
+      ],
+      "formulas": [
+        {
+          "cell": "B30",
+          "formula": "=SUM(B2:B29)"
+        },
+        {
+          "cell": "C30",
+          "formula": "=SUM(C2:C29)"
+        },
+        {
+          "cell": "D30",
+          "formula": "=SUM(D2:D29)"
+        }
+      ]
+    },
+    {
+      "name": "TB 2025-26",
+      "max_row": 31,
+      "max_column": 4,
+      "rows": [
+        [
+          "Account",
+          "Debit (INR)",
+          "Credit (INR)",
+          "Balance (INR)"
+        ],
+        [
+          "Accounts Payable",
+          2530126299,
+          3366137075,
+          -836010776
+        ],
+        [
+          "Accounts Receivable",
+          3143792248,
+          2212698027,
+          931094221
+        ],
+        [
+          "Accumulated Depreciation",
+          0,
+          786170000,
+          -786170000
+        ],
+        [
+          "Bank",
+          2099189504,
+          3217474094,
+          -1118284590
+        ],
+        [
+          "Contract Revenue — Bridges & Flyovers",
+          0,
+          242453294,
+          -242453294
+        ],
+        [
+          "Contract Revenue — Buildings",
+          0,
+          197166599,
+          -197166599
+        ],
+        [
+          "Contract Revenue — Industrial EPC",
+          0,
+          313373220,
+          -313373220
+        ],
+        [
+          "Contract Revenue — Irrigation",
+          5177422,
+          230228200,
+          -225050778
+        ],
+        [
+          "Contract Revenue — Large Bridges",
+          4518728,
+          384390966,
+          -379872238
+        ],
+        [
+          "Contract Revenue — Roads & Highways",
+          0,
+          479458580,
+          -479458580
+        ],
+        [
+          "Contract Revenue — Roads Maintenance",
+          0,
+          11342512,
+          -11342512
+        ],
+        [
+          "Contract Revenue — Sewerage & Drainage",
+          0,
+          304958283,
+          -304958283
+        ],
+        [
+          "Contract Revenue — Small Buildings",
+          149391,
+          1541921,
+          -1392530
+        ],
+        [
+          "Contract Revenue — Tunnels",
+          0,
+          210168020,
+          -210168020
+        ],
+        [
+          "Contract Revenue — Water Supply",
+          0,
+          14586495,
+          -14586495
+        ],
+        [
+          "Contract Revenue — Water Treatment",
+          0,
+          274562673,
+          -274562673
+        ],
+        [
+          "Depreciation Expense",
+          786170000,
+          0,
+          786170000
+        ],
+        [
+          "Equipment Hire Charges",
+          358199314,
+          0,
+          358199314
+        ],
+        [
+          "GST Input Credit",
+          513478489,
+          0,
+          513478489
+        ],
+        [
+          "Materials Consumed",
+          437269129,
+          0,
+          437269129
+        ],
+        [
+          "Output GST Payable",
+          414429432,
+          479561485,
+          -65132053
+        ],
+        [
+          "Plant & Machinery",
+          223600000,
+          0,
+          223600000
+        ],
+        [
+          "Retention Money Receivable",
+          64584369,
+          0,
+          64584369
+        ],
+        [
+          "Salaries & Site Overheads",
+          53087704,
+          0,
+          53087704
+        ],
+        [
+          "Site Services",
+          575494885,
+          0,
+          575494885
+        ],
+        [
+          "Specialist Works",
+          595533760,
+          0,
+          595533760
+        ],
+        [
+          "Subcontracting Charges",
+          886161498,
+          0,
+          886161498
+        ],
+        [
+          "TDS Payable",
+          40886310,
+          42883455,
+          -1997145
+        ],
+        [
+          "TDS Receivable",
+          37306417,
+          0,
+          37306417
+        ],
+        [
+          "TOTAL",
+          "=SUM(B2:B30)",
+          "=SUM(C2:C30)",
+          "=SUM(D2:D30)"
+        ]
+      ],
+      "values": [
+        [
+          "Account",
+          "Debit (INR)",
+          "Credit (INR)",
+          "Balance (INR)"
+        ],
+        [
+          "Accounts Payable",
+          2530126299,
+          3366137075,
+          -836010776
+        ],
+        [
+          "Accounts Receivable",
+          3143792248,
+          2212698027,
+          931094221
+        ],
+        [
+          "Accumulated Depreciation",
+          0,
+          786170000,
+          -786170000
+        ],
+        [
+          "Bank",
+          2099189504,
+          3217474094,
+          -1118284590
+        ],
+        [
+          "Contract Revenue — Bridges & Flyovers",
+          0,
+          242453294,
+          -242453294
+        ],
+        [
+          "Contract Revenue — Buildings",
+          0,
+          197166599,
+          -197166599
+        ],
+        [
+          "Contract Revenue — Industrial EPC",
+          0,
+          313373220,
+          -313373220
+        ],
+        [
+          "Contract Revenue — Irrigation",
+          5177422,
+          230228200,
+          -225050778
+        ],
+        [
+          "Contract Revenue — Large Bridges",
+          4518728,
+          384390966,
+          -379872238
+        ],
+        [
+          "Contract Revenue — Roads & Highways",
+          0,
+          479458580,
+          -479458580
+        ],
+        [
+          "Contract Revenue — Roads Maintenance",
+          0,
+          11342512,
+          -11342512
+        ],
+        [
+          "Contract Revenue — Sewerage & Drainage",
+          0,
+          304958283,
+          -304958283
+        ],
+        [
+          "Contract Revenue — Small Buildings",
+          149391,
+          1541921,
+          -1392530
+        ],
+        [
+          "Contract Revenue — Tunnels",
+          0,
+          210168020,
+          -210168020
+        ],
+        [
+          "Contract Revenue — Water Supply",
+          0,
+          14586495,
+          -14586495
+        ],
+        [
+          "Contract Revenue — Water Treatment",
+          0,
+          274562673,
+          -274562673
+        ],
+        [
+          "Depreciation Expense",
+          786170000,
+          0,
+          786170000
+        ],
+        [
+          "Equipment Hire Charges",
+          358199314,
+          0,
+          358199314
+        ],
+        [
+          "GST Input Credit",
+          513478489,
+          0,
+          513478489
+        ],
+        [
+          "Materials Consumed",
+          437269129,
+          0,
+          437269129
+        ],
+        [
+          "Output GST Payable",
+          414429432,
+          479561485,
+          -65132053
+        ],
+        [
+          "Plant & Machinery",
+          223600000,
+          0,
+          223600000
+        ],
+        [
+          "Retention Money Receivable",
+          64584369,
+          0,
+          64584369
+        ],
+        [
+          "Salaries & Site Overheads",
+          53087704,
+          0,
+          53087704
+        ],
+        [
+          "Site Services",
+          575494885,
+          0,
+          575494885
+        ],
+        [
+          "Specialist Works",
+          595533760,
+          0,
+          595533760
+        ],
+        [
+          "Subcontracting Charges",
+          886161498,
+          0,
+          886161498
+        ],
+        [
+          "TDS Payable",
+          40886310,
+          42883455,
+          -1997145
+        ],
+        [
+          "TDS Receivable",
+          37306417,
+          0,
+          37306417
+        ],
+        [
+          "TOTAL",
+          null,
+          null,
+          null
+        ]
+      ],
+      "formulas": [
+        {
+          "cell": "B31",
+          "formula": "=SUM(B2:B30)"
+        },
+        {
+          "cell": "C31",
+          "formula": "=SUM(C2:C30)"
+        },
+        {
+          "cell": "D31",
+          "formula": "=SUM(D2:D30)"
+        }
+      ]
+    },
+    {
+      "name": "Notes",
+      "max_row": 3,
+      "max_column": 1,
+      "rows": [
+        [
+          "Trial balance by fiscal year, drawn from the general ledger."
+        ],
+        [
+          "Debits equal credits in every year; the balance column closes to zero."
+        ],
+        [
+          "Fiscal year runs 1 April to 31 March."
+        ]
+      ],
+      "values": [
+        [
+          "Trial balance by fiscal year, drawn from the general ledger."
+        ],
+        [
+          "Debits equal credits in every year; the balance column closes to zero."
+        ],
+        [
+          "Fiscal year runs 1 April to 31 March."
+        ]
+      ],
+      "formulas": []
+    }
+  ],
+  "sheet_names": [
+    "TB 2019-20",
+    "TB 2020-21",
+    "TB 2021-22",
+    "TB 2022-23",
+    "TB 2023-24",
+    "TB 2024-25",
+    "TB 2025-26",
+    "Notes"
+  ],
+  "text": "Sheet: TB 2019-20 (26x4)\nAccount | Debit (INR) | Credit (INR) | Balance (INR)\nAccounts Payable | 146077373 | 235077943 | -89000570\nAccounts Receivable | 568355464 | 195028126 | 373327338\nAccumulated Depreciation | 0 | 488390000 | -488390000\nBank | 603458664 | 155154696 | 448303968\nContract Revenue - Bridges & Flyovers | 0 | 168730374 | -168730374\nContract Revenue - Buildings | 0 | 63036432 | -63036432\nContract Revenue - Industrial EPC | 0 | 14146485 | -14146485\nContract Revenue - Sewerage & Drainage | 0 | 70471264 | -70471264\nContract Revenue - Water Treatment | 0 | 165272626 | -165272626\nDepreciation Expense | 488390000 | 0 | 488390000\nEquipment Hire Charges | 17026479 | 0 | 17026479\nGST Input Credit | 35859344 | 36186138 | -326794\nMaterials Consumed | 58397734 | 0 | 58397734\nOutput GST Payable | 36186138 | 86698283 | -50512145\nPlant & Machinery | 4883900000 | 0 | 4883900000\nRetention Money Receivable | 8263903 | 0 | 8263903\nSalaries & Site Overheads | 9633143 | 0 | 9633143\nShare Capital & Reserves | 0 | 5283900000 | -5283900000\nSite Services | 77281790 | 0 | 77281790\nSpecialist Works | 1872446 | 0 | 1872446\nSubcontracting Charges | 44640150 | 0 | 44640150\nTDS Payable | 1920064 | 2475884 | -555820\nTDS Receivable | 3305559 | 0 | 3305559\nWorking Capital Borrowings | 0 | 20000000 | -20000000\nTOTAL\nSheet: TB 2020-21 (28x4)\nAccount | Debit (INR) | Credit (INR) | Balance (INR)\nAccounts Payable | 1052543471 | 1555872374 | -503328903\nAccounts Receivable | 2363453573 | 1318485980 | 1044967593\nAccumulated Depreciation | 0 | 499540000 | -499540000\nBank | 1240859310 | 1223880925 | 16978385\nContract Revenue - Bridges & Flyovers | 0 | 273228981 | -273228981\nContract Revenue - Buildings | 2199678 | 163366440 | -161166762\nContract Revenue - Expressways | 0 | 245501316 | -245501316\nContract Revenue - Industrial EPC | 887236 | 28292970 | -27405734\nContract Revenue - Irrigation | 1475002 | 49684764 | -48209762\nContract Revenue - Roads & Highways | 0 | 20355665 | -20355665\nContract Revenue - Sewerage & Drainage | 0 | 462328339 | -462328339\nContract Revenue - Tunnels | 3521386 | 214423294 | -210901908\nContract Revenue - Water Treatment | 3739277 | 545745014 | -542005737\nDepreciation Expense | 499540000 | 0 | 499540000\nEquipment Hire Charges | 369887430 | 0 | 369887430\nGST Input Credit | 237336442 | 287850858 | -50514416\nMaterials Consumed | 142385332 | 0 | 142385332\nOutput GST Payable | 289978920 | 360526790 | -70547870\nPlant & Machinery | 111500000 | 0 | 111500000\nRetention Money Receivable | 41565278 | 0 | 41565278\nSalaries & Site Overheads | 60207982 | 0 | 60207982\nSite Services | 361599928 | 0 | 361599928\nSpecialist Works | 287206399 | 0 | 287206399\nSubcontracting Charges | 157456843 | 0 | 157456843\nTDS Payable | 17469173 | 17839701 | -370528\nTDS Receivable | 22110751 | 0 | 22110751\nTOTAL\nSheet: TB 2021-22 (31x4)\nAccount | Debit (INR) | Credit (INR) | Balance (INR)\nAccounts Payable | 1511895194 | 1928851349 | -416956155\nAccounts Receivable | 3900995965 | 3068222002 | 832773963\nAccumulated Depreciation | 0 | 652180000 | -652180000\nBank | 2866011014 | 2390152223 | 475858791\nContract Revenue - Bridges & Flyovers | 0 | 267182789 | -267182789\nContract Revenue - Buildings | 0 | 146345472 | -146345472\nContract Revenue - Expressways | 3930800 | 872030171 | -868099371\nContract Revenue - Industrial EPC | 0 | 145781896 | -145781896\nContract Revenue - Irrigation | 0 | 99369528 | -99369528\nContract Revenue - Large Bridges | 8566418 | 202303929 | -193737511\nContract Revenue - Roads & Highways | 0 | 99722694 | -99722694\nContract Revenue - Sewerage & Drainage | 13117011 | 468693669 | -455576658\nContract Revenue - Small Buildings | 0 | 22411273 | -22411273\nContract Revenue - Tunnels | 8218633 | 623249982 | -615031349\nContract Revenue - Water Treatment | 5185334 | 358837421 | -353652087\nDepreciation Expense | 652180000 | 0 | 652180000\nEquipment Hire Charges | 381044057 | 0 | 381044057\nGST Input Credit | 294231536 | 512641631 | -218410095\nMaterials Consumed | 290426610 | 0 | 290426610\nOutput GST Payable | 519664903 | 595067141 | -75402238\nPlant & Machinery | 1526400000 | 0 | 1526400000\nRetention Money Receivable | 104946159 | 0 | 104946159\nSalaries & Site Overheads | 724615958 | 0 | 724615958\nSite Services | 379847332 | 0 | 379847332\nSpecialist Works | 342082071 | 0 | 342082071\nSubcontracting Charges | 241219743 | 0 | 241219743\nTDS Payable | 24366386 | 25625315 | -1258929\nTDS Receivable | 51223361 | 0 | 51223361\nTerm Loans (Secured) | 0 | 1371500000 | -1371500000\nTOTAL\nSheet: TB 2022-23 (32x4)\nAccount | Debit (INR) | Credit (INR) | Balance (INR)\nAccounts Payable | 2156277104 | 2658154937 | -501877833\nAccounts Receivable | 5059596285 | 3898401370 | 1161194915\nAccumulated Depreciation | 0 | 743690000 | -743690000\nBank | 3653523150 | 3223825852 | 429697298\nContract Revenue - Bridges & Flyovers | 1146842 | 74426028 | -73279186\nContract Revenue - Buildings | 0 | 181691960 | -181691960\nContract Revenue - Expressways | 15420137 | 1151569241 | -1136149104\nContract Revenue - Industrial EPC | 0 | 305735173 | -305735173\nContract Revenue - Irrigation | 0 | 169717821 | -169717821\nContract Revenue - Large Bridges | 11511431 | 855949562 | -844438131\nContract Revenue - Roads & Highways | 0 | 151834898 | -151834898\nContract Revenue - Roads Maintenance | 0 | 50566904 | -50566904\nContract Revenue - Sewerage & Drainage | 2564641 | 149722593 | -147157952\nContract Revenue - Small Buildings | 480436 | 31957730 | -31477294\nContract Revenue - Tunnels | 0 | 691786190 | -691786190\nContract Revenue - Water Treatment | 0 | 472835410 | -472835410\nDepreciation Expense | 743690000 | 0 | 743690000\nEquipment Hire Charges | 521129497 | 0 | 521129497\nGST Input Credit | 405481222 | 824083744 | -418602522\nMaterials Consumed | 214049514 | 0 | 214049514\nOutput GST Payable | 829685969 | 771802775 | 57883194\nPlant & Machinery | 915100000 | 0 | 915100000\nRetention Money Receivable | 142700426 | 0 | 142700426\nSalaries & Site Overheads | 979402139 | 0 | 979402139\nSite Services | 633845683 | 0 | 633845683\nSpecialist Works | 403137849 | 0 | 403137849\nSubcontracting Charges | 480511172 | 0 | 480511172\nTDS Payable | 36093651 | 36547042 | -453391\nTDS Receivable | 65452082 | 0 | 65452082\nTerm Loans (Secured) | 0 | 826500000 | -826500000\nTOTAL\nSheet: TB 2023-24 (30x4)\nAccount | Debit (INR) | Credit (INR) | Balance (INR)\nAccounts Payable | 1450913148 | 1807177578 | -356264430\nAccounts Receivable | 2857754622 | 2300636315 | 557118307\nAccumulated Depreciation | 0 | 755260000 | -755260000\nBank | 2165895505 | 1685700742 | 480194763\nContract Revenue - Bridges & Flyovers | 0 | 41478662 | -41478662\nContract Revenue - Buildings | 3871403 | 202423504 | -198552101\nContract Revenue - Expressways | 0 | 56312692 | -56312692\nContract Revenue - Industrial EPC | 0 | 179162761 | -179162761\nContract Revenue - Irrigation | 1976954 | 358578132 | -356601178\nContract Revenue - Large Bridges | 0 | 823193916 | -823193916\nContract Revenue - Roads & Highways | 3632325 | 168575353 | -164943028\nContract Revenue - Roads Maintenance | 0 | 28922113 | -28922113\nContract Revenue - Small Buildings | 0 | 19650614 | -19650614\nContract Revenue - Tunnels | 0 | 117819237 | -117819237\nContract Revenue - Water Treatment | 2034638 | 425708995 | -423674357\nDepreciation Expense | 755260000 | 0 | 755260000\nEquipment Hire Charges | 373775384 | 0 | 373775384\nGST Input Credit | 275671127 | 380016956 | -104345829\nMaterials Consumed | 254692780 | 0 | 254692780\nOutput GST Payable | 452999614 | 435928643 | 17070971\nPlant & Machinery | 115700000 | 0 | 115700000\nRetention Money Receivable | 82389237 | 0 | 82389237\nSalaries & Site Overheads | 48206213 | 0 | 48206213\nSite Services | 124858302 | 0 | 124858302\nSpecialist Works | 471944610 | 0 | 471944610\nSubcontracting Charges | 306235375 | 0 | 306235375\nTDS Payable | 24563198 | 24591720 | -28522\nTDS Receivable | 38763498 | 0 | 38763498\nTOTAL\nSheet: TB 2024-25 (30x4)\nAccount | Debit (INR) | Credit (INR) | Balance (INR)\nAccounts Payable | 1442014220 | 1827172284 | -385158064\nAccounts Receivable | 2756051261 | 2305213090 | 450838171\nAccumulated Depreciation | 0 | 763810000 | -763810000\nBank | 2170415660 | 2035755544 | 134660116\nContract Revenue - Bridges & Flyovers | 4264424 | 114509215 | -110244791\nContract Revenue - Buildings | 4595141 | 172207727 | -167612586\nContract Revenue - Industrial EPC | 1536116 | 205751317 | -204215201\nContract Revenue - Irrigation | 0 | 424861362 | -424861362\nContract Revenue - Large Bridges | 1868348 | 684015350 | -682147002\nContract Revenue - Roads & Highways | 0 | 396699986 | -396699986\nContract Revenue - Roads Maintenance | 0 | 25734569 | -25734569\nContract Revenue - Sewerage & Drainage | 0 | 87614059 | -87614059\nContract Revenue - Small Buildings | 125762 | 4625763 | -4500001\nContract Revenue - Water Supply | 0 | 3128510 | -3128510\nContract Revenue - Water Treatment | 3619393 | 216488834 | -212869441\nDepreciation Expense | 763810000 | 0 | 763810000\nEquipment Hire Charges | 353417344 | 0 | 353417344\nGST Input Credit | 278721167 | 0 | 278721167\nMaterials Consumed | 308102240 | 0 | 308102240\nOutput GST Payable | 465922527 | 420414569 | 45507958\nPlant & Machinery | 85500000 | 0 | 85500000\nRetention Money Receivable | 77155404 | 0 | 77155404\nSalaries & Site Overheads | 46392550 | 0 | 46392550\nSite Services | 452285288 | 0 | 452285288\nSpecialist Works | 282556828 | 0 | 282556828\nSubcontracting Charges | 152089417 | 0 | 152089417\nTDS Payable | 23248791 | 24440894 | -1192103\nTDS Receivable | 38751192 | 0 | 38751192\nTOTAL\nSheet: TB 2025-26 (31x4)\nAccount | Debit (INR) | Credit (INR) | Balance (INR)\nAccounts Payable | 2530126299 | 3366137075 | -836010776\nAccounts Receivable | 3143792248 | 2212698027 | 931094221\nAccumulated Depreciation | 0 | 786170000 | -786170000\nBank | 2099189504 | 3217474094 | -1118284590\nContract Revenue - Bridges & Flyovers | 0 | 242453294 | -242453294\nContract Revenue - Buildings | 0 | 197166599 | -197166599\nContract Revenue - Industrial EPC | 0 | 313373220 | -313373220\nContract Revenue - Irrigation | 5177422 | 230228200 | -225050778\nContract Revenue - Large Bridges | 4518728 | 384390966 | -379872238\nContract Revenue - Roads & Highways | 0 | 479458580 | -479458580\nContract Revenue - Roads Maintenance | 0 | 11342512 | -11342512\nContract Revenue - Sewerage & Drainage | 0 | 304958283 | -304958283\nContract Revenue - Small Buildings | 149391 | 1541921 | -1392530\nContract Revenue - Tunnels | 0 | 210168020 | -210168020\nContract Revenue - Water Supply | 0 | 14586495 | -14586495\nContract Revenue - Water Treatment | 0 | 274562673 | -274562673\nDepreciation Expense | 786170000 | 0 | 786170000\nEquipment Hire Charges | 358199314 | 0 | 358199314\nGST Input Credit | 513478489 | 0 | 513478489\nMaterials Consumed | 437269129 | 0 | 437269129\nOutput GST Payable | 414429432 | 479561485 | -65132053\nPlant & Machinery | 223600000 | 0 | 223600000\nRetention Money Receivable | 64584369 | 0 | 64584369\nSalaries & Site Overheads | 53087704 | 0 | 53087704\nSite Services | 575494885 | 0 | 575494885\nSpecialist Works | 595533760 | 0 | 595533760\nSubcontracting Charges | 886161498 | 0 | 886161498\nTDS Payable | 40886310 | 42883455 | -1997145\nTDS Receivable | 37306417 | 0 | 37306417\nTOTAL\nSheet: Notes (3x1)\nTrial balance by fiscal year, drawn from the general ledger.\nDebits equal credits in every year; the balance column closes to zero.\nFiscal year runs 1 April to 31 March.",
+  "extraction_method": "openpyxl",
+  "extraction_quality": 1.0,
+  "char_count": 11403
+}

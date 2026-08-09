@@ -1,0 +1,4127 @@
+{
+  "documents": [
+    {
+      "doc_id": "DOC-AR-2024",
+      "doc_type": "annual_report",
+      "filename": "annual_report/DOC-AR-2024.pdf",
+      "char_count": 49142
+    },
+    {
+      "doc_id": "DOC-AR-2025",
+      "doc_type": "annual_report",
+      "filename": "annual_report/DOC-AR-2025.pdf",
+      "char_count": 50392
+    },
+    {
+      "doc_id": "DOC-BANK-2019",
+      "doc_type": "bank_statement",
+      "filename": "bank_statement/DOC-BANK-2019.pdf",
+      "char_count": 4599
+    },
+    {
+      "doc_id": "DOC-BANK-2020",
+      "doc_type": "bank_statement",
+      "filename": "bank_statement/DOC-BANK-2020.pdf",
+      "char_count": 14221
+    },
+    {
+      "doc_id": "DOC-BANK-2021",
+      "doc_type": "bank_statement",
+      "filename": "bank_statement/DOC-BANK-2021.pdf",
+      "char_count": 21883
+    },
+    {
+      "doc_id": "DOC-BANK-2022",
+      "doc_type": "bank_statement",
+      "filename": "bank_statement/DOC-BANK-2022.pdf",
+      "char_count": 28263
+    },
+    {
+      "doc_id": "DOC-BANK-2023",
+      "doc_type": "bank_statement",
+      "filename": "bank_statement/DOC-BANK-2023.pdf",
+      "char_count": 20231
+    },
+    {
+      "doc_id": "DOC-BANK-2024",
+      "doc_type": "bank_statement",
+      "filename": "bank_statement/DOC-BANK-2024.pdf",
+      "char_count": 20153
+    },
+    {
+      "doc_id": "DOC-BANK-2025",
+      "doc_type": "bank_statement",
+      "filename": "bank_statement/DOC-BANK-2025.pdf",
+      "char_count": 26213
+    },
+    {
+      "doc_id": "DOC-BANK-2026",
+      "doc_type": "bank_statement",
+      "filename": "bank_statement/DOC-BANK-2026.pdf",
+      "char_count": 4619
+    },
+    {
+      "doc_id": "DOC-BOND-00005",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00005.pdf",
+      "char_count": 3741
+    },
+    {
+      "doc_id": "DOC-BOND-00006",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00006.pdf",
+      "char_count": 971
+    },
+    {
+      "doc_id": "DOC-BOND-00010",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00010.pdf",
+      "char_count": 3573
+    },
+    {
+      "doc_id": "DOC-BOND-00016",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00016.pdf",
+      "char_count": 1042
+    },
+    {
+      "doc_id": "DOC-BOND-00024",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00024.pdf",
+      "char_count": 974
+    },
+    {
+      "doc_id": "DOC-BOND-00025",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00025.pdf",
+      "char_count": 3738
+    },
+    {
+      "doc_id": "DOC-BOND-00030",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00030.pdf",
+      "char_count": 3743
+    },
+    {
+      "doc_id": "DOC-BOND-00032",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00032.pdf",
+      "char_count": 3799
+    },
+    {
+      "doc_id": "DOC-BOND-00036",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00036.pdf",
+      "char_count": 974
+    },
+    {
+      "doc_id": "DOC-BOND-00040",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00040.pdf",
+      "char_count": 965
+    },
+    {
+      "doc_id": "DOC-BOND-00044",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00044.pdf",
+      "char_count": 3744
+    },
+    {
+      "doc_id": "DOC-BOND-00045",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00045.pdf",
+      "char_count": 973
+    },
+    {
+      "doc_id": "DOC-BOND-00046",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00046.pdf",
+      "char_count": 973
+    },
+    {
+      "doc_id": "DOC-BOND-00047",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00047.pdf",
+      "char_count": 975
+    },
+    {
+      "doc_id": "DOC-BOND-00059",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00059.pdf",
+      "char_count": 3749
+    },
+    {
+      "doc_id": "DOC-BOND-00063",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00063.pdf",
+      "char_count": 973
+    },
+    {
+      "doc_id": "DOC-BOND-00064",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00064.pdf",
+      "char_count": 3794
+    },
+    {
+      "doc_id": "DOC-BOND-00065",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00065.pdf",
+      "char_count": 3740
+    },
+    {
+      "doc_id": "DOC-BOND-00066",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00066.pdf",
+      "char_count": 3799
+    },
+    {
+      "doc_id": "DOC-BOND-00067",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00067.pdf",
+      "char_count": 976
+    },
+    {
+      "doc_id": "DOC-BOND-00071",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00071.pdf",
+      "char_count": 3747
+    },
+    {
+      "doc_id": "DOC-BOND-00077",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00077.pdf",
+      "char_count": 1035
+    },
+    {
+      "doc_id": "DOC-BOND-00082",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00082.pdf",
+      "char_count": 3741
+    },
+    {
+      "doc_id": "DOC-BOND-00085",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00085.pdf",
+      "char_count": 973
+    },
+    {
+      "doc_id": "DOC-BOND-00087",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00087.pdf",
+      "char_count": 975
+    },
+    {
+      "doc_id": "DOC-BOND-00091",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00091.pdf",
+      "char_count": 970
+    },
+    {
+      "doc_id": "DOC-BOND-00095",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00095.pdf",
+      "char_count": 3572
+    },
+    {
+      "doc_id": "DOC-BOND-00101",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00101.pdf",
+      "char_count": 974
+    },
+    {
+      "doc_id": "DOC-BOND-00105",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00105.pdf",
+      "char_count": 981
+    },
+    {
+      "doc_id": "DOC-BOND-00117",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00117.pdf",
+      "char_count": 3806
+    },
+    {
+      "doc_id": "DOC-BOND-00119",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00119.pdf",
+      "char_count": 3733
+    },
+    {
+      "doc_id": "DOC-BOND-00120",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00120.pdf",
+      "char_count": 1041
+    },
+    {
+      "doc_id": "DOC-BOND-00128",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00128.pdf",
+      "char_count": 972
+    },
+    {
+      "doc_id": "DOC-BOND-00132",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00132.pdf",
+      "char_count": 975
+    },
+    {
+      "doc_id": "DOC-BOND-00136",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00136.pdf",
+      "char_count": 971
+    },
+    {
+      "doc_id": "DOC-BOND-00143",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00143.pdf",
+      "char_count": 979
+    },
+    {
+      "doc_id": "DOC-BOND-00150",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00150.pdf",
+      "char_count": 3566
+    },
+    {
+      "doc_id": "DOC-BOND-00160",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00160.pdf",
+      "char_count": 1042
+    },
+    {
+      "doc_id": "DOC-BOND-00170",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00170.pdf",
+      "char_count": 3794
+    },
+    {
+      "doc_id": "DOC-BOND-00171",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00171.pdf",
+      "char_count": 3746
+    },
+    {
+      "doc_id": "DOC-BOND-00174",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00174.pdf",
+      "char_count": 974
+    },
+    {
+      "doc_id": "DOC-BOND-00181",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00181.pdf",
+      "char_count": 976
+    },
+    {
+      "doc_id": "DOC-BOND-00184",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00184.pdf",
+      "char_count": 3571
+    },
+    {
+      "doc_id": "DOC-BOND-00189",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00189.pdf",
+      "char_count": 974
+    },
+    {
+      "doc_id": "DOC-BOND-00190",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00190.pdf",
+      "char_count": 3736
+    },
+    {
+      "doc_id": "DOC-BOND-00192",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00192.pdf",
+      "char_count": 3794
+    },
+    {
+      "doc_id": "DOC-BOND-00202",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00202.pdf",
+      "char_count": 970
+    },
+    {
+      "doc_id": "DOC-BOND-00208",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00208.pdf",
+      "char_count": 3736
+    },
+    {
+      "doc_id": "DOC-BOND-00211",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00211.pdf",
+      "char_count": 975
+    },
+    {
+      "doc_id": "DOC-BOND-00212",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00212.pdf",
+      "char_count": 971
+    },
+    {
+      "doc_id": "DOC-BOND-00214",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00214.pdf",
+      "char_count": 3575
+    },
+    {
+      "doc_id": "DOC-BOND-00216",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00216.pdf",
+      "char_count": 3740
+    },
+    {
+      "doc_id": "DOC-BOND-00217",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00217.pdf",
+      "char_count": 3741
+    },
+    {
+      "doc_id": "DOC-BOND-00219",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00219.pdf",
+      "char_count": 1035
+    },
+    {
+      "doc_id": "DOC-BOND-00220",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00220.pdf",
+      "char_count": 3736
+    },
+    {
+      "doc_id": "DOC-BOND-00225",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00225.pdf",
+      "char_count": 3797
+    },
+    {
+      "doc_id": "DOC-BOND-00231",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00231.pdf",
+      "char_count": 974
+    },
+    {
+      "doc_id": "DOC-BOND-00235",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00235.pdf",
+      "char_count": 972
+    },
+    {
+      "doc_id": "DOC-BOND-00236",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00236.pdf",
+      "char_count": 971
+    },
+    {
+      "doc_id": "DOC-BOND-00238",
+      "doc_type": "performance_bond",
+      "filename": "performance_bond/DOC-BOND-00238.pdf",
+      "char_count": 3747
+    },
+    {
+      "doc_id": "DOC-CC-001",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-001.pdf",
+      "char_count": 1037
+    },
+    {
+      "doc_id": "DOC-CC-002",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-002.pdf",
+      "char_count": 991
+    },
+    {
+      "doc_id": "DOC-CC-003",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-003.pdf",
+      "char_count": 1020
+    },
+    {
+      "doc_id": "DOC-CC-004",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-004.pdf",
+      "char_count": 763
+    },
+    {
+      "doc_id": "DOC-CC-005",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-005.pdf",
+      "char_count": 1026
+    },
+    {
+      "doc_id": "DOC-CC-006",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-006.pdf",
+      "char_count": 1031
+    },
+    {
+      "doc_id": "DOC-CC-007",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-007.pdf",
+      "char_count": 984
+    },
+    {
+      "doc_id": "DOC-CC-008",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-008.pdf",
+      "char_count": 1007
+    },
+    {
+      "doc_id": "DOC-CC-009",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-009.pdf",
+      "char_count": 1027
+    },
+    {
+      "doc_id": "DOC-CC-010",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-010.pdf",
+      "char_count": 1107
+    },
+    {
+      "doc_id": "DOC-CC-011",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-011.pdf",
+      "char_count": 1008
+    },
+    {
+      "doc_id": "DOC-CC-012",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-012.pdf",
+      "char_count": 1062
+    },
+    {
+      "doc_id": "DOC-CC-013",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-013.pdf",
+      "char_count": 1011
+    },
+    {
+      "doc_id": "DOC-CC-014",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-014.pdf",
+      "char_count": 1008
+    },
+    {
+      "doc_id": "DOC-CC-015",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-015.pdf",
+      "char_count": 997
+    },
+    {
+      "doc_id": "DOC-CC-016",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-016.pdf",
+      "char_count": 1036
+    },
+    {
+      "doc_id": "DOC-CC-017",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-017.pdf",
+      "char_count": 1004
+    },
+    {
+      "doc_id": "DOC-CC-018",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-018.pdf",
+      "char_count": 995
+    },
+    {
+      "doc_id": "DOC-CC-019",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-019.pdf",
+      "char_count": 1066
+    },
+    {
+      "doc_id": "DOC-CC-020",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-020.pdf",
+      "char_count": 1013
+    },
+    {
+      "doc_id": "DOC-CC-021",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-021.pdf",
+      "char_count": 1028
+    },
+    {
+      "doc_id": "DOC-CC-022",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-022.pdf",
+      "char_count": 1025
+    },
+    {
+      "doc_id": "DOC-CC-023",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-023.pdf",
+      "char_count": 1036
+    },
+    {
+      "doc_id": "DOC-CC-024",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-024.pdf",
+      "char_count": 1007
+    },
+    {
+      "doc_id": "DOC-CC-025",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-025.pdf",
+      "char_count": 1028
+    },
+    {
+      "doc_id": "DOC-CC-026",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-026.pdf",
+      "char_count": 1012
+    },
+    {
+      "doc_id": "DOC-CC-027",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-027.pdf",
+      "char_count": 1004
+    },
+    {
+      "doc_id": "DOC-CC-028",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-028.pdf",
+      "char_count": 968
+    },
+    {
+      "doc_id": "DOC-CC-029",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-029.pdf",
+      "char_count": 991
+    },
+    {
+      "doc_id": "DOC-CC-030",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-030.pdf",
+      "char_count": 1078
+    },
+    {
+      "doc_id": "DOC-CC-031",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-031.pdf",
+      "char_count": 1028
+    },
+    {
+      "doc_id": "DOC-CC-032",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-032.pdf",
+      "char_count": 1025
+    },
+    {
+      "doc_id": "DOC-CC-033",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-033.pdf",
+      "char_count": 774
+    },
+    {
+      "doc_id": "DOC-CC-034",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-034.pdf",
+      "char_count": 1060
+    },
+    {
+      "doc_id": "DOC-CC-035",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-035.pdf",
+      "char_count": 1008
+    },
+    {
+      "doc_id": "DOC-CC-036",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-036.pdf",
+      "char_count": 755
+    },
+    {
+      "doc_id": "DOC-CC-037",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-037.pdf",
+      "char_count": 1125
+    },
+    {
+      "doc_id": "DOC-CC-038",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-038.pdf",
+      "char_count": 731
+    },
+    {
+      "doc_id": "DOC-CC-039",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-039.pdf",
+      "char_count": 771
+    },
+    {
+      "doc_id": "DOC-CC-040",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-040.pdf",
+      "char_count": 1009
+    },
+    {
+      "doc_id": "DOC-CC-041",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-041.pdf",
+      "char_count": 1012
+    },
+    {
+      "doc_id": "DOC-CC-042",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-042.pdf",
+      "char_count": 1020
+    },
+    {
+      "doc_id": "DOC-CC-043",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-043.pdf",
+      "char_count": 1046
+    },
+    {
+      "doc_id": "DOC-CC-044",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-044.pdf",
+      "char_count": 1017
+    },
+    {
+      "doc_id": "DOC-CC-045",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-045.pdf",
+      "char_count": 1006
+    },
+    {
+      "doc_id": "DOC-CC-046",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-046.pdf",
+      "char_count": 1048
+    },
+    {
+      "doc_id": "DOC-CC-047",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-047.pdf",
+      "char_count": 1105
+    },
+    {
+      "doc_id": "DOC-CC-048",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-048.pdf",
+      "char_count": 1083
+    },
+    {
+      "doc_id": "DOC-CC-049",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-049.pdf",
+      "char_count": 985
+    },
+    {
+      "doc_id": "DOC-CC-050",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-050.pdf",
+      "char_count": 724
+    },
+    {
+      "doc_id": "DOC-CC-051",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-051.pdf",
+      "char_count": 994
+    },
+    {
+      "doc_id": "DOC-CC-052",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-052.pdf",
+      "char_count": 722
+    },
+    {
+      "doc_id": "DOC-CC-053",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-053.pdf",
+      "char_count": 983
+    },
+    {
+      "doc_id": "DOC-CC-054",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-054.pdf",
+      "char_count": 992
+    },
+    {
+      "doc_id": "DOC-CC-055",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-055.pdf",
+      "char_count": 1054
+    },
+    {
+      "doc_id": "DOC-CC-056",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-056.pdf",
+      "char_count": 1005
+    },
+    {
+      "doc_id": "DOC-CC-057",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-057.pdf",
+      "char_count": 999
+    },
+    {
+      "doc_id": "DOC-CC-058",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-058.pdf",
+      "char_count": 1009
+    },
+    {
+      "doc_id": "DOC-CC-059",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-059.pdf",
+      "char_count": 1001
+    },
+    {
+      "doc_id": "DOC-CC-060",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-060.pdf",
+      "char_count": 1049
+    },
+    {
+      "doc_id": "DOC-CC-061",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-061.pdf",
+      "char_count": 1005
+    },
+    {
+      "doc_id": "DOC-CC-062",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-062.pdf",
+      "char_count": 1069
+    },
+    {
+      "doc_id": "DOC-CC-063",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-063.pdf",
+      "char_count": 1009
+    },
+    {
+      "doc_id": "DOC-CC-064",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-064.pdf",
+      "char_count": 725
+    },
+    {
+      "doc_id": "DOC-CC-065",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-065.pdf",
+      "char_count": 1069
+    },
+    {
+      "doc_id": "DOC-CC-066",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-066.pdf",
+      "char_count": 996
+    },
+    {
+      "doc_id": "DOC-CC-067",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-067.pdf",
+      "char_count": 1049
+    },
+    {
+      "doc_id": "DOC-CC-068",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-068.pdf",
+      "char_count": 1050
+    },
+    {
+      "doc_id": "DOC-CC-069",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-069.pdf",
+      "char_count": 4745
+    },
+    {
+      "doc_id": "DOC-CC-070",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-070.pdf",
+      "char_count": 722
+    },
+    {
+      "doc_id": "DOC-CC-071",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-071.pdf",
+      "char_count": 714
+    },
+    {
+      "doc_id": "DOC-CC-072",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-072.pdf",
+      "char_count": 1028
+    },
+    {
+      "doc_id": "DOC-CC-073",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-073.pdf",
+      "char_count": 1008
+    },
+    {
+      "doc_id": "DOC-CC-074",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-074.pdf",
+      "char_count": 1006
+    },
+    {
+      "doc_id": "DOC-CC-075",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-075.pdf",
+      "char_count": 1054
+    },
+    {
+      "doc_id": "DOC-CC-076",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-076.pdf",
+      "char_count": 4645
+    },
+    {
+      "doc_id": "DOC-CC-077",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-077.pdf",
+      "char_count": 997
+    },
+    {
+      "doc_id": "DOC-CC-078",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-078.pdf",
+      "char_count": 1062
+    },
+    {
+      "doc_id": "DOC-CC-079",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-079.pdf",
+      "char_count": 1064
+    },
+    {
+      "doc_id": "DOC-CC-080",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-080.pdf",
+      "char_count": 1097
+    },
+    {
+      "doc_id": "DOC-CC-081",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-081.pdf",
+      "char_count": 1023
+    },
+    {
+      "doc_id": "DOC-CC-082",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-082.pdf",
+      "char_count": 990
+    },
+    {
+      "doc_id": "DOC-CC-083",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-083.pdf",
+      "char_count": 1014
+    },
+    {
+      "doc_id": "DOC-CC-084",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-084.pdf",
+      "char_count": 1026
+    },
+    {
+      "doc_id": "DOC-CC-085",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-085.pdf",
+      "char_count": 1044
+    },
+    {
+      "doc_id": "DOC-CC-086",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-086.pdf",
+      "char_count": 1004
+    },
+    {
+      "doc_id": "DOC-CC-087",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-087.pdf",
+      "char_count": 1027
+    },
+    {
+      "doc_id": "DOC-CC-088",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-088.pdf",
+      "char_count": 755
+    },
+    {
+      "doc_id": "DOC-CC-089",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-089.pdf",
+      "char_count": 1033
+    },
+    {
+      "doc_id": "DOC-CC-090",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-090.pdf",
+      "char_count": 1093
+    },
+    {
+      "doc_id": "DOC-CC-091",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-091.pdf",
+      "char_count": 1003
+    },
+    {
+      "doc_id": "DOC-CC-092",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-092.pdf",
+      "char_count": 1004
+    },
+    {
+      "doc_id": "DOC-CC-093",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-093.pdf",
+      "char_count": 1028
+    },
+    {
+      "doc_id": "DOC-CC-094",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-094.pdf",
+      "char_count": 1008
+    },
+    {
+      "doc_id": "DOC-CC-095",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-095.pdf",
+      "char_count": 991
+    },
+    {
+      "doc_id": "DOC-CC-096",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-096.pdf",
+      "char_count": 1087
+    },
+    {
+      "doc_id": "DOC-CC-097",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-097.pdf",
+      "char_count": 1021
+    },
+    {
+      "doc_id": "DOC-CC-098",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-098.pdf",
+      "char_count": 763
+    },
+    {
+      "doc_id": "DOC-CC-099",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-099.pdf",
+      "char_count": 1055
+    },
+    {
+      "doc_id": "DOC-CC-100",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-100.pdf",
+      "char_count": 1061
+    },
+    {
+      "doc_id": "DOC-CC-101",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-101.pdf",
+      "char_count": 1098
+    },
+    {
+      "doc_id": "DOC-CC-102",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-102.pdf",
+      "char_count": 1011
+    },
+    {
+      "doc_id": "DOC-CC-103",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-103.pdf",
+      "char_count": 1072
+    },
+    {
+      "doc_id": "DOC-CC-104",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-104.pdf",
+      "char_count": 1003
+    },
+    {
+      "doc_id": "DOC-CC-105",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-105.pdf",
+      "char_count": 4691
+    },
+    {
+      "doc_id": "DOC-CC-106",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-106.pdf",
+      "char_count": 1042
+    },
+    {
+      "doc_id": "DOC-CC-107",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-107.pdf",
+      "char_count": 736
+    },
+    {
+      "doc_id": "DOC-CC-108",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-108.pdf",
+      "char_count": 1005
+    },
+    {
+      "doc_id": "DOC-CC-109",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-109.pdf",
+      "char_count": 1022
+    },
+    {
+      "doc_id": "DOC-CC-110",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-110.pdf",
+      "char_count": 1006
+    },
+    {
+      "doc_id": "DOC-CC-111",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-111.pdf",
+      "char_count": 999
+    },
+    {
+      "doc_id": "DOC-CC-112",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-112.pdf",
+      "char_count": 779
+    },
+    {
+      "doc_id": "DOC-CC-113",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-113.pdf",
+      "char_count": 1123
+    },
+    {
+      "doc_id": "DOC-CC-114",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-114.pdf",
+      "char_count": 1029
+    },
+    {
+      "doc_id": "DOC-CC-115",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-115.pdf",
+      "char_count": 982
+    },
+    {
+      "doc_id": "DOC-CC-116",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-116.pdf",
+      "char_count": 1004
+    },
+    {
+      "doc_id": "DOC-CC-117",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-117.pdf",
+      "char_count": 983
+    },
+    {
+      "doc_id": "DOC-CC-118",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-118.pdf",
+      "char_count": 1004
+    },
+    {
+      "doc_id": "DOC-CC-119",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-119.pdf",
+      "char_count": 998
+    },
+    {
+      "doc_id": "DOC-CC-120",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-120.pdf",
+      "char_count": 1060
+    },
+    {
+      "doc_id": "DOC-CC-121",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-121.pdf",
+      "char_count": 1156
+    },
+    {
+      "doc_id": "DOC-CC-122",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-122.pdf",
+      "char_count": 1001
+    },
+    {
+      "doc_id": "DOC-CC-123",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-123.pdf",
+      "char_count": 1079
+    },
+    {
+      "doc_id": "DOC-CC-124",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-124.pdf",
+      "char_count": 1064
+    },
+    {
+      "doc_id": "DOC-CC-125",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-125.pdf",
+      "char_count": 1021
+    },
+    {
+      "doc_id": "DOC-CC-126",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-126.pdf",
+      "char_count": 1016
+    },
+    {
+      "doc_id": "DOC-CC-127",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-127.pdf",
+      "char_count": 1073
+    },
+    {
+      "doc_id": "DOC-CC-128",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-128.pdf",
+      "char_count": 740
+    },
+    {
+      "doc_id": "DOC-CC-129",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-129.pdf",
+      "char_count": 1004
+    },
+    {
+      "doc_id": "DOC-CC-130",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-130.pdf",
+      "char_count": 1071
+    },
+    {
+      "doc_id": "DOC-CC-131",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-131.pdf",
+      "char_count": 1005
+    },
+    {
+      "doc_id": "DOC-CC-132",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-132.pdf",
+      "char_count": 1019
+    },
+    {
+      "doc_id": "DOC-CC-133",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-133.pdf",
+      "char_count": 1032
+    },
+    {
+      "doc_id": "DOC-CC-134",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-134.pdf",
+      "char_count": 1014
+    },
+    {
+      "doc_id": "DOC-CC-135",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-135.pdf",
+      "char_count": 1085
+    },
+    {
+      "doc_id": "DOC-CC-136",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-136.pdf",
+      "char_count": 1011
+    },
+    {
+      "doc_id": "DOC-CC-137",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-137.pdf",
+      "char_count": 1121
+    },
+    {
+      "doc_id": "DOC-CC-138",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-138.pdf",
+      "char_count": 1082
+    },
+    {
+      "doc_id": "DOC-CC-139",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-139.pdf",
+      "char_count": 1011
+    },
+    {
+      "doc_id": "DOC-CC-140",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-140.pdf",
+      "char_count": 4639
+    },
+    {
+      "doc_id": "DOC-CC-141",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-141.pdf",
+      "char_count": 1021
+    },
+    {
+      "doc_id": "DOC-CC-142",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-142.pdf",
+      "char_count": 1000
+    },
+    {
+      "doc_id": "DOC-CC-143",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-143.pdf",
+      "char_count": 984
+    },
+    {
+      "doc_id": "DOC-CC-144",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-144.pdf",
+      "char_count": 1099
+    },
+    {
+      "doc_id": "DOC-CC-145",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-145.pdf",
+      "char_count": 1007
+    },
+    {
+      "doc_id": "DOC-CC-146",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-146.pdf",
+      "char_count": 997
+    },
+    {
+      "doc_id": "DOC-CC-147",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-147.pdf",
+      "char_count": 724
+    },
+    {
+      "doc_id": "DOC-CC-148",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-148.pdf",
+      "char_count": 1054
+    },
+    {
+      "doc_id": "DOC-CC-149",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-149.pdf",
+      "char_count": 1009
+    },
+    {
+      "doc_id": "DOC-CC-150",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-150.pdf",
+      "char_count": 1028
+    },
+    {
+      "doc_id": "DOC-CC-151",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-151.pdf",
+      "char_count": 782
+    },
+    {
+      "doc_id": "DOC-CC-152",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-152.pdf",
+      "char_count": 1044
+    },
+    {
+      "doc_id": "DOC-CC-153",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-153.pdf",
+      "char_count": 1021
+    },
+    {
+      "doc_id": "DOC-CC-154",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-154.pdf",
+      "char_count": 729
+    },
+    {
+      "doc_id": "DOC-CC-155",
+      "doc_type": "completion_certificate",
+      "filename": "completion_certificate/DOC-CC-155.pdf",
+      "char_count": 4716
+    },
+    {
+      "doc_id": "DOC-CCC-001",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-001.pdf",
+      "char_count": 945
+    },
+    {
+      "doc_id": "DOC-CCC-002",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-002.pdf",
+      "char_count": 3882
+    },
+    {
+      "doc_id": "DOC-CCC-003",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-003.pdf",
+      "char_count": 3895
+    },
+    {
+      "doc_id": "DOC-CCC-004",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-004.pdf",
+      "char_count": 937
+    },
+    {
+      "doc_id": "DOC-CCC-005",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-005.pdf",
+      "char_count": 3857
+    },
+    {
+      "doc_id": "DOC-CCC-006",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-006.pdf",
+      "char_count": 983
+    },
+    {
+      "doc_id": "DOC-CCC-007",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-007.pdf",
+      "char_count": 3887
+    },
+    {
+      "doc_id": "DOC-CCC-008",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-008.pdf",
+      "char_count": 3909
+    },
+    {
+      "doc_id": "DOC-CCC-009",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-009.pdf",
+      "char_count": 974
+    },
+    {
+      "doc_id": "DOC-CCC-010",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-010.pdf",
+      "char_count": 4020
+    },
+    {
+      "doc_id": "DOC-CCC-011",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-011.pdf",
+      "char_count": 997
+    },
+    {
+      "doc_id": "DOC-CCC-012",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-012.pdf",
+      "char_count": 981
+    },
+    {
+      "doc_id": "DOC-CCC-013",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-013.pdf",
+      "char_count": 967
+    },
+    {
+      "doc_id": "DOC-CCC-014",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-014.pdf",
+      "char_count": 991
+    },
+    {
+      "doc_id": "DOC-CCC-015",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-015.pdf",
+      "char_count": 916
+    },
+    {
+      "doc_id": "DOC-CCC-016",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-016.pdf",
+      "char_count": 999
+    },
+    {
+      "doc_id": "DOC-CCC-017",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-017.pdf",
+      "char_count": 3960
+    },
+    {
+      "doc_id": "DOC-CCC-018",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-018.pdf",
+      "char_count": 982
+    },
+    {
+      "doc_id": "DOC-CCC-019",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-019.pdf",
+      "char_count": 3937
+    },
+    {
+      "doc_id": "DOC-CCC-020",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-020.pdf",
+      "char_count": 975
+    },
+    {
+      "doc_id": "DOC-CCC-021",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-021.pdf",
+      "char_count": 3977
+    },
+    {
+      "doc_id": "DOC-CCC-022",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-022.pdf",
+      "char_count": 944
+    },
+    {
+      "doc_id": "DOC-CCC-023",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-023.pdf",
+      "char_count": 3873
+    },
+    {
+      "doc_id": "DOC-CCC-024",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-024.pdf",
+      "char_count": 3940
+    },
+    {
+      "doc_id": "DOC-CCC-025",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-025.pdf",
+      "char_count": 995
+    },
+    {
+      "doc_id": "DOC-CCC-026",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-026.pdf",
+      "char_count": 4014
+    },
+    {
+      "doc_id": "DOC-CCC-027",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-027.pdf",
+      "char_count": 1005
+    },
+    {
+      "doc_id": "DOC-CCC-028",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-028.pdf",
+      "char_count": 3875
+    },
+    {
+      "doc_id": "DOC-CCC-029",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-029.pdf",
+      "char_count": 3827
+    },
+    {
+      "doc_id": "DOC-CCC-030",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-030.pdf",
+      "char_count": 999
+    },
+    {
+      "doc_id": "DOC-CCC-031",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-031.pdf",
+      "char_count": 3959
+    },
+    {
+      "doc_id": "DOC-CCC-032",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-032.pdf",
+      "char_count": 3873
+    },
+    {
+      "doc_id": "DOC-CCC-033",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-033.pdf",
+      "char_count": 1007
+    },
+    {
+      "doc_id": "DOC-CCC-034",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-034.pdf",
+      "char_count": 3864
+    },
+    {
+      "doc_id": "DOC-CCC-035",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-035.pdf",
+      "char_count": 1003
+    },
+    {
+      "doc_id": "DOC-CCC-036",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-036.pdf",
+      "char_count": 3872
+    },
+    {
+      "doc_id": "DOC-CCC-037",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-037.pdf",
+      "char_count": 985
+    },
+    {
+      "doc_id": "DOC-CCC-038",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-038.pdf",
+      "char_count": 3913
+    },
+    {
+      "doc_id": "DOC-CCC-039",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-039.pdf",
+      "char_count": 3887
+    },
+    {
+      "doc_id": "DOC-CCC-040",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-040.pdf",
+      "char_count": 1034
+    },
+    {
+      "doc_id": "DOC-CCC-041",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-041.pdf",
+      "char_count": 3949
+    },
+    {
+      "doc_id": "DOC-CCC-042",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-042.pdf",
+      "char_count": 3826
+    },
+    {
+      "doc_id": "DOC-CCC-043",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-043.pdf",
+      "char_count": 3930
+    },
+    {
+      "doc_id": "DOC-CCC-044",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-044.pdf",
+      "char_count": 1003
+    },
+    {
+      "doc_id": "DOC-CCC-045",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-045.pdf",
+      "char_count": 976
+    },
+    {
+      "doc_id": "DOC-CCC-046",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-046.pdf",
+      "char_count": 972
+    },
+    {
+      "doc_id": "DOC-CCC-047",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-047.pdf",
+      "char_count": 3945
+    },
+    {
+      "doc_id": "DOC-CCC-048",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-048.pdf",
+      "char_count": 964
+    },
+    {
+      "doc_id": "DOC-CCC-049",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-049.pdf",
+      "char_count": 965
+    },
+    {
+      "doc_id": "DOC-CCC-050",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-050.pdf",
+      "char_count": 3914
+    },
+    {
+      "doc_id": "DOC-CCC-051",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-051.pdf",
+      "char_count": 1003
+    },
+    {
+      "doc_id": "DOC-CCC-052",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-052.pdf",
+      "char_count": 3922
+    },
+    {
+      "doc_id": "DOC-CCC-053",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-053.pdf",
+      "char_count": 3915
+    },
+    {
+      "doc_id": "DOC-CCC-054",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-054.pdf",
+      "char_count": 3888
+    },
+    {
+      "doc_id": "DOC-CCC-055",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-055.pdf",
+      "char_count": 962
+    },
+    {
+      "doc_id": "DOC-CCC-056",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-056.pdf",
+      "char_count": 1016
+    },
+    {
+      "doc_id": "DOC-CCC-057",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-057.pdf",
+      "char_count": 991
+    },
+    {
+      "doc_id": "DOC-CCC-058",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-058.pdf",
+      "char_count": 3988
+    },
+    {
+      "doc_id": "DOC-CCC-059",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-059.pdf",
+      "char_count": 3951
+    },
+    {
+      "doc_id": "DOC-CCC-060",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-060.pdf",
+      "char_count": 1012
+    },
+    {
+      "doc_id": "DOC-CCC-061",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-061.pdf",
+      "char_count": 994
+    },
+    {
+      "doc_id": "DOC-CCC-062",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-062.pdf",
+      "char_count": 973
+    },
+    {
+      "doc_id": "DOC-CCC-063",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-063.pdf",
+      "char_count": 3974
+    },
+    {
+      "doc_id": "DOC-CCC-064",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-064.pdf",
+      "char_count": 3871
+    },
+    {
+      "doc_id": "DOC-CCC-065",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-065.pdf",
+      "char_count": 3913
+    },
+    {
+      "doc_id": "DOC-CCC-066",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-066.pdf",
+      "char_count": 3910
+    },
+    {
+      "doc_id": "DOC-CCC-067",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-067.pdf",
+      "char_count": 3937
+    },
+    {
+      "doc_id": "DOC-CCC-068",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-068.pdf",
+      "char_count": 1006
+    },
+    {
+      "doc_id": "DOC-CCC-069",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-069.pdf",
+      "char_count": 963
+    },
+    {
+      "doc_id": "DOC-CCC-070",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-070.pdf",
+      "char_count": 971
+    },
+    {
+      "doc_id": "DOC-CCC-071",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-071.pdf",
+      "char_count": 906
+    },
+    {
+      "doc_id": "DOC-CCC-072",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-072.pdf",
+      "char_count": 3891
+    },
+    {
+      "doc_id": "DOC-CCC-073",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-073.pdf",
+      "char_count": 3887
+    },
+    {
+      "doc_id": "DOC-CCC-074",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-074.pdf",
+      "char_count": 989
+    },
+    {
+      "doc_id": "DOC-CCC-075",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-075.pdf",
+      "char_count": 993
+    },
+    {
+      "doc_id": "DOC-CCC-076",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-076.pdf",
+      "char_count": 3867
+    },
+    {
+      "doc_id": "DOC-CCC-077",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-077.pdf",
+      "char_count": 3894
+    },
+    {
+      "doc_id": "DOC-CCC-078",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-078.pdf",
+      "char_count": 969
+    },
+    {
+      "doc_id": "DOC-CCC-079",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-079.pdf",
+      "char_count": 3945
+    },
+    {
+      "doc_id": "DOC-CCC-080",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-080.pdf",
+      "char_count": 3952
+    },
+    {
+      "doc_id": "DOC-CCC-081",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-081.pdf",
+      "char_count": 979
+    },
+    {
+      "doc_id": "DOC-CCC-082",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-082.pdf",
+      "char_count": 968
+    },
+    {
+      "doc_id": "DOC-CCC-083",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-083.pdf",
+      "char_count": 3875
+    },
+    {
+      "doc_id": "DOC-CCC-084",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-084.pdf",
+      "char_count": 950
+    },
+    {
+      "doc_id": "DOC-CCC-085",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-085.pdf",
+      "char_count": 976
+    },
+    {
+      "doc_id": "DOC-CCC-086",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-086.pdf",
+      "char_count": 3942
+    },
+    {
+      "doc_id": "DOC-CCC-087",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-087.pdf",
+      "char_count": 1026
+    },
+    {
+      "doc_id": "DOC-CCC-088",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-088.pdf",
+      "char_count": 963
+    },
+    {
+      "doc_id": "DOC-CCC-089",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-089.pdf",
+      "char_count": 1015
+    },
+    {
+      "doc_id": "DOC-CCC-090",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-090.pdf",
+      "char_count": 991
+    },
+    {
+      "doc_id": "DOC-CCC-091",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-091.pdf",
+      "char_count": 3920
+    },
+    {
+      "doc_id": "DOC-CCC-092",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-092.pdf",
+      "char_count": 968
+    },
+    {
+      "doc_id": "DOC-CCC-093",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-093.pdf",
+      "char_count": 1015
+    },
+    {
+      "doc_id": "DOC-CCC-094",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-094.pdf",
+      "char_count": 959
+    },
+    {
+      "doc_id": "DOC-CCC-095",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-095.pdf",
+      "char_count": 3868
+    },
+    {
+      "doc_id": "DOC-CCC-096",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-096.pdf",
+      "char_count": 3928
+    },
+    {
+      "doc_id": "DOC-CCC-097",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-097.pdf",
+      "char_count": 3964
+    },
+    {
+      "doc_id": "DOC-CCC-098",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-098.pdf",
+      "char_count": 965
+    },
+    {
+      "doc_id": "DOC-CCC-099",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-099.pdf",
+      "char_count": 3881
+    },
+    {
+      "doc_id": "DOC-CCC-100",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-100.pdf",
+      "char_count": 4013
+    },
+    {
+      "doc_id": "DOC-CCC-101",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-101.pdf",
+      "char_count": 989
+    },
+    {
+      "doc_id": "DOC-CCC-102",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-102.pdf",
+      "char_count": 953
+    },
+    {
+      "doc_id": "DOC-CCC-103",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-103.pdf",
+      "char_count": 3982
+    },
+    {
+      "doc_id": "DOC-CCC-104",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-104.pdf",
+      "char_count": 939
+    },
+    {
+      "doc_id": "DOC-CCC-105",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-105.pdf",
+      "char_count": 919
+    },
+    {
+      "doc_id": "DOC-CCC-106",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-106.pdf",
+      "char_count": 3931
+    },
+    {
+      "doc_id": "DOC-CCC-107",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-107.pdf",
+      "char_count": 996
+    },
+    {
+      "doc_id": "DOC-CCC-108",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-108.pdf",
+      "char_count": 982
+    },
+    {
+      "doc_id": "DOC-CCC-109",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-109.pdf",
+      "char_count": 3920
+    },
+    {
+      "doc_id": "DOC-CCC-110",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-110.pdf",
+      "char_count": 3964
+    },
+    {
+      "doc_id": "DOC-CCC-111",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-111.pdf",
+      "char_count": 3880
+    },
+    {
+      "doc_id": "DOC-CCC-112",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-112.pdf",
+      "char_count": 996
+    },
+    {
+      "doc_id": "DOC-CCC-113",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-113.pdf",
+      "char_count": 3857
+    },
+    {
+      "doc_id": "DOC-CCC-114",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-114.pdf",
+      "char_count": 3805
+    },
+    {
+      "doc_id": "DOC-CCC-115",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-115.pdf",
+      "char_count": 935
+    },
+    {
+      "doc_id": "DOC-CCC-116",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-116.pdf",
+      "char_count": 3926
+    },
+    {
+      "doc_id": "DOC-CCC-117",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-117.pdf",
+      "char_count": 3814
+    },
+    {
+      "doc_id": "DOC-CCC-118",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-118.pdf",
+      "char_count": 3919
+    },
+    {
+      "doc_id": "DOC-CCC-119",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-119.pdf",
+      "char_count": 3906
+    },
+    {
+      "doc_id": "DOC-CCC-120",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-120.pdf",
+      "char_count": 3955
+    },
+    {
+      "doc_id": "DOC-CCC-121",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-121.pdf",
+      "char_count": 3914
+    },
+    {
+      "doc_id": "DOC-CCC-122",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-122.pdf",
+      "char_count": 3912
+    },
+    {
+      "doc_id": "DOC-CCC-123",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-123.pdf",
+      "char_count": 3891
+    },
+    {
+      "doc_id": "DOC-CCC-124",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-124.pdf",
+      "char_count": 3948
+    },
+    {
+      "doc_id": "DOC-CCC-125",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-125.pdf",
+      "char_count": 3943
+    },
+    {
+      "doc_id": "DOC-CCC-126",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-126.pdf",
+      "char_count": 974
+    },
+    {
+      "doc_id": "DOC-CCC-127",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-127.pdf",
+      "char_count": 987
+    },
+    {
+      "doc_id": "DOC-CCC-128",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-128.pdf",
+      "char_count": 1002
+    },
+    {
+      "doc_id": "DOC-CCC-129",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-129.pdf",
+      "char_count": 999
+    },
+    {
+      "doc_id": "DOC-CCC-130",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-130.pdf",
+      "char_count": 986
+    },
+    {
+      "doc_id": "DOC-CCC-131",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-131.pdf",
+      "char_count": 966
+    },
+    {
+      "doc_id": "DOC-CCC-132",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-132.pdf",
+      "char_count": 3905
+    },
+    {
+      "doc_id": "DOC-CCC-133",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-133.pdf",
+      "char_count": 3909
+    },
+    {
+      "doc_id": "DOC-CCC-134",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-134.pdf",
+      "char_count": 4036
+    },
+    {
+      "doc_id": "DOC-CCC-135",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-135.pdf",
+      "char_count": 1005
+    },
+    {
+      "doc_id": "DOC-CCC-136",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-136.pdf",
+      "char_count": 3930
+    },
+    {
+      "doc_id": "DOC-CCC-137",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-137.pdf",
+      "char_count": 945
+    },
+    {
+      "doc_id": "DOC-CCC-138",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-138.pdf",
+      "char_count": 1002
+    },
+    {
+      "doc_id": "DOC-CCC-139",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-139.pdf",
+      "char_count": 3958
+    },
+    {
+      "doc_id": "DOC-CCC-140",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-140.pdf",
+      "char_count": 3902
+    },
+    {
+      "doc_id": "DOC-CCC-141",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-141.pdf",
+      "char_count": 937
+    },
+    {
+      "doc_id": "DOC-CCC-142",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-142.pdf",
+      "char_count": 3999
+    },
+    {
+      "doc_id": "DOC-CCC-143",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-143.pdf",
+      "char_count": 3909
+    },
+    {
+      "doc_id": "DOC-CCC-144",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-144.pdf",
+      "char_count": 3911
+    },
+    {
+      "doc_id": "DOC-CCC-145",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-145.pdf",
+      "char_count": 990
+    },
+    {
+      "doc_id": "DOC-CCC-146",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-146.pdf",
+      "char_count": 969
+    },
+    {
+      "doc_id": "DOC-CCC-147",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-147.pdf",
+      "char_count": 3897
+    },
+    {
+      "doc_id": "DOC-CCC-148",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-148.pdf",
+      "char_count": 3945
+    },
+    {
+      "doc_id": "DOC-CCC-149",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-149.pdf",
+      "char_count": 3888
+    },
+    {
+      "doc_id": "DOC-CCC-150",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-150.pdf",
+      "char_count": 3930
+    },
+    {
+      "doc_id": "DOC-CCC-151",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-151.pdf",
+      "char_count": 3949
+    },
+    {
+      "doc_id": "DOC-CCC-152",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-152.pdf",
+      "char_count": 996
+    },
+    {
+      "doc_id": "DOC-CCC-153",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-153.pdf",
+      "char_count": 1003
+    },
+    {
+      "doc_id": "DOC-CCC-154",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-154.pdf",
+      "char_count": 953
+    },
+    {
+      "doc_id": "DOC-CCC-155",
+      "doc_type": "company_completion_certificate",
+      "filename": "company_completion_certificate/DOC-CCC-155.pdf",
+      "char_count": 994
+    },
+    {
+      "doc_id": "DOC-CERT-001",
+      "doc_type": "iso_certificate",
+      "filename": "iso_certificate/DOC-CERT-001.pdf",
+      "char_count": 1894
+    },
+    {
+      "doc_id": "DOC-CERT-002",
+      "doc_type": "iso_certificate",
+      "filename": "iso_certificate/DOC-CERT-002.pdf",
+      "char_count": 1895
+    },
+    {
+      "doc_id": "DOC-CERT-003",
+      "doc_type": "iso_certificate",
+      "filename": "iso_certificate/DOC-CERT-003.pdf",
+      "char_count": 2414
+    },
+    {
+      "doc_id": "DOC-CERT-004",
+      "doc_type": "iso_certificate",
+      "filename": "iso_certificate/DOC-CERT-004.pdf",
+      "char_count": 2357
+    },
+    {
+      "doc_id": "DOC-CERT-005",
+      "doc_type": "iso_certificate",
+      "filename": "iso_certificate/DOC-CERT-005.pdf",
+      "char_count": 1874
+    },
+    {
+      "doc_id": "DOC-CM-0005",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0005.pdf",
+      "char_count": 1100
+    },
+    {
+      "doc_id": "DOC-CM-0006",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0006.pdf",
+      "char_count": 1099
+    },
+    {
+      "doc_id": "DOC-CM-0010",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0010.pdf",
+      "char_count": 2482
+    },
+    {
+      "doc_id": "DOC-CM-0016",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0016.pdf",
+      "char_count": 2514
+    },
+    {
+      "doc_id": "DOC-CM-0025",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0025.pdf",
+      "char_count": 1099
+    },
+    {
+      "doc_id": "DOC-CM-0026",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0026.pdf",
+      "char_count": 1098
+    },
+    {
+      "doc_id": "DOC-CM-0031",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0031.pdf",
+      "char_count": 1101
+    },
+    {
+      "doc_id": "DOC-CM-0033",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0033.pdf",
+      "char_count": 2491
+    },
+    {
+      "doc_id": "DOC-CM-0038",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0038.pdf",
+      "char_count": 2472
+    },
+    {
+      "doc_id": "DOC-CM-0042",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0042.pdf",
+      "char_count": 2494
+    },
+    {
+      "doc_id": "DOC-CM-0047",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0047.pdf",
+      "char_count": 2471
+    },
+    {
+      "doc_id": "DOC-CM-0048",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0048.pdf",
+      "char_count": 2537
+    },
+    {
+      "doc_id": "DOC-CM-0049",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0049.pdf",
+      "char_count": 2505
+    },
+    {
+      "doc_id": "DOC-CM-0050",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0050.pdf",
+      "char_count": 1100
+    },
+    {
+      "doc_id": "DOC-CM-0063",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0063.pdf",
+      "char_count": 2488
+    },
+    {
+      "doc_id": "DOC-CM-0067",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0067.pdf",
+      "char_count": 2513
+    },
+    {
+      "doc_id": "DOC-CM-0068",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0068.pdf",
+      "char_count": 1094
+    },
+    {
+      "doc_id": "DOC-CM-0069",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0069.pdf",
+      "char_count": 2501
+    },
+    {
+      "doc_id": "DOC-CM-0070",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0070.pdf",
+      "char_count": 2510
+    },
+    {
+      "doc_id": "DOC-CM-0071",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0071.pdf",
+      "char_count": 1099
+    },
+    {
+      "doc_id": "DOC-CM-0076",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0076.pdf",
+      "char_count": 1101
+    },
+    {
+      "doc_id": "DOC-CM-0083",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0083.pdf",
+      "char_count": 2466
+    },
+    {
+      "doc_id": "DOC-CM-0088",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0088.pdf",
+      "char_count": 1099
+    },
+    {
+      "doc_id": "DOC-CM-0091",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0091.pdf",
+      "char_count": 1098
+    },
+    {
+      "doc_id": "DOC-CM-0094",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0094.pdf",
+      "char_count": 1098
+    },
+    {
+      "doc_id": "DOC-CM-0099",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0099.pdf",
+      "char_count": 1098
+    },
+    {
+      "doc_id": "DOC-CM-0103",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0103.pdf",
+      "char_count": 1100
+    },
+    {
+      "doc_id": "DOC-CM-0111",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0111.pdf",
+      "char_count": 2476
+    },
+    {
+      "doc_id": "DOC-CM-0116",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0116.pdf",
+      "char_count": 1099
+    },
+    {
+      "doc_id": "DOC-CM-0128",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0128.pdf",
+      "char_count": 2511
+    },
+    {
+      "doc_id": "DOC-CM-0130",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0130.pdf",
+      "char_count": 2476
+    },
+    {
+      "doc_id": "DOC-CM-0131",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0131.pdf",
+      "char_count": 1101
+    },
+    {
+      "doc_id": "DOC-CM-0142",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0142.pdf",
+      "char_count": 2539
+    },
+    {
+      "doc_id": "DOC-CM-0146",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0146.pdf",
+      "char_count": 2472
+    },
+    {
+      "doc_id": "DOC-CM-0151",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0151.pdf",
+      "char_count": 1095
+    },
+    {
+      "doc_id": "DOC-CM-0158",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0158.pdf",
+      "char_count": 1099
+    },
+    {
+      "doc_id": "DOC-CM-0165",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0165.pdf",
+      "char_count": 2486
+    },
+    {
+      "doc_id": "DOC-CM-0175",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0175.pdf",
+      "char_count": 1100
+    },
+    {
+      "doc_id": "DOC-CM-0185",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0185.pdf",
+      "char_count": 1095
+    },
+    {
+      "doc_id": "DOC-CM-0186",
+      "doc_type": "compliance_matrix",
+      "filename": "compliance_matrix/DOC-CM-0186.pdf",
+      "char_count": 1099
+    },
+    {
+      "doc_id": "DOC-CV-001",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-001.pdf",
+      "char_count": 2303
+    },
+    {
+      "doc_id": "DOC-CV-002",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-002.pdf",
+      "char_count": 2314
+    },
+    {
+      "doc_id": "DOC-CV-003",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-003.pdf",
+      "char_count": 2336
+    },
+    {
+      "doc_id": "DOC-CV-004",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-004.pdf",
+      "char_count": 2321
+    },
+    {
+      "doc_id": "DOC-CV-005",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-005.pdf",
+      "char_count": 2332
+    },
+    {
+      "doc_id": "DOC-CV-006",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-006.pdf",
+      "char_count": 2275
+    },
+    {
+      "doc_id": "DOC-CV-007",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-007.pdf",
+      "char_count": 2315
+    },
+    {
+      "doc_id": "DOC-CV-008",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-008.pdf",
+      "char_count": 2316
+    },
+    {
+      "doc_id": "DOC-CV-009",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-009.pdf",
+      "char_count": 2320
+    },
+    {
+      "doc_id": "DOC-CV-010",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-010.pdf",
+      "char_count": 2282
+    },
+    {
+      "doc_id": "DOC-CV-011",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-011.pdf",
+      "char_count": 2330
+    },
+    {
+      "doc_id": "DOC-CV-012",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-012.pdf",
+      "char_count": 2283
+    },
+    {
+      "doc_id": "DOC-CV-013",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-013.pdf",
+      "char_count": 2296
+    },
+    {
+      "doc_id": "DOC-CV-014",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-014.pdf",
+      "char_count": 2314
+    },
+    {
+      "doc_id": "DOC-CV-015",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-015.pdf",
+      "char_count": 2298
+    },
+    {
+      "doc_id": "DOC-CV-016",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-016.pdf",
+      "char_count": 2302
+    },
+    {
+      "doc_id": "DOC-CV-017",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-017.pdf",
+      "char_count": 2326
+    },
+    {
+      "doc_id": "DOC-CV-018",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-018.pdf",
+      "char_count": 2311
+    },
+    {
+      "doc_id": "DOC-CV-019",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-019.pdf",
+      "char_count": 2295
+    },
+    {
+      "doc_id": "DOC-CV-020",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-020.pdf",
+      "char_count": 2283
+    },
+    {
+      "doc_id": "DOC-CV-021",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-021.pdf",
+      "char_count": 2324
+    },
+    {
+      "doc_id": "DOC-CV-022",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-022.pdf",
+      "char_count": 2305
+    },
+    {
+      "doc_id": "DOC-CV-023",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-023.pdf",
+      "char_count": 2294
+    },
+    {
+      "doc_id": "DOC-CV-024",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-024.pdf",
+      "char_count": 2287
+    },
+    {
+      "doc_id": "DOC-CV-025",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-025.pdf",
+      "char_count": 2298
+    },
+    {
+      "doc_id": "DOC-CV-026",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-026.pdf",
+      "char_count": 2292
+    },
+    {
+      "doc_id": "DOC-CV-027",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-027.pdf",
+      "char_count": 2295
+    },
+    {
+      "doc_id": "DOC-CV-028",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-028.pdf",
+      "char_count": 2309
+    },
+    {
+      "doc_id": "DOC-CV-029",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-029.pdf",
+      "char_count": 2301
+    },
+    {
+      "doc_id": "DOC-CV-030",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-030.pdf",
+      "char_count": 2296
+    },
+    {
+      "doc_id": "DOC-CV-031",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-031.pdf",
+      "char_count": 2318
+    },
+    {
+      "doc_id": "DOC-CV-032",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-032.pdf",
+      "char_count": 2322
+    },
+    {
+      "doc_id": "DOC-CV-033",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-033.pdf",
+      "char_count": 2313
+    },
+    {
+      "doc_id": "DOC-CV-034",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-034.pdf",
+      "char_count": 2303
+    },
+    {
+      "doc_id": "DOC-CV-035",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-035.pdf",
+      "char_count": 2337
+    },
+    {
+      "doc_id": "DOC-CV-036",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-036.pdf",
+      "char_count": 2286
+    },
+    {
+      "doc_id": "DOC-CV-037",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-037.pdf",
+      "char_count": 2297
+    },
+    {
+      "doc_id": "DOC-CV-038",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-038.pdf",
+      "char_count": 2312
+    },
+    {
+      "doc_id": "DOC-CV-039",
+      "doc_type": "cv",
+      "filename": "cv/DOC-CV-039.pdf",
+      "char_count": 2324
+    },
+    {
+      "doc_id": "DOC-DOSSIER-0165",
+      "doc_type": "tender_dossier",
+      "filename": "tender_dossier/DOC-DOSSIER-0165.pdf",
+      "char_count": 58904
+    },
+    {
+      "doc_id": "DOC-DOSSIER-0205",
+      "doc_type": "tender_dossier",
+      "filename": "tender_dossier/DOC-DOSSIER-0205.pdf",
+      "char_count": 59162
+    },
+    {
+      "doc_id": "DOC-DOSSIER-0206",
+      "doc_type": "tender_dossier",
+      "filename": "tender_dossier/DOC-DOSSIER-0206.pdf",
+      "char_count": 58884
+    },
+    {
+      "doc_id": "DOC-DOSSIER-0326",
+      "doc_type": "tender_dossier",
+      "filename": "tender_dossier/DOC-DOSSIER-0326.pdf",
+      "char_count": 58960
+    },
+    {
+      "doc_id": "DOC-DOSSIER-0333",
+      "doc_type": "tender_dossier",
+      "filename": "tender_dossier/DOC-DOSSIER-0333.pdf",
+      "char_count": 58978
+    },
+    {
+      "doc_id": "DOC-DOSSIER-0338",
+      "doc_type": "tender_dossier",
+      "filename": "tender_dossier/DOC-DOSSIER-0338.pdf",
+      "char_count": 58964
+    },
+    {
+      "doc_id": "DOC-FINBILL-0071",
+      "doc_type": "final_ra_bill",
+      "filename": "final_ra_bill/DOC-FINBILL-0071.pdf",
+      "char_count": 25008
+    },
+    {
+      "doc_id": "DOC-FINBILL-0072",
+      "doc_type": "final_ra_bill",
+      "filename": "final_ra_bill/DOC-FINBILL-0072.pdf",
+      "char_count": 16438
+    },
+    {
+      "doc_id": "DOC-FINBILL-0073",
+      "doc_type": "final_ra_bill",
+      "filename": "final_ra_bill/DOC-FINBILL-0073.pdf",
+      "char_count": 19692
+    },
+    {
+      "doc_id": "DOC-FINBILL-0074",
+      "doc_type": "final_ra_bill",
+      "filename": "final_ra_bill/DOC-FINBILL-0074.pdf",
+      "char_count": 31160
+    },
+    {
+      "doc_id": "DOC-FINBILL-0075",
+      "doc_type": "final_ra_bill",
+      "filename": "final_ra_bill/DOC-FINBILL-0075.pdf",
+      "char_count": 28991
+    },
+    {
+      "doc_id": "DOC-FINBILL-0079",
+      "doc_type": "final_ra_bill",
+      "filename": "final_ra_bill/DOC-FINBILL-0079.pdf",
+      "char_count": 21860
+    },
+    {
+      "doc_id": "DOC-FS-2019",
+      "doc_type": "financial_statement",
+      "filename": "financial_statement/DOC-FS-2019.pdf",
+      "char_count": 3691
+    },
+    {
+      "doc_id": "DOC-FS-2020",
+      "doc_type": "financial_statement",
+      "filename": "financial_statement/DOC-FS-2020.pdf",
+      "char_count": 3722
+    },
+    {
+      "doc_id": "DOC-FS-2021",
+      "doc_type": "financial_statement",
+      "filename": "financial_statement/DOC-FS-2021.pdf",
+      "char_count": 4923
+    },
+    {
+      "doc_id": "DOC-FS-2022",
+      "doc_type": "financial_statement",
+      "filename": "financial_statement/DOC-FS-2022.pdf",
+      "char_count": 4935
+    },
+    {
+      "doc_id": "DOC-FS-2023",
+      "doc_type": "financial_statement",
+      "filename": "financial_statement/DOC-FS-2023.pdf",
+      "char_count": 4904
+    },
+    {
+      "doc_id": "DOC-FS-2024",
+      "doc_type": "financial_statement",
+      "filename": "financial_statement/DOC-FS-2024.pdf",
+      "char_count": 4914
+    },
+    {
+      "doc_id": "DOC-FS-2025",
+      "doc_type": "financial_statement",
+      "filename": "financial_statement/DOC-FS-2025.pdf",
+      "char_count": 4954
+    },
+    {
+      "doc_id": "DOC-GLB-2019",
+      "doc_type": "general_ledger_book",
+      "filename": "general_ledger_book/DOC-GLB-2019.pdf",
+      "char_count": 30736
+    },
+    {
+      "doc_id": "DOC-GLB-2020",
+      "doc_type": "general_ledger_book",
+      "filename": "general_ledger_book/DOC-GLB-2020.pdf",
+      "char_count": 100493
+    },
+    {
+      "doc_id": "DOC-GLB-2021",
+      "doc_type": "general_ledger_book",
+      "filename": "general_ledger_book/DOC-GLB-2021.pdf",
+      "char_count": 148826
+    },
+    {
+      "doc_id": "DOC-GLB-2022",
+      "doc_type": "general_ledger_book",
+      "filename": "general_ledger_book/DOC-GLB-2022.pdf",
+      "char_count": 188956
+    },
+    {
+      "doc_id": "DOC-GLB-2023",
+      "doc_type": "general_ledger_book",
+      "filename": "general_ledger_book/DOC-GLB-2023.pdf",
+      "char_count": 128130
+    },
+    {
+      "doc_id": "DOC-GLB-2024",
+      "doc_type": "general_ledger_book",
+      "filename": "general_ledger_book/DOC-GLB-2024.pdf",
+      "char_count": 128852
+    },
+    {
+      "doc_id": "DOC-GLB-2025",
+      "doc_type": "general_ledger_book",
+      "filename": "general_ledger_book/DOC-GLB-2025.pdf",
+      "char_count": 168197
+    },
+    {
+      "doc_id": "DOC-GLB-2026",
+      "doc_type": "general_ledger_book",
+      "filename": "general_ledger_book/DOC-GLB-2026.pdf",
+      "char_count": 15532
+    },
+    {
+      "doc_id": "DOC-PCERT-006",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-006.pdf",
+      "char_count": 1308
+    },
+    {
+      "doc_id": "DOC-PCERT-007",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-007.pdf",
+      "char_count": 1306
+    },
+    {
+      "doc_id": "DOC-PCERT-008",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-008.pdf",
+      "char_count": 1318
+    },
+    {
+      "doc_id": "DOC-PCERT-009",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-009.pdf",
+      "char_count": 527
+    },
+    {
+      "doc_id": "DOC-PCERT-010",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-010.pdf",
+      "char_count": 1314
+    },
+    {
+      "doc_id": "DOC-PCERT-011",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-011.pdf",
+      "char_count": 1300
+    },
+    {
+      "doc_id": "DOC-PCERT-012",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-012.pdf",
+      "char_count": 534
+    },
+    {
+      "doc_id": "DOC-PCERT-013",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-013.pdf",
+      "char_count": 1318
+    },
+    {
+      "doc_id": "DOC-PCERT-014",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-014.pdf",
+      "char_count": 529
+    },
+    {
+      "doc_id": "DOC-PCERT-015",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-015.pdf",
+      "char_count": 527
+    },
+    {
+      "doc_id": "DOC-PCERT-016",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-016.pdf",
+      "char_count": 1312
+    },
+    {
+      "doc_id": "DOC-PCERT-017",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-017.pdf",
+      "char_count": 1302
+    },
+    {
+      "doc_id": "DOC-PCERT-018",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-018.pdf",
+      "char_count": 529
+    },
+    {
+      "doc_id": "DOC-PCERT-019",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-019.pdf",
+      "char_count": 527
+    },
+    {
+      "doc_id": "DOC-PCERT-020",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-020.pdf",
+      "char_count": 1294
+    },
+    {
+      "doc_id": "DOC-PCERT-021",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-021.pdf",
+      "char_count": 1316
+    },
+    {
+      "doc_id": "DOC-PCERT-022",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-022.pdf",
+      "char_count": 529
+    },
+    {
+      "doc_id": "DOC-PCERT-023",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-023.pdf",
+      "char_count": 534
+    },
+    {
+      "doc_id": "DOC-PCERT-024",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-024.pdf",
+      "char_count": 1320
+    },
+    {
+      "doc_id": "DOC-PCERT-025",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-025.pdf",
+      "char_count": 530
+    },
+    {
+      "doc_id": "DOC-PCERT-026",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-026.pdf",
+      "char_count": 1306
+    },
+    {
+      "doc_id": "DOC-PCERT-027",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-027.pdf",
+      "char_count": 1292
+    },
+    {
+      "doc_id": "DOC-PCERT-028",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-028.pdf",
+      "char_count": 1284
+    },
+    {
+      "doc_id": "DOC-PCERT-029",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-029.pdf",
+      "char_count": 1300
+    },
+    {
+      "doc_id": "DOC-PCERT-030",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-030.pdf",
+      "char_count": 527
+    },
+    {
+      "doc_id": "DOC-PCERT-031",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-031.pdf",
+      "char_count": 1306
+    },
+    {
+      "doc_id": "DOC-PCERT-032",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-032.pdf",
+      "char_count": 528
+    },
+    {
+      "doc_id": "DOC-PCERT-033",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-033.pdf",
+      "char_count": 529
+    },
+    {
+      "doc_id": "DOC-PCERT-034",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-034.pdf",
+      "char_count": 531
+    },
+    {
+      "doc_id": "DOC-PCERT-035",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-035.pdf",
+      "char_count": 528
+    },
+    {
+      "doc_id": "DOC-PCERT-036",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-036.pdf",
+      "char_count": 1314
+    },
+    {
+      "doc_id": "DOC-PCERT-037",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-037.pdf",
+      "char_count": 1318
+    },
+    {
+      "doc_id": "DOC-PCERT-038",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-038.pdf",
+      "char_count": 532
+    },
+    {
+      "doc_id": "DOC-PCERT-039",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-039.pdf",
+      "char_count": 1294
+    },
+    {
+      "doc_id": "DOC-PCERT-040",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-040.pdf",
+      "char_count": 1324
+    },
+    {
+      "doc_id": "DOC-PCERT-041",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-041.pdf",
+      "char_count": 525
+    },
+    {
+      "doc_id": "DOC-PCERT-042",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-042.pdf",
+      "char_count": 1304
+    },
+    {
+      "doc_id": "DOC-PCERT-043",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-043.pdf",
+      "char_count": 1308
+    },
+    {
+      "doc_id": "DOC-PCERT-044",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-044.pdf",
+      "char_count": 1316
+    },
+    {
+      "doc_id": "DOC-PCERT-156",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-156.pdf",
+      "char_count": 1377
+    },
+    {
+      "doc_id": "DOC-PCERT-157",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-157.pdf",
+      "char_count": 537
+    },
+    {
+      "doc_id": "DOC-PCERT-158",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-158.pdf",
+      "char_count": 1359
+    },
+    {
+      "doc_id": "DOC-PCERT-159",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-159.pdf",
+      "char_count": 539
+    },
+    {
+      "doc_id": "DOC-PCERT-160",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-160.pdf",
+      "char_count": 537
+    },
+    {
+      "doc_id": "DOC-PCERT-161",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-161.pdf",
+      "char_count": 538
+    },
+    {
+      "doc_id": "DOC-PCERT-162",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-162.pdf",
+      "char_count": 1379
+    },
+    {
+      "doc_id": "DOC-PCERT-163",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-163.pdf",
+      "char_count": 1359
+    },
+    {
+      "doc_id": "DOC-PCERT-164",
+      "doc_type": "personnel_certificate",
+      "filename": "personnel_certificate/DOC-PCERT-164.pdf",
+      "char_count": 1347
+    },
+    {
+      "doc_id": "DOC-PPP-001",
+      "doc_type": "past_performance_portfolio",
+      "filename": "past_performance_portfolio/DOC-PPP-001.pdf",
+      "char_count": 70065
+    },
+    {
+      "doc_id": "DOC-RABILL-00344",
+      "doc_type": "ra_bill",
+      "filename": "ra_bill/DOC-RABILL-00344.pdf",
+      "char_count": 1064
+    },
+    {
+      "doc_id": "DOC-RABILL-00345",
+      "doc_type": "ra_bill",
+      "filename": "ra_bill/DOC-RABILL-00345.pdf",
+      "char_count": 1087
+    },
+    {
+      "doc_id": "DOC-RABILL-00424",
+      "doc_type": "ra_bill",
+      "filename": "ra_bill/DOC-RABILL-00424.pdf",
+      "char_count": 1100
+    },
+    {
+      "doc_id": "DOC-RABILL-00425",
+      "doc_type": "ra_bill",
+      "filename": "ra_bill/DOC-RABILL-00425.pdf",
+      "char_count": 1154
+    },
+    {
+      "doc_id": "DOC-RABILL-00434",
+      "doc_type": "ra_bill",
+      "filename": "ra_bill/DOC-RABILL-00434.pdf",
+      "char_count": 1142
+    },
+    {
+      "doc_id": "DOC-RABILL-00435",
+      "doc_type": "ra_bill",
+      "filename": "ra_bill/DOC-RABILL-00435.pdf",
+      "char_count": 1091
+    },
+    {
+      "doc_id": "DOC-REF-001",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-001.pdf",
+      "char_count": 1022
+    },
+    {
+      "doc_id": "DOC-REF-002",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-002.pdf",
+      "char_count": 938
+    },
+    {
+      "doc_id": "DOC-REF-003",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-003.pdf",
+      "char_count": 873
+    },
+    {
+      "doc_id": "DOC-REF-004",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-004.pdf",
+      "char_count": 2336
+    },
+    {
+      "doc_id": "DOC-REF-005",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-005.pdf",
+      "char_count": 2901
+    },
+    {
+      "doc_id": "DOC-REF-006",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-006.pdf",
+      "char_count": 2944
+    },
+    {
+      "doc_id": "DOC-REF-007",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-007.pdf",
+      "char_count": 897
+    },
+    {
+      "doc_id": "DOC-REF-008",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-008.pdf",
+      "char_count": 2321
+    },
+    {
+      "doc_id": "DOC-REF-009",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-009.pdf",
+      "char_count": 1006
+    },
+    {
+      "doc_id": "DOC-REF-010",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-010.pdf",
+      "char_count": 993
+    },
+    {
+      "doc_id": "DOC-REF-011",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-011.pdf",
+      "char_count": 944
+    },
+    {
+      "doc_id": "DOC-REF-012",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-012.pdf",
+      "char_count": 985
+    },
+    {
+      "doc_id": "DOC-REF-013",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-013.pdf",
+      "char_count": 958
+    },
+    {
+      "doc_id": "DOC-REF-014",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-014.pdf",
+      "char_count": 2985
+    },
+    {
+      "doc_id": "DOC-REF-015",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-015.pdf",
+      "char_count": 905
+    },
+    {
+      "doc_id": "DOC-REF-016",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-016.pdf",
+      "char_count": 989
+    },
+    {
+      "doc_id": "DOC-REF-017",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-017.pdf",
+      "char_count": 2981
+    },
+    {
+      "doc_id": "DOC-REF-018",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-018.pdf",
+      "char_count": 3010
+    },
+    {
+      "doc_id": "DOC-REF-019",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-019.pdf",
+      "char_count": 2989
+    },
+    {
+      "doc_id": "DOC-REF-020",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-020.pdf",
+      "char_count": 997
+    },
+    {
+      "doc_id": "DOC-REF-021",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-021.pdf",
+      "char_count": 917
+    },
+    {
+      "doc_id": "DOC-REF-022",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-022.pdf",
+      "char_count": 1026
+    },
+    {
+      "doc_id": "DOC-REF-023",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-023.pdf",
+      "char_count": 982
+    },
+    {
+      "doc_id": "DOC-REF-024",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-024.pdf",
+      "char_count": 1032
+    },
+    {
+      "doc_id": "DOC-REF-025",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-025.pdf",
+      "char_count": 733
+    },
+    {
+      "doc_id": "DOC-REF-026",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-026.pdf",
+      "char_count": 873
+    },
+    {
+      "doc_id": "DOC-REF-027",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-027.pdf",
+      "char_count": 946
+    },
+    {
+      "doc_id": "DOC-REF-028",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-028.pdf",
+      "char_count": 2997
+    },
+    {
+      "doc_id": "DOC-REF-029",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-029.pdf",
+      "char_count": 802
+    },
+    {
+      "doc_id": "DOC-REF-030",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-030.pdf",
+      "char_count": 900
+    },
+    {
+      "doc_id": "DOC-REF-031",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-031.pdf",
+      "char_count": 911
+    },
+    {
+      "doc_id": "DOC-REF-032",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-032.pdf",
+      "char_count": 2981
+    },
+    {
+      "doc_id": "DOC-REF-033",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-033.pdf",
+      "char_count": 966
+    },
+    {
+      "doc_id": "DOC-REF-034",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-034.pdf",
+      "char_count": 1059
+    },
+    {
+      "doc_id": "DOC-REF-035",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-035.pdf",
+      "char_count": 954
+    },
+    {
+      "doc_id": "DOC-REF-036",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-036.pdf",
+      "char_count": 970
+    },
+    {
+      "doc_id": "DOC-REF-037",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-037.pdf",
+      "char_count": 966
+    },
+    {
+      "doc_id": "DOC-REF-038",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-038.pdf",
+      "char_count": 992
+    },
+    {
+      "doc_id": "DOC-REF-039",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-039.pdf",
+      "char_count": 2939
+    },
+    {
+      "doc_id": "DOC-REF-040",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-040.pdf",
+      "char_count": 3004
+    },
+    {
+      "doc_id": "DOC-REF-041",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-041.pdf",
+      "char_count": 807
+    },
+    {
+      "doc_id": "DOC-REF-042",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-042.pdf",
+      "char_count": 2911
+    },
+    {
+      "doc_id": "DOC-REF-043",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-043.pdf",
+      "char_count": 974
+    },
+    {
+      "doc_id": "DOC-REF-044",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-044.pdf",
+      "char_count": 1011
+    },
+    {
+      "doc_id": "DOC-REF-045",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-045.pdf",
+      "char_count": 996
+    },
+    {
+      "doc_id": "DOC-REF-046",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-046.pdf",
+      "char_count": 973
+    },
+    {
+      "doc_id": "DOC-REF-047",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-047.pdf",
+      "char_count": 2287
+    },
+    {
+      "doc_id": "DOC-REF-048",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-048.pdf",
+      "char_count": 3011
+    },
+    {
+      "doc_id": "DOC-REF-049",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-049.pdf",
+      "char_count": 3012
+    },
+    {
+      "doc_id": "DOC-REF-050",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-050.pdf",
+      "char_count": 2959
+    },
+    {
+      "doc_id": "DOC-REF-051",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-051.pdf",
+      "char_count": 2993
+    },
+    {
+      "doc_id": "DOC-REF-052",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-052.pdf",
+      "char_count": 928
+    },
+    {
+      "doc_id": "DOC-REF-053",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-053.pdf",
+      "char_count": 988
+    },
+    {
+      "doc_id": "DOC-REF-054",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-054.pdf",
+      "char_count": 1029
+    },
+    {
+      "doc_id": "DOC-REF-055",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-055.pdf",
+      "char_count": 899
+    },
+    {
+      "doc_id": "DOC-REF-056",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-056.pdf",
+      "char_count": 2280
+    },
+    {
+      "doc_id": "DOC-REF-057",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-057.pdf",
+      "char_count": 2960
+    },
+    {
+      "doc_id": "DOC-REF-058",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-058.pdf",
+      "char_count": 1003
+    },
+    {
+      "doc_id": "DOC-REF-059",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-059.pdf",
+      "char_count": 970
+    },
+    {
+      "doc_id": "DOC-REF-060",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-060.pdf",
+      "char_count": 995
+    },
+    {
+      "doc_id": "DOC-REF-061",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-061.pdf",
+      "char_count": 2273
+    },
+    {
+      "doc_id": "DOC-REF-062",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-062.pdf",
+      "char_count": 2239
+    },
+    {
+      "doc_id": "DOC-REF-063",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-063.pdf",
+      "char_count": 903
+    },
+    {
+      "doc_id": "DOC-REF-064",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-064.pdf",
+      "char_count": 694
+    },
+    {
+      "doc_id": "DOC-REF-065",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-065.pdf",
+      "char_count": 975
+    },
+    {
+      "doc_id": "DOC-REF-066",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-066.pdf",
+      "char_count": 967
+    },
+    {
+      "doc_id": "DOC-REF-067",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-067.pdf",
+      "char_count": 687
+    },
+    {
+      "doc_id": "DOC-REF-068",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-068.pdf",
+      "char_count": 2940
+    },
+    {
+      "doc_id": "DOC-REF-069",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-069.pdf",
+      "char_count": 868
+    },
+    {
+      "doc_id": "DOC-REF-070",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-070.pdf",
+      "char_count": 761
+    },
+    {
+      "doc_id": "DOC-REF-071",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-071.pdf",
+      "char_count": 1051
+    },
+    {
+      "doc_id": "DOC-REF-072",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-072.pdf",
+      "char_count": 1006
+    },
+    {
+      "doc_id": "DOC-REF-073",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-073.pdf",
+      "char_count": 720
+    },
+    {
+      "doc_id": "DOC-REF-074",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-074.pdf",
+      "char_count": 992
+    },
+    {
+      "doc_id": "DOC-REF-075",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-075.pdf",
+      "char_count": 944
+    },
+    {
+      "doc_id": "DOC-REF-076",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-076.pdf",
+      "char_count": 893
+    },
+    {
+      "doc_id": "DOC-REF-077",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-077.pdf",
+      "char_count": 958
+    },
+    {
+      "doc_id": "DOC-REF-078",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-078.pdf",
+      "char_count": 1005
+    },
+    {
+      "doc_id": "DOC-REF-079",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-079.pdf",
+      "char_count": 1029
+    },
+    {
+      "doc_id": "DOC-REF-080",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-080.pdf",
+      "char_count": 2984
+    },
+    {
+      "doc_id": "DOC-REF-081",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-081.pdf",
+      "char_count": 984
+    },
+    {
+      "doc_id": "DOC-REF-082",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-082.pdf",
+      "char_count": 1007
+    },
+    {
+      "doc_id": "DOC-REF-083",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-083.pdf",
+      "char_count": 1033
+    },
+    {
+      "doc_id": "DOC-REF-084",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-084.pdf",
+      "char_count": 902
+    },
+    {
+      "doc_id": "DOC-REF-085",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-085.pdf",
+      "char_count": 2234
+    },
+    {
+      "doc_id": "DOC-REF-086",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-086.pdf",
+      "char_count": 981
+    },
+    {
+      "doc_id": "DOC-REF-087",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-087.pdf",
+      "char_count": 2986
+    },
+    {
+      "doc_id": "DOC-REF-088",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-088.pdf",
+      "char_count": 766
+    },
+    {
+      "doc_id": "DOC-REF-089",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-089.pdf",
+      "char_count": 868
+    },
+    {
+      "doc_id": "DOC-REF-090",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-090.pdf",
+      "char_count": 1032
+    },
+    {
+      "doc_id": "DOC-REF-091",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-091.pdf",
+      "char_count": 2919
+    },
+    {
+      "doc_id": "DOC-REF-092",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-092.pdf",
+      "char_count": 921
+    },
+    {
+      "doc_id": "DOC-REF-093",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-093.pdf",
+      "char_count": 737
+    },
+    {
+      "doc_id": "DOC-REF-094",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-094.pdf",
+      "char_count": 2967
+    },
+    {
+      "doc_id": "DOC-REF-095",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-095.pdf",
+      "char_count": 1022
+    },
+    {
+      "doc_id": "DOC-REF-096",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-096.pdf",
+      "char_count": 2952
+    },
+    {
+      "doc_id": "DOC-REF-097",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-097.pdf",
+      "char_count": 972
+    },
+    {
+      "doc_id": "DOC-REF-098",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-098.pdf",
+      "char_count": 2976
+    },
+    {
+      "doc_id": "DOC-REF-099",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-099.pdf",
+      "char_count": 2907
+    },
+    {
+      "doc_id": "DOC-REF-100",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-100.pdf",
+      "char_count": 2398
+    },
+    {
+      "doc_id": "DOC-REF-101",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-101.pdf",
+      "char_count": 957
+    },
+    {
+      "doc_id": "DOC-REF-102",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-102.pdf",
+      "char_count": 2870
+    },
+    {
+      "doc_id": "DOC-REF-103",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-103.pdf",
+      "char_count": 2994
+    },
+    {
+      "doc_id": "DOC-REF-104",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-104.pdf",
+      "char_count": 916
+    },
+    {
+      "doc_id": "DOC-REF-105",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-105.pdf",
+      "char_count": 971
+    },
+    {
+      "doc_id": "DOC-REF-106",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-106.pdf",
+      "char_count": 2916
+    },
+    {
+      "doc_id": "DOC-REF-107",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-107.pdf",
+      "char_count": 948
+    },
+    {
+      "doc_id": "DOC-REF-108",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-108.pdf",
+      "char_count": 996
+    },
+    {
+      "doc_id": "DOC-REF-109",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-109.pdf",
+      "char_count": 2997
+    },
+    {
+      "doc_id": "DOC-REF-110",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-110.pdf",
+      "char_count": 1016
+    },
+    {
+      "doc_id": "DOC-REF-111",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-111.pdf",
+      "char_count": 1014
+    },
+    {
+      "doc_id": "DOC-REF-112",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-112.pdf",
+      "char_count": 972
+    },
+    {
+      "doc_id": "DOC-REF-113",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-113.pdf",
+      "char_count": 960
+    },
+    {
+      "doc_id": "DOC-REF-114",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-114.pdf",
+      "char_count": 2949
+    },
+    {
+      "doc_id": "DOC-REF-115",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-115.pdf",
+      "char_count": 2949
+    },
+    {
+      "doc_id": "DOC-REF-116",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-116.pdf",
+      "char_count": 2218
+    },
+    {
+      "doc_id": "DOC-REF-117",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-117.pdf",
+      "char_count": 1002
+    },
+    {
+      "doc_id": "DOC-REF-118",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-118.pdf",
+      "char_count": 1027
+    },
+    {
+      "doc_id": "DOC-REF-119",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-119.pdf",
+      "char_count": 3042
+    },
+    {
+      "doc_id": "DOC-REF-120",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-120.pdf",
+      "char_count": 968
+    },
+    {
+      "doc_id": "DOC-REF-121",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-121.pdf",
+      "char_count": 2260
+    },
+    {
+      "doc_id": "DOC-REF-122",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-122.pdf",
+      "char_count": 720
+    },
+    {
+      "doc_id": "DOC-REF-123",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-123.pdf",
+      "char_count": 967
+    },
+    {
+      "doc_id": "DOC-REF-124",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-124.pdf",
+      "char_count": 2349
+    },
+    {
+      "doc_id": "DOC-REF-125",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-125.pdf",
+      "char_count": 917
+    },
+    {
+      "doc_id": "DOC-REF-126",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-126.pdf",
+      "char_count": 1080
+    },
+    {
+      "doc_id": "DOC-REF-127",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-127.pdf",
+      "char_count": 2244
+    },
+    {
+      "doc_id": "DOC-REF-128",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-128.pdf",
+      "char_count": 919
+    },
+    {
+      "doc_id": "DOC-REF-129",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-129.pdf",
+      "char_count": 1056
+    },
+    {
+      "doc_id": "DOC-REF-130",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-130.pdf",
+      "char_count": 1039
+    },
+    {
+      "doc_id": "DOC-REF-131",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-131.pdf",
+      "char_count": 2273
+    },
+    {
+      "doc_id": "DOC-REF-132",
+      "doc_type": "reference_letter",
+      "filename": "reference_letter/DOC-REF-132.pdf",
+      "char_count": 976
+    },
+    {
+      "doc_id": "DOC-XL-AGEING",
+      "doc_type": "ageing_workbook",
+      "filename": "workbooks/Receivables_Ageing.xlsx",
+      "char_count": 52563
+    },
+    {
+      "doc_id": "DOC-XL-ASSETS",
+      "doc_type": "asset_register_workbook",
+      "filename": "workbooks/Plant_and_Machinery_Register.xlsx",
+      "char_count": 20412
+    },
+    {
+      "doc_id": "DOC-XL-BOQ-071",
+      "doc_type": "boq_workbook",
+      "filename": "workbooks/BOQ_and_Measurements_Contract_71.xlsx",
+      "char_count": 6404
+    },
+    {
+      "doc_id": "DOC-XL-BOQ-072",
+      "doc_type": "boq_workbook",
+      "filename": "workbooks/BOQ_and_Measurements_Contract_72.xlsx",
+      "char_count": 4374
+    },
+    {
+      "doc_id": "DOC-XL-BOQ-073",
+      "doc_type": "boq_workbook",
+      "filename": "workbooks/BOQ_and_Measurements_Contract_73.xlsx",
+      "char_count": 5138
+    },
+    {
+      "doc_id": "DOC-XL-BOQ-074",
+      "doc_type": "boq_workbook",
+      "filename": "workbooks/BOQ_and_Measurements_Contract_74.xlsx",
+      "char_count": 7957
+    },
+    {
+      "doc_id": "DOC-XL-BOQ-075",
+      "doc_type": "boq_workbook",
+      "filename": "workbooks/BOQ_and_Measurements_Contract_75.xlsx",
+      "char_count": 8167
+    },
+    {
+      "doc_id": "DOC-XL-BOQ-079",
+      "doc_type": "boq_workbook",
+      "filename": "workbooks/BOQ_and_Measurements_Contract_79.xlsx",
+      "char_count": 5369
+    },
+    {
+      "doc_id": "DOC-XL-TB",
+      "doc_type": "trial_balance_workbook",
+      "filename": "workbooks/Trial_Balance_by_Year.xlsx",
+      "char_count": 11403
+    }
+  ],
+  "terms": 6200
+}
