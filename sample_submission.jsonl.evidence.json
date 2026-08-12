@@ -1,0 +1,2672 @@
+[
+  {
+    "qid": "HS-IC-0001",
+    "answer": 1,
+    "operation": "count_missing_reference",
+    "evidence": {
+      "plan": {
+        "question": "Cross-checking against the Public Health Engineering Dept, Gujarat, how many works have no client reference letter on file?",
+        "operation": "count_missing_reference",
+        "scope": "client_portfolio"
+      },
+      "entities": {
+        "client": "Public Health Engineering Dept, Gujarat"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-066",
+          "project": "STP - Gujarat Pkg-66",
+          "client": "Public Health Engineering Dept, Gujarat",
+          "value_inr": 134000000,
+          "completion_date": "2017-07-04",
+          "category": "Sewerage Drainage",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-135",
+          "project": "Drainage Works - Gujarat Pkg-135",
+          "client": "Public Health Engineering Dept, Gujarat",
+          "value_inr": 23300000,
+          "completion_date": "2010-10-16",
+          "category": "Roads Maintenance",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-066",
+          "doc_id": "DOC-BOND-00066",
+          "relationship": "PERFORMANCE_BOND",
+          "confidence": 0.8,
+          "evidence_json": "[\"document numeric suffix\", \"BND-00066 Issue Date: 2020-08-09\"]",
+          "filename": "performance_bond/DOC-BOND-00066.pdf",
+          "doc_type": "performance_bond"
+        },
+        {
+          "project_id": "PRJ-066",
+          "doc_id": "DOC-CC-066",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-066.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-066",
+          "doc_id": "DOC-CCC-066",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-066\", \"INR 13.40 Cr\", \"2017-07-04\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-066.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-066",
+          "doc_id": "DOC-REF-058",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-058.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-135",
+          "doc_id": "DOC-CC-135",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-135.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-135",
+          "doc_id": "DOC-CCC-135",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-135\", \"INR 2.33 Cr\", \"16/10/2010\", \"CC/40/2010/135\"]",
+          "filename": "company_completion_certificate/DOC-CCC-135.pdf",
+          "doc_type": "company_completion_certificate"
+        }
+      ]
+    }
+  },
+  {
+    "qid": "HS-IC-0002",
+    "answer": 2,
+    "operation": "count_missing_reference",
+    "evidence": {
+      "plan": {
+        "question": "Jal Nigam, Jharkhand — I’m pretty sure we only have reference letters for one of their projects, but am I right in thinking how many of their completed works actually lack a client reference letter on file?",
+        "operation": "count_missing_reference",
+        "scope": "client_portfolio"
+      },
+      "entities": {
+        "client": "Jal Nigam, Jharkhand"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-012",
+          "project": "Material Handling Plant - Jharkhand Pkg-12",
+          "client": "Jal Nigam, Jharkhand",
+          "value_inr": 730200000,
+          "completion_date": "2020-07-27",
+          "category": "Industrial Epc",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-115",
+          "project": "Cable Stayed Bridge - Jharkhand Pkg-115",
+          "client": "Jal Nigam, Jharkhand",
+          "value_inr": 814400000,
+          "completion_date": "2018-02-23",
+          "category": "Large Bridges",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-131",
+          "project": "Pipeline Laying - Jharkhand Pkg-131",
+          "client": "Jal Nigam, Jharkhand",
+          "value_inr": 69200000,
+          "completion_date": "2021-08-17",
+          "category": "Water Supply",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-012",
+          "doc_id": "DOC-CC-012",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-012.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-012",
+          "doc_id": "DOC-CCC-012",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-012\", \"INR 73.02 Cr\", \"27/07/2020\", \"CC/7/2020/012\"]",
+          "filename": "company_completion_certificate/DOC-CCC-012.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-012",
+          "doc_id": "DOC-REF-011",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-011.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-115",
+          "doc_id": "DOC-CC-115",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-115.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-115",
+          "doc_id": "DOC-CCC-115",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-115\", \"INR 81.44 Cr\", \"23/02/2018\", \"CC/7/2018/115\"]",
+          "filename": "company_completion_certificate/DOC-CCC-115.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-131",
+          "doc_id": "DOC-CC-131",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-131.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-131",
+          "doc_id": "DOC-CCC-131",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-131\", \"Rs. 6.92 Crore\", \"17/08/2021\", \"CC/7/2021/131\"]",
+          "filename": "company_completion_certificate/DOC-CCC-131.pdf",
+          "doc_type": "company_completion_certificate"
+        }
+      ]
+    }
+  },
+  {
+    "qid": "HS-IC-0003",
+    "answer": 1569,
+    "operation": "days_between_cert_and_completion",
+    "evidence": {
+      "plan": {
+        "question": "Cross-checking the completion date against Asha Nair's PMP for 2021-03-10, what number of days passed from issuance to finish for School Building — Madhya Pradesh Pkg-145?",
+        "credential_type": "PMP",
+        "operation": "days_between_cert_and_completion"
+      },
+      "entities": {
+        "person": "Asha Nair",
+        "project": "School Building - Madhya Pradesh Pkg-145"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-145",
+          "project": "School Building - Madhya Pradesh Pkg-145",
+          "client": "Mega Infrastructure Authority",
+          "value_inr": 30000000,
+          "completion_date": "2025-06-26",
+          "category": "Small Buildings",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-145",
+          "doc_id": "DOC-CC-145",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-145.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-145",
+          "doc_id": "DOC-CCC-145",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-145\", \"Rs. 3.00 Crore\", \"26/06/2025\", \"CC/16/2025/145\"]",
+          "filename": "company_completion_certificate/DOC-CCC-145.pdf",
+          "doc_type": "company_completion_certificate"
+        }
+      ],
+      "calculation": "2025-06-26 - 2021-03-10"
+    }
+  },
+  {
+    "qid": "HS-IC-0004",
+    "answer": 646,
+    "operation": "days_between_cert_and_completion",
+    "evidence": {
+      "plan": {
+        "question": "To ensure the audit documentation reflects the official timeline, what is the exact interval from Chandan Banerjee's March 10, 2021 PMP issuance to the completion of the WTP Augmentation project in West Bengal Package 51?",
+        "credential_type": "PMP",
+        "operation": "days_between_cert_and_completion"
+      },
+      "entities": {
+        "person": "Chandan Banerjee",
+        "project": "WTP Augmentation - West Bengal Pkg-51"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-051",
+          "project": "WTP Augmentation - West Bengal Pkg-51",
+          "client": "Lakshya Engineering & Construction",
+          "value_inr": 149200000,
+          "completion_date": "2022-12-16",
+          "category": "Water Treatment",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-051",
+          "doc_id": "DOC-CC-051",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.7,
+          "evidence_json": "[\"matching package/document number\"]",
+          "filename": "completion_certificate/DOC-CC-051.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-051",
+          "doc_id": "DOC-CCC-051",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-051\", \"Rs. 14.92 Crore\", \"16/12/2022\", \"CC/49/2022/051\"]",
+          "filename": "company_completion_certificate/DOC-CCC-051.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-051",
+          "doc_id": "DOC-REF-044",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\"]",
+          "filename": "reference_letter/DOC-REF-044.pdf",
+          "doc_type": "reference_letter"
+        }
+      ],
+      "calculation": "2022-12-16 - 2021-03-10"
+    }
+  },
+  {
+    "qid": "HS-IC-0005",
+    "answer": 3,
+    "operation": "distinct_count_categories_for_person",
+    "evidence": {
+      "plan": {
+        "question": "How many different categories of work has Chandan Banerjee led to completion under his PMP certification?",
+        "credential_type": "PMP",
+        "operation": "distinct_count_categories_for_person"
+      },
+      "entities": {
+        "person": "Chandan Banerjee"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-033",
+          "project": "Process Piping Package - Gujarat Pkg-33",
+          "client": "Trishakti Power Generation Corporation",
+          "value_inr": 210400000,
+          "completion_date": "2017-09-02",
+          "category": "Industrial Epc",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-051",
+          "project": "WTP Augmentation - West Bengal Pkg-51",
+          "client": "Lakshya Engineering & Construction",
+          "value_inr": 149200000,
+          "completion_date": "2022-12-16",
+          "category": "Water Treatment",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-116",
+          "project": "Six-Lane Highway - West Bengal Pkg-116",
+          "client": "Trishakti Power Generation Corporation",
+          "value_inr": 2000000000,
+          "completion_date": "2020-02-11",
+          "category": "Expressways",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-033",
+          "doc_id": "DOC-CC-033",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-033.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-033",
+          "doc_id": "DOC-CCC-033",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-033\", \"INR 21.04 Cr\", \"02/09/2017\", \"CC/8/2017/033\"]",
+          "filename": "company_completion_certificate/DOC-CCC-033.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-033",
+          "doc_id": "DOC-REF-029",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-029.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-051",
+          "doc_id": "DOC-CC-051",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.7,
+          "evidence_json": "[\"matching package/document number\"]",
+          "filename": "completion_certificate/DOC-CC-051.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-051",
+          "doc_id": "DOC-CCC-051",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-051\", \"Rs. 14.92 Crore\", \"16/12/2022\", \"CC/49/2022/051\"]",
+          "filename": "company_completion_certificate/DOC-CCC-051.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-051",
+          "doc_id": "DOC-REF-044",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\"]",
+          "filename": "reference_letter/DOC-REF-044.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-116",
+          "doc_id": "DOC-CC-116",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-116.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-116",
+          "doc_id": "DOC-CCC-116",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-116\", \"INR 200.00 Cr\", \"2020-02-11\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-116.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-116",
+          "doc_id": "DOC-REF-103",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-103.pdf",
+          "doc_type": "reference_letter"
+        }
+      ],
+      "categories": [
+        "expressways",
+        "industrial epc",
+        "water treatment"
+      ]
+    }
+  },
+  {
+    "qid": "HS-IC-0006",
+    "answer": 4,
+    "operation": "distinct_count_categories_for_person",
+    "evidence": {
+      "plan": {
+        "question": "Asha Nair's PMP project portfolio shows several completed assignments; how many distinct work classifications has she successfully delivered?",
+        "credential_type": "PMP",
+        "operation": "distinct_count_categories_for_person"
+      },
+      "entities": {
+        "person": "Asha Nair"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-038",
+          "project": "STP - Jharkhand Pkg-38",
+          "client": "Central Works & Buildings Bureau",
+          "value_inr": 321400000,
+          "completion_date": "2013-09-07",
+          "category": "Sewerage Drainage",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-093",
+          "project": "WTP Augmentation - Maharashtra Pkg-93",
+          "client": "Public Works Department, Govt of Maharashtra",
+          "value_inr": 214200000,
+          "completion_date": "2021-05-26",
+          "category": "Water Treatment",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-115",
+          "project": "Cable Stayed Bridge - Jharkhand Pkg-115",
+          "client": "Jal Nigam, Jharkhand",
+          "value_inr": 814400000,
+          "completion_date": "2018-02-23",
+          "category": "Large Bridges",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-145",
+          "project": "School Building - Madhya Pradesh Pkg-145",
+          "client": "Mega Infrastructure Authority",
+          "value_inr": 30000000,
+          "completion_date": "2025-06-26",
+          "category": "Small Buildings",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-038",
+          "doc_id": "DOC-CC-038",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-038.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-038",
+          "doc_id": "DOC-CCC-038",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-038\", \"INR 32.14 Cr\", \"2013-09-07\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-038.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-038",
+          "doc_id": "DOC-REF-033",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-033.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-093",
+          "doc_id": "DOC-CC-093",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-093.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-093",
+          "doc_id": "DOC-CCC-093",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-093\", \"Rs. 21.42 Crore\", \"26/05/2021\", \"CC/52/2021/093\"]",
+          "filename": "company_completion_certificate/DOC-CCC-093.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-093",
+          "doc_id": "DOC-REF-083",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-083.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-115",
+          "doc_id": "DOC-CC-115",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-115.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-115",
+          "doc_id": "DOC-CCC-115",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-115\", \"INR 81.44 Cr\", \"23/02/2018\", \"CC/7/2018/115\"]",
+          "filename": "company_completion_certificate/DOC-CCC-115.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-145",
+          "doc_id": "DOC-CC-145",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-145.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-145",
+          "doc_id": "DOC-CCC-145",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-145\", \"Rs. 3.00 Crore\", \"26/06/2025\", \"CC/16/2025/145\"]",
+          "filename": "company_completion_certificate/DOC-CCC-145.pdf",
+          "doc_type": "company_completion_certificate"
+        }
+      ],
+      "categories": [
+        "large bridges",
+        "sewerage drainage",
+        "small buildings",
+        "water treatment"
+      ]
+    }
+  },
+  {
+    "qid": "HS-IC-0007",
+    "answer": 2008199999,
+    "operation": "sum_anchor_client_portfolio",
+    "evidence": {
+      "plan": {
+        "question": "Starting from Rahul Menon’s PMP certification (PMI-200029) for the Ring Road — Maharashtra Pkg-125, what is the combined value of every completed assignment he has delivered for the Public Works Department, Govt of Maharashtra?",
+        "credential_id": "PMI-200029",
+        "credential_type": "PMP",
+        "operation": "sum_anchor_client_portfolio"
+      },
+      "entities": {
+        "client": "Public Works Department, Govt of Maharashtra",
+        "person": "Rahul Menon",
+        "project": "Ring Road - Maharashtra Pkg-125"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-021",
+          "project": "Road Widening - Maharashtra Pkg-21",
+          "client": "Public Works Department, Govt of Maharashtra",
+          "value_inr": 193299999,
+          "completion_date": "2011-04-22",
+          "category": "Roads Highways",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-087",
+          "project": "Sewerage Network - Maharashtra Pkg-87",
+          "client": "Public Works Department, Govt of Maharashtra",
+          "value_inr": 176600000,
+          "completion_date": "2011-02-23",
+          "category": "Sewerage Drainage",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-093",
+          "project": "WTP Augmentation - Maharashtra Pkg-93",
+          "client": "Public Works Department, Govt of Maharashtra",
+          "value_inr": 214200000,
+          "completion_date": "2021-05-26",
+          "category": "Water Treatment",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-097",
+          "project": "Check Dam - Maharashtra Pkg-97",
+          "client": "Public Works Department, Govt of Maharashtra",
+          "value_inr": 307300000,
+          "completion_date": "2018-04-12",
+          "category": "Irrigation",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-103",
+          "project": "Steel Truss Bridge - Maharashtra Pkg-103",
+          "client": "Public Works Department, Govt of Maharashtra",
+          "value_inr": 586900000,
+          "completion_date": "2010-09-30",
+          "category": "Large Bridges",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-125",
+          "project": "Ring Road - Maharashtra Pkg-125",
+          "client": "Public Works Department, Govt of Maharashtra",
+          "value_inr": 529900000,
+          "completion_date": "2010-03-01",
+          "category": "Expressways",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-021",
+          "doc_id": "DOC-CC-021",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-021.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-021",
+          "doc_id": "DOC-CCC-021",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-021\", \"INR 19.33 Cr\", \"2011-04-22\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-021.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-021",
+          "doc_id": "DOC-REF-018",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-018.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-087",
+          "doc_id": "DOC-BOND-00087",
+          "relationship": "PERFORMANCE_BOND",
+          "confidence": 0.8,
+          "evidence_json": "[\"document numeric suffix\", null]",
+          "filename": "performance_bond/DOC-BOND-00087.pdf",
+          "doc_type": "performance_bond"
+        },
+        {
+          "project_id": "PRJ-087",
+          "doc_id": "DOC-CC-087",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-087.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-087",
+          "doc_id": "DOC-CCC-087",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-087\", \"INR 17.66 Cr\", \"23/02/2011\", \"CC/52/2011/087\"]",
+          "filename": "company_completion_certificate/DOC-CCC-087.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-087",
+          "doc_id": "DOC-REF-077",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-077.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-093",
+          "doc_id": "DOC-CC-093",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-093.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-093",
+          "doc_id": "DOC-CCC-093",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-093\", \"Rs. 21.42 Crore\", \"26/05/2021\", \"CC/52/2021/093\"]",
+          "filename": "company_completion_certificate/DOC-CCC-093.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-093",
+          "doc_id": "DOC-REF-083",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-083.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-097",
+          "doc_id": "DOC-CC-097",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-097.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-097",
+          "doc_id": "DOC-CCC-097",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-097\", \"INR 30.73 Cr\", \"2018-04-12\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-097.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-097",
+          "doc_id": "DOC-REF-087",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-087.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-103",
+          "doc_id": "DOC-CC-103",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-103.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-103",
+          "doc_id": "DOC-CCC-103",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-103\", \"INR 58.69 Cr\", \"2010-09-30\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-103.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-125",
+          "doc_id": "DOC-CC-125",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-125.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-125",
+          "doc_id": "DOC-CCC-125",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-125\", \"INR 52.99 Cr\", \"2010-03-01\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-125.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-125",
+          "doc_id": "DOC-REF-112",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-112.pdf",
+          "doc_type": "reference_letter"
+        }
+      ]
+    }
+  },
+  {
+    "qid": "HS-IC-0008",
+    "answer": 1944300000,
+    "operation": "sum_anchor_client_portfolio",
+    "evidence": {
+      "plan": {
+        "question": "Could you please calculate the total value of all completed assignments Neha Chopra has delivered for Lakshya Engineering & Construction, referencing her PMP certification (PMI-200006) and the Residential Quarters — West Bengal Pkg-67 project as the reference point?",
+        "credential_id": "PMI-200006",
+        "credential_type": "PMP",
+        "operation": "sum_anchor_client_portfolio"
+      },
+      "entities": {
+        "client": "Lakshya Engineering & Construction",
+        "person": "Neha Chopra",
+        "project": "Residential Quarters - West Bengal Pkg-67"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-018",
+          "project": "Hospital Block - West Bengal Pkg-18",
+          "client": "Lakshya Engineering & Construction",
+          "value_inr": 98000000,
+          "completion_date": "2013-03-22",
+          "category": "Buildings",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-030",
+          "project": "WTP Augmentation - West Bengal Pkg-30",
+          "client": "Lakshya Engineering & Construction",
+          "value_inr": 182600000,
+          "completion_date": "2021-06-28",
+          "category": "Water Treatment",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-046",
+          "project": "Hospital Block - West Bengal Pkg-46",
+          "client": "Lakshya Engineering & Construction",
+          "value_inr": 318900000,
+          "completion_date": "2016-02-03",
+          "category": "Buildings",
+          "has_reference_letter": true,
+          "contractor_role": "JV Partner"
+        },
+        {
+          "project_id": "PRJ-051",
+          "project": "WTP Augmentation - West Bengal Pkg-51",
+          "client": "Lakshya Engineering & Construction",
+          "value_inr": 149200000,
+          "completion_date": "2022-12-16",
+          "category": "Water Treatment",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-067",
+          "project": "Residential Quarters - West Bengal Pkg-67",
+          "client": "Lakshya Engineering & Construction",
+          "value_inr": 161700000,
+          "completion_date": "2016-02-08",
+          "category": "Buildings",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-101",
+          "project": "Six-Lane Highway - Uttar Pradesh Pkg-101",
+          "client": "Lakshya Engineering & Construction",
+          "value_inr": 977200000,
+          "completion_date": "2018-02-08",
+          "category": "Expressways",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-144",
+          "project": "Drainage Works - Uttar Pradesh Pkg-144",
+          "client": "Lakshya Engineering & Construction",
+          "value_inr": 56700000,
+          "completion_date": "2017-01-03",
+          "category": "Roads Maintenance",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-018",
+          "doc_id": "DOC-CC-018",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\"]",
+          "filename": "completion_certificate/DOC-CC-018.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-018",
+          "doc_id": "DOC-CCC-018",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-018\", \"INR 9.80 Cr\", \"22/03/2013\", \"CC/49/2013/018\"]",
+          "filename": "company_completion_certificate/DOC-CCC-018.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-018",
+          "doc_id": "DOC-REF-015",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\"]",
+          "filename": "reference_letter/DOC-REF-015.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-030",
+          "doc_id": "DOC-BOND-00030",
+          "relationship": "PERFORMANCE_BOND",
+          "confidence": 0.8,
+          "evidence_json": "[\"document numeric suffix\", \"BND-00030 Issue Date: 2019-11-03\"]",
+          "filename": "performance_bond/DOC-BOND-00030.pdf",
+          "doc_type": "performance_bond"
+        },
+        {
+          "project_id": "PRJ-030",
+          "doc_id": "DOC-CC-030",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\"]",
+          "filename": "completion_certificate/DOC-CC-030.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-030",
+          "doc_id": "DOC-CCC-030",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-030\", \"Rs. 18.26 Crore\", \"28/06/2021\", \"CC/49/2021/030\"]",
+          "filename": "company_completion_certificate/DOC-CCC-030.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-030",
+          "doc_id": "DOC-REF-027",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\"]",
+          "filename": "reference_letter/DOC-REF-027.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-046",
+          "doc_id": "DOC-BOND-00046",
+          "relationship": "PERFORMANCE_BOND",
+          "confidence": 0.8,
+          "evidence_json": "[\"document numeric suffix\", null]",
+          "filename": "performance_bond/DOC-BOND-00046.pdf",
+          "doc_type": "performance_bond"
+        },
+        {
+          "project_id": "PRJ-046",
+          "doc_id": "DOC-CC-046",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-046.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-046",
+          "doc_id": "DOC-CCC-046",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-046\", \"INR 31.89 Cr\", \"03/02/2016\", \"CC/15/2016/046\"]",
+          "filename": "company_completion_certificate/DOC-CCC-046.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-046",
+          "doc_id": "DOC-REF-040",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-040.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-051",
+          "doc_id": "DOC-CC-051",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.7,
+          "evidence_json": "[\"matching package/document number\"]",
+          "filename": "completion_certificate/DOC-CC-051.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-051",
+          "doc_id": "DOC-CCC-051",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-051\", \"Rs. 14.92 Crore\", \"16/12/2022\", \"CC/49/2022/051\"]",
+          "filename": "company_completion_certificate/DOC-CCC-051.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-051",
+          "doc_id": "DOC-REF-044",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\"]",
+          "filename": "reference_letter/DOC-REF-044.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-067",
+          "doc_id": "DOC-BOND-00067",
+          "relationship": "PERFORMANCE_BOND",
+          "confidence": 0.8,
+          "evidence_json": "[\"document numeric suffix\", null]",
+          "filename": "performance_bond/DOC-BOND-00067.pdf",
+          "doc_type": "performance_bond"
+        },
+        {
+          "project_id": "PRJ-067",
+          "doc_id": "DOC-CC-067",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-067.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-067",
+          "doc_id": "DOC-CCC-067",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-067\", \"INR 16.17 Cr\", \"2016-02-08\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-067.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-067",
+          "doc_id": "DOC-REF-059",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-059.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-101",
+          "doc_id": "DOC-BOND-00101",
+          "relationship": "PERFORMANCE_BOND",
+          "confidence": 0.8,
+          "evidence_json": "[\"document numeric suffix\", null]",
+          "filename": "performance_bond/DOC-BOND-00101.pdf",
+          "doc_type": "performance_bond"
+        },
+        {
+          "project_id": "PRJ-101",
+          "doc_id": "DOC-CC-101",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-101.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-101",
+          "doc_id": "DOC-CCC-101",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-101\", \"INR 97.72 Cr\", \"08/02/2018\", \"CC/32/2018/101\"]",
+          "filename": "company_completion_certificate/DOC-CCC-101.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-144",
+          "doc_id": "DOC-CC-144",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-144.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-144",
+          "doc_id": "DOC-CCC-144",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-144\", \"INR 5.67 Cr\", \"2017-01-03\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-144.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-144",
+          "doc_id": "DOC-REF-124",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-124.pdf",
+          "doc_type": "reference_letter"
+        }
+      ]
+    }
+  },
+  {
+    "qid": "HS-IC-0009",
+    "answer": 518200000,
+    "operation": "sum_person_projects_after_cert",
+    "evidence": {
+      "plan": {
+        "question": "Gautam Joshi’s PMP issued March 10, 2021, what’s the combined value of only the projects he led that wrapped up after that date, needed immediately for the bid cutoff?",
+        "credential_type": "PMP",
+        "operation": "sum_person_projects_after_cert"
+      },
+      "entities": {
+        "person": "Gautam Joshi"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-061",
+          "project": "Material Handling Plant - Jharkhand Pkg-61",
+          "client": "National Expressway Development Authority",
+          "value_inr": 449000000,
+          "completion_date": "2021-07-31",
+          "category": "Industrial Epc",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-131",
+          "project": "Pipeline Laying - Jharkhand Pkg-131",
+          "client": "Jal Nigam, Jharkhand",
+          "value_inr": 69200000,
+          "completion_date": "2021-08-17",
+          "category": "Water Supply",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-061",
+          "doc_id": "DOC-CC-061",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-061.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-061",
+          "doc_id": "DOC-CCC-061",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-061\", \"Rs. 44.90 Crore\", \"31/07/2021\", \"CC/54/2021/061\"]",
+          "filename": "company_completion_certificate/DOC-CCC-061.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-061",
+          "doc_id": "DOC-REF-054",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-054.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-131",
+          "doc_id": "DOC-CC-131",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-131.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-131",
+          "doc_id": "DOC-CCC-131",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-131\", \"Rs. 6.92 Crore\", \"17/08/2021\", \"CC/7/2021/131\"]",
+          "filename": "company_completion_certificate/DOC-CCC-131.pdf",
+          "doc_type": "company_completion_certificate"
+        }
+      ],
+      "calculation": "completion_date > 2021-03-10"
+    }
+  },
+  {
+    "qid": "HS-IC-0010",
+    "answer": 244200000,
+    "operation": "sum_person_projects_after_cert",
+    "evidence": {
+      "plan": {
+        "question": "Could you please calculate the combined value of the works Asha Nair led that were completed after her PMP certification date of March 10, 2021?",
+        "credential_type": "PMP",
+        "operation": "sum_person_projects_after_cert"
+      },
+      "entities": {
+        "person": "Asha Nair"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-093",
+          "project": "WTP Augmentation - Maharashtra Pkg-93",
+          "client": "Public Works Department, Govt of Maharashtra",
+          "value_inr": 214200000,
+          "completion_date": "2021-05-26",
+          "category": "Water Treatment",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-145",
+          "project": "School Building - Madhya Pradesh Pkg-145",
+          "client": "Mega Infrastructure Authority",
+          "value_inr": 30000000,
+          "completion_date": "2025-06-26",
+          "category": "Small Buildings",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-093",
+          "doc_id": "DOC-CC-093",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-093.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-093",
+          "doc_id": "DOC-CCC-093",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-093\", \"Rs. 21.42 Crore\", \"26/05/2021\", \"CC/52/2021/093\"]",
+          "filename": "company_completion_certificate/DOC-CCC-093.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-093",
+          "doc_id": "DOC-REF-083",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-083.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-145",
+          "doc_id": "DOC-CC-145",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-145.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-145",
+          "doc_id": "DOC-CCC-145",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-145\", \"Rs. 3.00 Crore\", \"26/06/2025\", \"CC/16/2025/145\"]",
+          "filename": "company_completion_certificate/DOC-CCC-145.pdf",
+          "doc_type": "company_completion_certificate"
+        }
+      ],
+      "calculation": "completion_date > 2021-03-10"
+    }
+  },
+  {
+    "qid": "HS-IC-0011",
+    "answer": 537933333,
+    "operation": "average_client_project_value",
+    "evidence": {
+      "plan": {
+        "question": "Regarding Asha Nair’s PMP work on the Cable Stayed Bridge — Jharkhand Pkg-115, what is the defensible average size across all completed projects for the commissioning client?",
+        "credential_type": "PMP",
+        "operation": "average_client_project_value"
+      },
+      "entities": {
+        "person": "Asha Nair",
+        "project": "Cable Stayed Bridge - Jharkhand Pkg-115"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-012",
+          "project": "Material Handling Plant - Jharkhand Pkg-12",
+          "client": "Jal Nigam, Jharkhand",
+          "value_inr": 730200000,
+          "completion_date": "2020-07-27",
+          "category": "Industrial Epc",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-115",
+          "project": "Cable Stayed Bridge - Jharkhand Pkg-115",
+          "client": "Jal Nigam, Jharkhand",
+          "value_inr": 814400000,
+          "completion_date": "2018-02-23",
+          "category": "Large Bridges",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-131",
+          "project": "Pipeline Laying - Jharkhand Pkg-131",
+          "client": "Jal Nigam, Jharkhand",
+          "value_inr": 69200000,
+          "completion_date": "2021-08-17",
+          "category": "Water Supply",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-012",
+          "doc_id": "DOC-CC-012",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-012.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-012",
+          "doc_id": "DOC-CCC-012",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-012\", \"INR 73.02 Cr\", \"27/07/2020\", \"CC/7/2020/012\"]",
+          "filename": "company_completion_certificate/DOC-CCC-012.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-012",
+          "doc_id": "DOC-REF-011",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-011.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-115",
+          "doc_id": "DOC-CC-115",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-115.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-115",
+          "doc_id": "DOC-CCC-115",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-115\", \"INR 81.44 Cr\", \"23/02/2018\", \"CC/7/2018/115\"]",
+          "filename": "company_completion_certificate/DOC-CCC-115.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-131",
+          "doc_id": "DOC-CC-131",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-131.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-131",
+          "doc_id": "DOC-CCC-131",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-131\", \"Rs. 6.92 Crore\", \"17/08/2021\", \"CC/7/2021/131\"]",
+          "filename": "company_completion_certificate/DOC-CCC-131.pdf",
+          "doc_type": "company_completion_certificate"
+        }
+      ],
+      "calculation": "sum(values) / 3"
+    }
+  },
+  {
+    "qid": "HS-IC-0012",
+    "answer": 229500000,
+    "operation": "average_client_project_value",
+    "evidence": {
+      "plan": {
+        "question": "Cross-checking Naveen Roy's PMP for Check Dam — Gujarat Pkg-62, what is the mean size across projects for the client?",
+        "credential_type": "PMP",
+        "operation": "average_client_project_value"
+      },
+      "entities": {
+        "person": "Naveen Roy",
+        "project": "Check Dam - Gujarat Pkg-62"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-003",
+          "project": "STP - Gujarat Pkg-3",
+          "client": "Public Works Department, Govt of Gujarat",
+          "value_inr": 209200000,
+          "completion_date": "2016-04-11",
+          "category": "Sewerage Drainage",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-062",
+          "project": "Check Dam - Gujarat Pkg-62",
+          "client": "Public Works Department, Govt of Gujarat",
+          "value_inr": 467300000,
+          "completion_date": "2013-03-20",
+          "category": "Irrigation",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-138",
+          "project": "Patch Repair - Gujarat Pkg-138",
+          "client": "Public Works Department, Govt of Gujarat",
+          "value_inr": 12000000,
+          "completion_date": "2018-03-02",
+          "category": "Roads Maintenance",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-003",
+          "doc_id": "DOC-CC-003",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-003.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-003",
+          "doc_id": "DOC-CCC-003",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-003\", \"INR 20.92 Cr\", \"2016-04-11\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-003.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-003",
+          "doc_id": "DOC-REF-003",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-003.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-062",
+          "doc_id": "DOC-CC-062",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-062.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-062",
+          "doc_id": "DOC-CCC-062",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-062\", \"INR 46.73 Cr\", \"20/03/2013\", \"CC/35/2013/062\"]",
+          "filename": "company_completion_certificate/DOC-CCC-062.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-062",
+          "doc_id": "DOC-REF-055",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-055.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-138",
+          "doc_id": "DOC-CC-138",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-138.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-138",
+          "doc_id": "DOC-CCC-138",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-138\", \"INR 1.20 Cr\", \"02/03/2018\", \"CC/35/2018/138\"]",
+          "filename": "company_completion_certificate/DOC-CCC-138.pdf",
+          "doc_type": "company_completion_certificate"
+        }
+      ],
+      "calculation": "sum(values) / 3"
+    }
+  },
+  {
+    "qid": "HS-IC-0015",
+    "answer": 763300000,
+    "operation": "sum_client_excluding_category",
+    "evidence": {
+      "plan": {
+        "question": "Irrigation & Waterways Dept, Govt of West Bengal; excluding buildings, what is the precise aggregate value of every project we have delivered for them?",
+        "operation": "sum_client_excluding_category",
+        "excluded_category": "buildings"
+      },
+      "entities": {
+        "client": "Irrigation & Waterways Dept, Govt of West Bengal"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-120",
+          "project": "Highway Tunnel - West Bengal Pkg-120",
+          "client": "Irrigation & Waterways Dept, Govt of West Bengal",
+          "value_inr": 746600000,
+          "completion_date": "2023-05-20",
+          "category": "Tunnels",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-152",
+          "project": "Mini Water Supply - West Bengal Pkg-152",
+          "client": "Irrigation & Waterways Dept, Govt of West Bengal",
+          "value_inr": 16700000,
+          "completion_date": "2025-02-17",
+          "category": "Water Supply",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-120",
+          "doc_id": "DOC-BOND-00120",
+          "relationship": "PERFORMANCE_BOND",
+          "confidence": 0.8,
+          "evidence_json": "[\"document numeric suffix\", null]",
+          "filename": "performance_bond/DOC-BOND-00120.pdf",
+          "doc_type": "performance_bond"
+        },
+        {
+          "project_id": "PRJ-120",
+          "doc_id": "DOC-CC-120",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\"]",
+          "filename": "completion_certificate/DOC-CC-120.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-120",
+          "doc_id": "DOC-CCC-120",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-120\", \"Rs. 74.66 Crore\", \"2023-05-20\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-120.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-120",
+          "doc_id": "DOC-REF-107",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\"]",
+          "filename": "reference_letter/DOC-REF-107.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-152",
+          "doc_id": "DOC-CC-152",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.7,
+          "evidence_json": "[\"matching package/document number\"]",
+          "filename": "completion_certificate/DOC-CC-152.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-152",
+          "doc_id": "DOC-CCC-152",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-152\", \"Rs. 1.67 Crore\", \"17/02/2025\", \"CC/22/2025/152\"]",
+          "filename": "company_completion_certificate/DOC-CCC-152.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-152",
+          "doc_id": "DOC-REF-130",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\"]",
+          "filename": "reference_letter/DOC-REF-130.pdf",
+          "doc_type": "reference_letter"
+        }
+      ]
+    }
+  },
+  {
+    "qid": "HS-IC-0016",
+    "answer": 402000000,
+    "operation": "sum_client_excluding_category",
+    "evidence": {
+      "plan": {
+        "question": "Jharkhand Municipal Corporation; excluding roads maintenance, what’s the combined value of our completed assignments for them before we lock this bid?",
+        "operation": "sum_client_excluding_category",
+        "excluded_category": "roads maintenance"
+      },
+      "entities": {
+        "client": "Jharkhand Municipal Corporation"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-022",
+          "project": "RCC Bridge - Jharkhand Pkg-22",
+          "client": "Jharkhand Municipal Corporation",
+          "value_inr": 87400000,
+          "completion_date": "2013-06-01",
+          "category": "Bridges Flyovers",
+          "has_reference_letter": true,
+          "contractor_role": "JV Partner"
+        },
+        {
+          "project_id": "PRJ-072",
+          "project": "WTP Augmentation - Jharkhand Pkg-72",
+          "client": "Jharkhand Municipal Corporation",
+          "value_inr": 314600000,
+          "completion_date": "2010-12-11",
+          "category": "Water Treatment",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-022",
+          "doc_id": "DOC-CC-022",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-022.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-022",
+          "doc_id": "DOC-CCC-022",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-022\", \"INR 8.74 Cr\", \"01/06/2013\", \"CC/55/2013/022\"]",
+          "filename": "company_completion_certificate/DOC-CCC-022.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-022",
+          "doc_id": "DOC-REF-019",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-019.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-072",
+          "doc_id": "DOC-CC-072",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-072.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-072",
+          "doc_id": "DOC-CCC-072",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-072\", \"INR 31.46 Cr\", \"2010-12-11\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-072.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-072",
+          "doc_id": "DOC-REF-063",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-063.pdf",
+          "doc_type": "reference_letter"
+        }
+      ]
+    }
+  },
+  {
+    "qid": "HS-IC-0017",
+    "answer": 28700000,
+    "operation": "gap_to_threshold",
+    "evidence": {
+      "plan": {
+        "question": "Irrigation & Waterways Dept, Govt of Uttar Pradesh is the account under review, so how much additional work must we secure to reach our credential target of INR 20 Cr?",
+        "operation": "gap_to_threshold",
+        "threshold_inr": 200000000
+      },
+      "entities": {
+        "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-026",
+          "project": "Material Handling Plant - Uttar Pradesh Pkg-26",
+          "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+          "value_inr": 123300000,
+          "completion_date": "2025-07-16",
+          "category": "Industrial Epc",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-134",
+          "project": "Handpump Installation - Uttar Pradesh Pkg-134",
+          "client": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+          "value_inr": 48000000,
+          "completion_date": "2024-12-27",
+          "category": "Water Supply",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-026",
+          "doc_id": "DOC-CC-026",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-026.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-026",
+          "doc_id": "DOC-CCC-026",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-026\", \"Rs. 12.33 Crore\", \"2025-07-16\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-026.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-026",
+          "doc_id": "DOC-REF-023",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-023.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-134",
+          "doc_id": "DOC-CC-134",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-134.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-134",
+          "doc_id": "DOC-CCC-134",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-134\", \"Rs. 4.80 Crore\", \"2024-12-27\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-134.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-134",
+          "doc_id": "DOC-REF-118",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-118.pdf",
+          "doc_type": "reference_letter"
+        }
+      ],
+      "calculation": "200000000 - sum(values)"
+    }
+  },
+  {
+    "qid": "HS-IC-0018",
+    "answer": 84200000,
+    "operation": "largest_minus_second",
+    "evidence": {
+      "plan": {
+        "question": "Jal Nigam, Jharkhand, by how much does the largest completed work exceed the second largest?",
+        "operation": "largest_minus_second"
+      },
+      "entities": {
+        "client": "Jal Nigam, Jharkhand"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-012",
+          "project": "Material Handling Plant - Jharkhand Pkg-12",
+          "client": "Jal Nigam, Jharkhand",
+          "value_inr": 730200000,
+          "completion_date": "2020-07-27",
+          "category": "Industrial Epc",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-115",
+          "project": "Cable Stayed Bridge - Jharkhand Pkg-115",
+          "client": "Jal Nigam, Jharkhand",
+          "value_inr": 814400000,
+          "completion_date": "2018-02-23",
+          "category": "Large Bridges",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-131",
+          "project": "Pipeline Laying - Jharkhand Pkg-131",
+          "client": "Jal Nigam, Jharkhand",
+          "value_inr": 69200000,
+          "completion_date": "2021-08-17",
+          "category": "Water Supply",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-012",
+          "doc_id": "DOC-CC-012",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-012.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-012",
+          "doc_id": "DOC-CCC-012",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-012\", \"INR 73.02 Cr\", \"27/07/2020\", \"CC/7/2020/012\"]",
+          "filename": "company_completion_certificate/DOC-CCC-012.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-012",
+          "doc_id": "DOC-REF-011",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-011.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-115",
+          "doc_id": "DOC-CC-115",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-115.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-115",
+          "doc_id": "DOC-CCC-115",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-115\", \"INR 81.44 Cr\", \"23/02/2018\", \"CC/7/2018/115\"]",
+          "filename": "company_completion_certificate/DOC-CCC-115.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-131",
+          "doc_id": "DOC-CC-131",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-131.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-131",
+          "doc_id": "DOC-CCC-131",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-131\", \"Rs. 6.92 Crore\", \"17/08/2021\", \"CC/7/2021/131\"]",
+          "filename": "company_completion_certificate/DOC-CCC-131.pdf",
+          "doc_type": "company_completion_certificate"
+        }
+      ],
+      "calculation": "largest(values) - second_largest(values)"
+    }
+  },
+  {
+    "qid": "HS-IC-0019",
+    "answer": 227200000,
+    "operation": "largest_minus_second",
+    "evidence": {
+      "plan": {
+        "question": "Jharkhand Municipal Corporation, cross-checking against the portal, what is the difference between the largest work value and the second largest?",
+        "operation": "largest_minus_second"
+      },
+      "entities": {
+        "client": "Jharkhand Municipal Corporation"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-022",
+          "project": "RCC Bridge - Jharkhand Pkg-22",
+          "client": "Jharkhand Municipal Corporation",
+          "value_inr": 87400000,
+          "completion_date": "2013-06-01",
+          "category": "Bridges Flyovers",
+          "has_reference_letter": true,
+          "contractor_role": "JV Partner"
+        },
+        {
+          "project_id": "PRJ-072",
+          "project": "WTP Augmentation - Jharkhand Pkg-72",
+          "client": "Jharkhand Municipal Corporation",
+          "value_inr": 314600000,
+          "completion_date": "2010-12-11",
+          "category": "Water Treatment",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-153",
+          "project": "Rural Road Upgradation - Jharkhand Pkg-153",
+          "client": "Jharkhand Municipal Corporation",
+          "value_inr": 69500000,
+          "completion_date": "2017-11-03",
+          "category": "Roads Maintenance",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-022",
+          "doc_id": "DOC-CC-022",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-022.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-022",
+          "doc_id": "DOC-CCC-022",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-022\", \"INR 8.74 Cr\", \"01/06/2013\", \"CC/55/2013/022\"]",
+          "filename": "company_completion_certificate/DOC-CCC-022.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-022",
+          "doc_id": "DOC-REF-019",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-019.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-072",
+          "doc_id": "DOC-CC-072",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-072.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-072",
+          "doc_id": "DOC-CCC-072",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-072\", \"INR 31.46 Cr\", \"2010-12-11\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-072.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-072",
+          "doc_id": "DOC-REF-063",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-063.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-153",
+          "doc_id": "DOC-CC-153",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-153.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-153",
+          "doc_id": "DOC-CCC-153",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-153\", \"INR 6.95 Cr\", \"03/11/2017\", \"CC/55/2017/153\"]",
+          "filename": "company_completion_certificate/DOC-CCC-153.pdf",
+          "doc_type": "company_completion_certificate"
+        }
+      ],
+      "calculation": "largest(values) - second_largest(values)"
+    }
+  },
+  {
+    "qid": "HS-IC-0020",
+    "answer": 33.33,
+    "operation": "reference_share",
+    "evidence": {
+      "plan": {
+        "question": "Jal Nigam, Jharkhand is our starting point for the audit, so what whole number out of one hundred represents the defensible share of completed assignments that carry formal verification on file?",
+        "operation": "reference_share"
+      },
+      "entities": {
+        "client": "Jal Nigam, Jharkhand"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-012",
+          "project": "Material Handling Plant - Jharkhand Pkg-12",
+          "client": "Jal Nigam, Jharkhand",
+          "value_inr": 730200000,
+          "completion_date": "2020-07-27",
+          "category": "Industrial Epc",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-115",
+          "project": "Cable Stayed Bridge - Jharkhand Pkg-115",
+          "client": "Jal Nigam, Jharkhand",
+          "value_inr": 814400000,
+          "completion_date": "2018-02-23",
+          "category": "Large Bridges",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-131",
+          "project": "Pipeline Laying - Jharkhand Pkg-131",
+          "client": "Jal Nigam, Jharkhand",
+          "value_inr": 69200000,
+          "completion_date": "2021-08-17",
+          "category": "Water Supply",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-012",
+          "doc_id": "DOC-CC-012",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-012.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-012",
+          "doc_id": "DOC-CCC-012",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-012\", \"INR 73.02 Cr\", \"27/07/2020\", \"CC/7/2020/012\"]",
+          "filename": "company_completion_certificate/DOC-CCC-012.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-012",
+          "doc_id": "DOC-REF-011",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-011.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-115",
+          "doc_id": "DOC-CC-115",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-115.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-115",
+          "doc_id": "DOC-CCC-115",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-115\", \"INR 81.44 Cr\", \"23/02/2018\", \"CC/7/2018/115\"]",
+          "filename": "company_completion_certificate/DOC-CCC-115.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-131",
+          "doc_id": "DOC-CC-131",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-131.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-131",
+          "doc_id": "DOC-CCC-131",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-131\", \"Rs. 6.92 Crore\", \"17/08/2021\", \"CC/7/2021/131\"]",
+          "filename": "company_completion_certificate/DOC-CCC-131.pdf",
+          "doc_type": "company_completion_certificate"
+        }
+      ],
+      "calculation": "1 / 3 * 100"
+    }
+  },
+  {
+    "qid": "HS-IC-0021",
+    "answer": 66.67,
+    "operation": "reference_share",
+    "evidence": {
+      "plan": {
+        "question": "Jharkhand Municipal Corporation is where I am cross-checking our engagement history, so what number out of one hundred represents the count of assignments for that client that carry a reference letter divided by the total?",
+        "operation": "reference_share"
+      },
+      "entities": {
+        "client": "Jharkhand Municipal Corporation"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-022",
+          "project": "RCC Bridge - Jharkhand Pkg-22",
+          "client": "Jharkhand Municipal Corporation",
+          "value_inr": 87400000,
+          "completion_date": "2013-06-01",
+          "category": "Bridges Flyovers",
+          "has_reference_letter": true,
+          "contractor_role": "JV Partner"
+        },
+        {
+          "project_id": "PRJ-072",
+          "project": "WTP Augmentation - Jharkhand Pkg-72",
+          "client": "Jharkhand Municipal Corporation",
+          "value_inr": 314600000,
+          "completion_date": "2010-12-11",
+          "category": "Water Treatment",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-153",
+          "project": "Rural Road Upgradation - Jharkhand Pkg-153",
+          "client": "Jharkhand Municipal Corporation",
+          "value_inr": 69500000,
+          "completion_date": "2017-11-03",
+          "category": "Roads Maintenance",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-022",
+          "doc_id": "DOC-CC-022",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-022.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-022",
+          "doc_id": "DOC-CCC-022",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-022\", \"INR 8.74 Cr\", \"01/06/2013\", \"CC/55/2013/022\"]",
+          "filename": "company_completion_certificate/DOC-CCC-022.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-022",
+          "doc_id": "DOC-REF-019",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-019.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-072",
+          "doc_id": "DOC-CC-072",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-072.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-072",
+          "doc_id": "DOC-CCC-072",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-072\", \"INR 31.46 Cr\", \"2010-12-11\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-072.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-072",
+          "doc_id": "DOC-REF-063",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-063.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-153",
+          "doc_id": "DOC-CC-153",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-153.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-153",
+          "doc_id": "DOC-CCC-153",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-153\", \"INR 6.95 Cr\", \"03/11/2017\", \"CC/55/2017/153\"]",
+          "filename": "company_completion_certificate/DOC-CCC-153.pdf",
+          "doc_type": "company_completion_certificate"
+        }
+      ],
+      "calculation": "2 / 3 * 100"
+    }
+  },
+  {
+    "qid": "HS-IC-0022",
+    "answer": 157300000,
+    "operation": "sum_client_role",
+    "evidence": {
+      "plan": {
+        "question": "Public Health Engineering Dept, Gujarat; as Prime—what’s the final contract value we need to lock in before the 3pm cutoff?",
+        "operation": "sum_client_role",
+        "role": "Prime"
+      },
+      "entities": {
+        "client": "Public Health Engineering Dept, Gujarat"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-066",
+          "project": "STP - Gujarat Pkg-66",
+          "client": "Public Health Engineering Dept, Gujarat",
+          "value_inr": 134000000,
+          "completion_date": "2017-07-04",
+          "category": "Sewerage Drainage",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-135",
+          "project": "Drainage Works - Gujarat Pkg-135",
+          "client": "Public Health Engineering Dept, Gujarat",
+          "value_inr": 23300000,
+          "completion_date": "2010-10-16",
+          "category": "Roads Maintenance",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-066",
+          "doc_id": "DOC-BOND-00066",
+          "relationship": "PERFORMANCE_BOND",
+          "confidence": 0.8,
+          "evidence_json": "[\"document numeric suffix\", \"BND-00066 Issue Date: 2020-08-09\"]",
+          "filename": "performance_bond/DOC-BOND-00066.pdf",
+          "doc_type": "performance_bond"
+        },
+        {
+          "project_id": "PRJ-066",
+          "doc_id": "DOC-CC-066",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-066.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-066",
+          "doc_id": "DOC-CCC-066",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-066\", \"INR 13.40 Cr\", \"2017-07-04\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-066.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-066",
+          "doc_id": "DOC-REF-058",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-058.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-135",
+          "doc_id": "DOC-CC-135",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-135.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-135",
+          "doc_id": "DOC-CCC-135",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-135\", \"INR 2.33 Cr\", \"16/10/2010\", \"CC/40/2010/135\"]",
+          "filename": "company_completion_certificate/DOC-CCC-135.pdf",
+          "doc_type": "company_completion_certificate"
+        }
+      ]
+    }
+  },
+  {
+    "qid": "HS-IC-0023",
+    "answer": 384100000,
+    "operation": "sum_client_role",
+    "evidence": {
+      "plan": {
+        "question": "Jharkhand Municipal Corporation; as Prime—what’s the defensible aggregate value we should report for the completed scope?",
+        "operation": "sum_client_role",
+        "role": "Prime"
+      },
+      "entities": {
+        "client": "Jharkhand Municipal Corporation"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-072",
+          "project": "WTP Augmentation - Jharkhand Pkg-72",
+          "client": "Jharkhand Municipal Corporation",
+          "value_inr": 314600000,
+          "completion_date": "2010-12-11",
+          "category": "Water Treatment",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-153",
+          "project": "Rural Road Upgradation - Jharkhand Pkg-153",
+          "client": "Jharkhand Municipal Corporation",
+          "value_inr": 69500000,
+          "completion_date": "2017-11-03",
+          "category": "Roads Maintenance",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-072",
+          "doc_id": "DOC-CC-072",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-072.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-072",
+          "doc_id": "DOC-CCC-072",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-072\", \"INR 31.46 Cr\", \"2010-12-11\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-072.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-072",
+          "doc_id": "DOC-REF-063",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-063.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-153",
+          "doc_id": "DOC-CC-153",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-153.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-153",
+          "doc_id": "DOC-CCC-153",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-153\", \"INR 6.95 Cr\", \"03/11/2017\", \"CC/55/2017/153\"]",
+          "filename": "company_completion_certificate/DOC-CCC-153.pdf",
+          "doc_type": "company_completion_certificate"
+        }
+      ]
+    }
+  },
+  {
+    "qid": "HS-IC-0024",
+    "answer": 1544600000,
+    "operation": "sum_client_above_threshold",
+    "evidence": {
+      "plan": {
+        "question": "Jal Nigam, Jharkhand, what’s the combined value of their works crossing the seventy-three crore mark so I can lock the bid before the deadline?",
+        "operation": "sum_client_above_threshold",
+        "threshold_inr": 730000000
+      },
+      "entities": {
+        "client": "Jal Nigam, Jharkhand"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-012",
+          "project": "Material Handling Plant - Jharkhand Pkg-12",
+          "client": "Jal Nigam, Jharkhand",
+          "value_inr": 730200000,
+          "completion_date": "2020-07-27",
+          "category": "Industrial Epc",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-115",
+          "project": "Cable Stayed Bridge - Jharkhand Pkg-115",
+          "client": "Jal Nigam, Jharkhand",
+          "value_inr": 814400000,
+          "completion_date": "2018-02-23",
+          "category": "Large Bridges",
+          "has_reference_letter": false,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-012",
+          "doc_id": "DOC-CC-012",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-012.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-012",
+          "doc_id": "DOC-CCC-012",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-012\", \"INR 73.02 Cr\", \"27/07/2020\", \"CC/7/2020/012\"]",
+          "filename": "company_completion_certificate/DOC-CCC-012.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-012",
+          "doc_id": "DOC-REF-011",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"partial normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-011.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-115",
+          "doc_id": "DOC-CC-115",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-115.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-115",
+          "doc_id": "DOC-CCC-115",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-115\", \"INR 81.44 Cr\", \"23/02/2018\", \"CC/7/2018/115\"]",
+          "filename": "company_completion_certificate/DOC-CCC-115.pdf",
+          "doc_type": "company_completion_certificate"
+        }
+      ]
+    }
+  },
+  {
+    "qid": "HS-IC-0025",
+    "answer": 634500000,
+    "operation": "sum_client_above_threshold",
+    "evidence": {
+      "plan": {
+        "question": "Maharashtra Municipal Corporation, what’s the aggregate of their contracts hitting the six crore line so I can lock the pricing before the cutoff?",
+        "operation": "sum_client_above_threshold",
+        "threshold_inr": 60000000
+      },
+      "entities": {
+        "client": "Maharashtra Municipal Corporation"
+      },
+      "values": [
+        {
+          "project_id": "PRJ-050",
+          "project": "RCC Bridge - Maharashtra Pkg-50",
+          "client": "Maharashtra Municipal Corporation",
+          "value_inr": 573700000,
+          "completion_date": "2021-02-28",
+          "category": "Bridges Flyovers",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        },
+        {
+          "project_id": "PRJ-096",
+          "project": "Material Handling Plant - Maharashtra Pkg-96",
+          "client": "Maharashtra Municipal Corporation",
+          "value_inr": 60800000,
+          "completion_date": "2013-05-04",
+          "category": "Industrial Epc",
+          "has_reference_letter": true,
+          "contractor_role": "Prime"
+        }
+      ],
+      "documents": [
+        {
+          "project_id": "PRJ-050",
+          "doc_id": "DOC-CC-050",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-050.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-050",
+          "doc_id": "DOC-CCC-050",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-050\", \"Rs. 57.37 Crore\", \"2021-02-28\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-050.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-050",
+          "doc_id": "DOC-REF-043",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-043.pdf",
+          "doc_type": "reference_letter"
+        },
+        {
+          "project_id": "PRJ-096",
+          "doc_id": "DOC-CC-096",
+          "relationship": "COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"matching package/document number\", \"exact normalized project name\", \"matching contract value\", \"matching client\"]",
+          "filename": "completion_certificate/DOC-CC-096.pdf",
+          "doc_type": "completion_certificate"
+        },
+        {
+          "project_id": "PRJ-096",
+          "doc_id": "DOC-CCC-096",
+          "relationship": "COMPANY_COMPLETION_CERTIFICATE",
+          "confidence": 0.99,
+          "evidence_json": "[\"DOC-CCC-096\", \"INR 6.08 Cr\", \"2013-05-04\", null]",
+          "filename": "company_completion_certificate/DOC-CCC-096.pdf",
+          "doc_type": "company_completion_certificate"
+        },
+        {
+          "project_id": "PRJ-096",
+          "doc_id": "DOC-REF-086",
+          "relationship": "REFERENCE_LETTER",
+          "confidence": 0.85,
+          "evidence_json": "[\"matching package/document number\", \"matching client\"]",
+          "filename": "reference_letter/DOC-REF-086.pdf",
+          "doc_type": "reference_letter"
+        }
+      ]
+    }
+  }
+]

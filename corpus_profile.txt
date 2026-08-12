@@ -1,0 +1,37 @@
+Documents: 687
+By extension: pdf=678, xlsx=9
+By type:
+  ageing_workbook: 1 docs, 28042 bytes total, min 28042, max 28042
+  annual_report: 2 docs, 238896 bytes total, min 118743, max 120153
+  asset_register_workbook: 1 docs, 15421 bytes total, min 15421, max 15421
+  bank_statement: 8 docs, 273747 bytes total, min 19666, max 45692
+  boq_workbook: 6 docs, 59172 bytes total, min 8901, max 10902
+  company_completion_certificate: 155 docs, 5247688 bytes total, min 12629, max 53708
+  completion_certificate: 155 docs, 12990224 bytes total, min 23867, max 144673
+  compliance_matrix: 40 docs, 1653468 bytes total, min 19566, max 65349
+  cv: 39 docs, 2342127 bytes total, min 59866, max 60355
+  final_ra_bill: 6 docs, 409156 bytes total, min 57862, max 79025
+  financial_statement: 7 docs, 433395 bytes total, min 34085, max 91814
+  general_ledger_book: 8 docs, 1286187 bytes total, min 33422, max 251996
+  iso_certificate: 5 docs, 292522 bytes total, min 47368, max 65096
+  past_performance_portfolio: 1 docs, 134300 bytes total, min 134300, max 134300
+  performance_bond: 60 docs, 4175516 bytes total, min 26177, max 133467
+  personnel_certificate: 48 docs, 2142855 bytes total, min 38156, max 48953
+  ra_bill: 6 docs, 178908 bytes total, min 29688, max 29900
+  reference_letter: 132 docs, 6422149 bytes total, min 11894, max 103482
+  tender_dossier: 6 docs, 889985 bytes total, min 147906, max 148507
+  trial_balance_workbook: 1 docs, 17948 bytes total, min 17948, max 17948
+Extraction methods:
+  openpyxl: 9
+  pdfplumber: 678
+Low-quality extraction count: 0
+Workbook sheets:
+  DOC-XL-AGEING: AR Ageing, Notes (AR Ageing=520x7, Notes=3x1)
+  DOC-XL-ASSETS: Plant Register, Notes (Plant Register=212x9, Notes=3x1)
+  DOC-XL-BOQ-071: BOQ, Measurements, Notes (BOQ=9x6, Measurements=72x6, Notes=4x1)
+  DOC-XL-BOQ-072: BOQ, Measurements, Notes (BOQ=8x6, Measurements=46x6, Notes=4x1)
+  DOC-XL-BOQ-073: BOQ, Measurements, Notes (BOQ=9x6, Measurements=56x6, Notes=4x1)
+  DOC-XL-BOQ-074: BOQ, Measurements, Notes (BOQ=10x6, Measurements=92x6, Notes=4x1)
+  DOC-XL-BOQ-075: BOQ, Measurements, Notes (BOQ=11x6, Measurements=94x6, Notes=4x1)
+  DOC-XL-BOQ-079: BOQ, Measurements, Notes (BOQ=8x6, Measurements=59x6, Notes=4x1)
+  DOC-XL-TB: TB 2019-20, TB 2020-21, TB 2021-22, TB 2022-23, TB 2023-24, TB 2024-25, TB 2025-26, Notes (TB 2019-20=26x4, TB 2020-21=28x4, TB 2021-22=31x4, TB 2022-23=32x4, TB 2023-24=30x4, TB 2024-25=30x4, TB 2025-26=31x4, Notes=3x1)
